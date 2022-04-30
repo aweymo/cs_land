@@ -6,17 +6,17 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: uBuild <br>"Uncle Sam Sees The Danger"
+  content: Illustration Depicting Uncle Sam closing gates on a group of immigrants
+    identified as Italian, Norwegian and Chinese
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2022/04/30/as021901.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2022/04/30/as021901.png"
 - template: 2-column-text
   block: two-column-1
   col_1:
