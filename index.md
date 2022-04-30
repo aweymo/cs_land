@@ -14,7 +14,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2022/04/30/as021901.png"
+    image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/04/30/as021901.png"
 - template: 2-column-text
