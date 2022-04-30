@@ -6,16 +6,16 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br>"Uncle Sam Sees The Danger"
-  content: Illustration Depicting Uncle Sam closing gates on a group of immigrants
-    identified as Italian, Norwegian and Chinese
+  headline: "<strong>Mapping Language:<br>Representation of Immigrant Communities
+    in the Pacific Northwest, 1880-1930</strong>"
+  content: Andrew Weymouth 2022 Capstone for the University of Washington
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2022/04/30/as021901.png"
-    alt_text: Product Shot
+    alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/04/30/as021901.png"
 - template: 2-column-text
   block: two-column-1
