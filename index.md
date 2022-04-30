@@ -10,7 +10,7 @@ page_sections:
     in the Pacific Northwest, 1880-1930</strong>"
   content: Andrew Weymouth 2022 Capstone for the University of Washington
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
