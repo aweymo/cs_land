@@ -321,7 +321,7 @@ page_sections:
       design of this project.
 - template: hero-banner-w-image
   block: hero-2
-  headline: Endnotes
+  headline: "<strong>Endnotes</strong>"
   content: '<span class="s1">1</span> “Victory to Mean Blow to Industry. Repeal of
     Tolls - Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page 2,”
     n.d., 1.<br><br><span class="s1">2</span> “Characteristics of Chinese Laborers
