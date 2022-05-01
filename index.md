@@ -40,7 +40,7 @@ page_sections:
   slug: tag.2
   content: ''
   media:
-    image: "/uploads/2022/05/01/ten_15101901_b.png"
+    image: "/uploads/2022/05/01/ten_15101901_c.png"
     alt_text: Tacoma Evening News
 - template: hero-banner-w-image
   block: hero-2
