@@ -263,24 +263,20 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    slug: m3
-    content: <span class="s1"><br></span>
-    headline: 'Informed by these archival collections, historic newspapers, periodicals
-      and legacy oral history recordings I gathered at the archives, I wanted to text
-      mine media representation of the following communities of interest:'
-  col_2:
-    headline: ''
-    slug: m4
-    content: <span class="s1">Black<br><br>Chinese<br><br>Filipino<br><br>Finnish<br><br>German<br><br>Greek<br><br>South
-      Asian ("Hindu")<br></span>
-  col_3:
-    headline: ''
-    slug: m5
-    content: <span class="s1">Irish<br><br>Italian<br><br>Japanese<br><br>Korean<br><br>Native
-      American<br><br>Norwegian<br><br>Polish<br></span>
+- template: hero-banner-w-image
+  block: hero-2
+  headline: "<strong>Informed by these archival collections, historic newspapers,
+    periodicals and legacy oral history recordings I gathered at the archives, I wanted
+    to text mine media representation of the following communities of interest:</strong>"
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
