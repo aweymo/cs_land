@@ -294,12 +294,7 @@ page_sections:
   block: one-column-1
   slug: find
   headline: blacktm1
-  content: <span class="s1">&lt;div</span><span class="s2"> </span><span class="s3">class=</span>"embed-responsive
-    embed-responsive-1by1"<span class="s1">&gt;&lt;iframe</span><span class="s2">
-    </span><span class="s3">class=</span>"embed-responsive-item"<span class="s2">
-    </span><span class="s3">src=</span>"'<a href="https://voyant-tools.org/tool/Bubbles/?stopList=keywords-2ab3dcd9ea8c051cdd0b9703972fc703&amp;corpus=4e047055ee11c4a9101b6aad4b1d04ee"
-    title="https://voyant-tools.org/tool/Bubbles/?stopList=keywords-2ab3dcd9ea8c051cdd0b9703972fc703&amp;corpus=4e047055ee11c4a9101b6aad4b1d04ee">https://voyant-tools.org/tool/Bubbles/?stopList=keywords-2ab3dcd9ea8c051cdd0b9703972fc703&amp;corpus=4e047055ee11c4a9101b6aad4b1d04ee</a>"<span
-    class="s1">&gt;&lt;/iframe&gt;</span>&lt;/div&gt;
+  content: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
