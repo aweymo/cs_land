@@ -282,7 +282,7 @@ page_sections:
     headline: ''
     slug: m5
     content: <span class="s1">Irish<br><br>Italian<br><br>Japanese<br><br>Korean<br><br>Native
-      American<br><br>Polish<br></span>
+      American<br><br>Norwegian<br><br>Polish<br></span>
 - template: 2-column-text
   block: two-column-1
   col_1:
