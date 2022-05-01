@@ -31,6 +31,18 @@ page_sections:
     headline: OH(as)Data Oral History Repository
     slug: oh_repo
     content: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/04/30/ten12091903.png"
+  image:
+    image: ''
+    alt_text: '"1903 Prosperity Edition" Tacoma Evening News 1903-01-12'
+  headline: "<strong>Introduction</strong>"
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -41,18 +53,6 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
