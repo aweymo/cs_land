@@ -17,13 +17,6 @@ page_sections:
     image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/04/30/as021901.png"
-- template: 1-column-text
-  block: one-column-1
-  content: "<strong>Developing language used to describe immigrant groups in the Pacific
-    Northwest from 1880-1930, reflects labor, industrial and land development interests,
-    which may still impact these communities today.</strong>"
-  headline: ''
-  slug: tag
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -58,7 +51,11 @@ page_sections:
     image: ''
     alt_text: '"1903 Prosperity Edition" Tacoma Evening News 1903-01-12'
   headline: "<strong>Introduction</strong>"
-  content: ''
+  content: This Capstone will collect, analyze and map historical language in newspapers,
+    periodicals, legacy oral history recordings and archival collections describing
+    immigrant communities in Washington and Oregon and visualize these trends in language
+    and how they may have been influenced by specific commercial interests in the
+    nineteenth and twentieth centuries.
   cta:
     enabled: false
     url: ''
