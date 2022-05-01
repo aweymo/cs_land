@@ -193,5 +193,12 @@ page_sections:
     image: "/uploads/2022/04/30/tt30101897.png"
     alt_text: "Tacoma Tidende\t1897-10-30\tFront page of Tacoma  Tidende, \"The Bidding
       Stick.\""
+- template: 1-column-text
+  block: one-column-1
+  headline: Glossary
+  slug: gl
+  content: Although there is a massive amount of change happening during the time
+    span of this research project, there are a few repeating organizations, laws and
+    events which surface in the research material which may be obscure to researchers.
 
 ---
