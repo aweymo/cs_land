@@ -17,6 +17,20 @@ page_sections:
     image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/04/30/as021901.png"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: 'Historical Network Visualization '
+    slug: HNV
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -39,20 +53,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-  col_3:
-    headline: ''
-    slug: ''
-    content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
