@@ -6,8 +6,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Mapping Language:<br>Representation of Immigrant Communities
-    in the Pacific Northwest, 1880-1930</strong>"
+  headline: "<strong>Mapping Language:<br></strong>Representation of Immigrant Communities
+    in the Pacific Northwest, 1880-1930"
   content: Andrew Weymouth 2022 Capstone for the University of Washington
   cta:
     enabled: false
