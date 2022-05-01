@@ -240,8 +240,8 @@ page_sections:
     image: ''
     alt_text: ''
   content: historic newspapers, periodicals and legacy oral history recordings I gathered
-    at the archives, I selected the following communities to examine through text
-    mining:<br><br>- <span class="s1">Black<br>- Chinese<br>- Filipino<br>- Finnish<br>-
+    at the Northwest Room, I selected the following communities to examine through
+    text mining:<br><br>- <span class="s1">Black<br>- Chinese<br>- Filipino<br>- Finnish<br>-
     German<br>- Greek<br>- South Asian<br>- Irish<br>- Italian<br>- Japanese<br>-
     Korean<br>- Native American<br>- Norwegian<br>- Polish</span>
   cta:
