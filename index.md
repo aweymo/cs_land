@@ -602,55 +602,56 @@ page_sections:
   col_2:
     headline: ''
     slug: tm3
-    content: German<br><br>“40 German Immigrants, Albany Notes - Oregonian (Published
-      as Morning Oregonian) - October 9, 1886 - Page 4,” n.d., 1.“Accident Overtakes
-      Fleeing Grafter - Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - November
-      28, 1907 - Page 3,” n.d., 1.“Berne Conference Deemed Hun-Made. American Labor
-      - Oregonian (Published as Morning Oregonian) - February 5, 1919 - Page [1],
-      3,” n.d., 2.“Cleaning The City Work Of The Sanitary Corps King - Oregonian (Published
-      as Morning Oregonian.) - September 17, 1892 - Page 10,” n.d., 1.“Competition
-      And Foreign Trade - Oregonian (Published as Morning Oregonian.) - April 9, 1903
-      - Page 8,” n.d., 1.“Concerning New York. Can the Democratic Free - Oregonian
-      (Published as Morning Oregonian) - August 9, 1888 - Page 6,” n.d., 1.“Discharged
-      Laborers Appeal - Oregonian (Published as Morning Oregonian) - January 9, 1908
-      - Page 11,” n.d., 1.“German Labor Attacked. Workmen Alleged Demoralized - Oregonian
-      (Published as Morning Oregonian) - November 7, 1920 - Page 4,” n.d., 1.“German
-      Labor Explains Unrepentant Attitude Is - Oregonian - July 31, 1919 - Page 2,”
-      n.d., 1.“German Labor Hit. Own Press Is Evidence. Says - Oregonian (Published
-      as Morning Oregonian) - December 27, 1914 - Page 6,” n.d., 1.“German Labor Is
-      Firm Samuel Gompers And Teuton - Oregonian - February 20, 1917 - Page 3,” n.d.,
-      1.“Germans In The United States - Oregonian (Published as The Sunday Oregonian.)
-      - December 28, 1884 - Page 4,” n.d., 1.“Germans Would Come to America - Oregonian
-      (Published as Morning Oregonian) - April 18, 1919 - Page 19,” n.d., 1.“Gompers
-      Blames German Workers. Labor Failed in - Oregonian (Published as Morning Oregonian)
-      - June 15, 1921 - Page [1], 2,” n.d., 2.“Knocks at Our Doors. Dread Pestilence
-      Is Without - Tacoma Daily News - September 10, 1892 - Page [1],” n.d., 1.“Make
-      Hun Work as Well as Pay - Oregonian (Published as Morning Oregonian) - October
-      28, 1918 - Page Copy of 6,” n.d., 1.“May Day Strikes Are Called Off German Labor
-      Day, - Oregonian - April 28, 1918 - Page 1,” n.d., 1.“Merican Labor In War -
-      Oregonian - June 29, 1918 - Page 11,” n.d., 1.“Migratory Population - Oregonian
-      (Published as Morning Oregonian.) - May 9, 1895 - Page 4,” n.d., 1.“Mr. Pracht
-      Answered. The Study of Languages Not a - Oregonian (Published as Morning Oregonian.)
-      - January 24, 1894 - Page 4,” n.d., 1.“N Exaggerated Danger - Oregonian (Published
-      as Morning Oregonian) - December 28, 1887 - Page 2,” n.d., 1.“Northwest Brevities
-      - Oregonian (Published as Morning Oregonian) - February 21, 1908 - Page 13,”
-      n.d., 1.“Peace Plan Failure Gompers Against Participation - Oregonian - May
-      25, 1917 - Page 3,” n.d., 1.“Polk County News - Oregonian (Published as Morning
-      Oregonian.) - November 8, 1889 - Page 2,” n.d., 1.“[Prussian; Chinese; American
-      - Tacoma Daily News - February 14, 1898 - Page [2],” n.d., 1.“Rapid Americanization
-      - Oregonian (Published as Morning Oregonian) - June 14, 1881 - Page 2,” n.d.,
-      1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - December 20,
-      1923 - Page 20,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
-      TIMES) - February 9, 1905 - Page 1,” n.d., 1.“Seattle Daily Times (Published
-      as THE SEATTLE DAILY TIMES) - June 20, 1918 - Page 11,” n.d., 1.“Seattle Post-Intelligencer
-      (Published as The Seattle Post-Intelligencer.) - March 29, 1903 - Page 43,”
-      n.d., 1.“Sheriff Nabs Three Wobblies - Seattle Post-Intelligencer - March 30,
-      1922 - Page 7,” n.d., 1.“Steamers Are Short Alaska Trade Interferes With - Oregonian
-      (Published as Morning Oregonian) - August 11, 1897 - Page 7,” n.d., 1.“Sugar
-      Duty Cut Half. The Republican Tariff Bill - Oregonian (Published as Morning
-      Oregonian.) - March 18, 1890 - Page 2,” n.d., 1.“Tacoma Daily News (Published
-      as THE TACOMA DAILY NEWS) - November 30, 1907 - Page 2,” n.d., 1.“Terrible Discovery.
-      A Husband and Wife Prove to - Morning Olympian (Published as The Morning Olympian-Tribune)
+    content: <strong>German</strong><br><br>“40 German Immigrants, Albany Notes -
+      Oregonian (Published as Morning Oregonian) - October 9, 1886 - Page 4,” n.d.,
+      1.“Accident Overtakes Fleeing Grafter - Tacoma Daily News (Published as THE
+      TACOMA DAILY NEWS) - November 28, 1907 - Page 3,” n.d., 1.“Berne Conference
+      Deemed Hun-Made. American Labor - Oregonian (Published as Morning Oregonian)
+      - February 5, 1919 - Page [1], 3,” n.d., 2.“Cleaning The City Work Of The Sanitary
+      Corps King - Oregonian (Published as Morning Oregonian.) - September 17, 1892
+      - Page 10,” n.d., 1.“Competition And Foreign Trade - Oregonian (Published as
+      Morning Oregonian.) - April 9, 1903 - Page 8,” n.d., 1.“Concerning New York.
+      Can the Democratic Free - Oregonian (Published as Morning Oregonian) - August
+      9, 1888 - Page 6,” n.d., 1.“Discharged Laborers Appeal - Oregonian (Published
+      as Morning Oregonian) - January 9, 1908 - Page 11,” n.d., 1.“German Labor Attacked.
+      Workmen Alleged Demoralized - Oregonian (Published as Morning Oregonian) - November
+      7, 1920 - Page 4,” n.d., 1.“German Labor Explains Unrepentant Attitude Is -
+      Oregonian - July 31, 1919 - Page 2,” n.d., 1.“German Labor Hit. Own Press Is
+      Evidence. Says - Oregonian (Published as Morning Oregonian) - December 27, 1914
+      - Page 6,” n.d., 1.“German Labor Is Firm Samuel Gompers And Teuton - Oregonian
+      - February 20, 1917 - Page 3,” n.d., 1.“Germans In The United States - Oregonian
+      (Published as The Sunday Oregonian.) - December 28, 1884 - Page 4,” n.d., 1.“Germans
+      Would Come to America - Oregonian (Published as Morning Oregonian) - April 18,
+      1919 - Page 19,” n.d., 1.“Gompers Blames German Workers. Labor Failed in - Oregonian
+      (Published as Morning Oregonian) - June 15, 1921 - Page [1], 2,” n.d., 2.“Knocks
+      at Our Doors. Dread Pestilence Is Without - Tacoma Daily News - September 10,
+      1892 - Page [1],” n.d., 1.“Make Hun Work as Well as Pay - Oregonian (Published
+      as Morning Oregonian) - October 28, 1918 - Page Copy of 6,” n.d., 1.“May Day
+      Strikes Are Called Off German Labor Day, - Oregonian - April 28, 1918 - Page
+      1,” n.d., 1.“Merican Labor In War - Oregonian - June 29, 1918 - Page 11,” n.d.,
+      1.“Migratory Population - Oregonian (Published as Morning Oregonian.) - May
+      9, 1895 - Page 4,” n.d., 1.“Mr. Pracht Answered. The Study of Languages Not
+      a - Oregonian (Published as Morning Oregonian.) - January 24, 1894 - Page 4,”
+      n.d., 1.“N Exaggerated Danger - Oregonian (Published as Morning Oregonian) -
+      December 28, 1887 - Page 2,” n.d., 1.“Northwest Brevities - Oregonian (Published
+      as Morning Oregonian) - February 21, 1908 - Page 13,” n.d., 1.“Peace Plan Failure
+      Gompers Against Participation - Oregonian - May 25, 1917 - Page 3,” n.d., 1.“Polk
+      County News - Oregonian (Published as Morning Oregonian.) - November 8, 1889
+      - Page 2,” n.d., 1.“[Prussian; Chinese; American - Tacoma Daily News - February
+      14, 1898 - Page [2],” n.d., 1.“Rapid Americanization - Oregonian (Published
+      as Morning Oregonian) - June 14, 1881 - Page 2,” n.d., 1.“Seattle Daily Times
+      (Published as THE SEATTLE DAILY TIMES) - December 20, 1923 - Page 20,” n.d.,
+      1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - February 9,
+      1905 - Page 1,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
+      TIMES) - June 20, 1918 - Page 11,” n.d., 1.“Seattle Post-Intelligencer (Published
+      as The Seattle Post-Intelligencer.) - March 29, 1903 - Page 43,” n.d., 1.“Sheriff
+      Nabs Three Wobblies - Seattle Post-Intelligencer - March 30, 1922 - Page 7,”
+      n.d., 1.“Steamers Are Short Alaska Trade Interferes With - Oregonian (Published
+      as Morning Oregonian) - August 11, 1897 - Page 7,” n.d., 1.“Sugar Duty Cut Half.
+      The Republican Tariff Bill - Oregonian (Published as Morning Oregonian.) - March
+      18, 1890 - Page 2,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY
+      NEWS) - November 30, 1907 - Page 2,” n.d., 1.“Terrible Discovery. A Husband
+      and Wife Prove to - Morning Olympian (Published as The Morning Olympian-Tribune)
       - April 7, 1893 - Page [1],” n.d., 1.“Teuton Red Taken in Portland Raid Secretary
       of Hun - Oregonian (Published as Morning Oregonian.) - November 13, 1919 - Page
       [1], 6,” n.d., 1.“The American Language - Oregonian (Published as Morning Oregonian)
@@ -658,7 +659,7 @@ page_sections:
       as Morning Oregonian) - August 31, 1896 - Page 4,” n.d., 1.“The Buyer Also Profits.
       Sales to Germany Are - Oregonian (Published as Morning Oregonian) - August 31,
       1901 - Page 5,” n.d., 1.“This Looks Better Blocked At New York’s Gates - Oregonian
-      (Published as Morning Oregonian.) - September 7, 1892 - Page 2,” n.d., 1.<br><br>Greek<br><br>“A
+      (Published as Morning Oregonian.) - September 7, 1892 - Page 2,” n.d., 1.<br><br><strong>Greek</strong><br><br>“A
       Lesson in Anarchy - Oregonian (Published as Morning Oregonian) - July 16, 1908
       - Page 8,” n.d., 1.“Aliens Wait Postal Bank Greek Foreman Says - Oregonian (Published
       as Morning Oregonian) - October 18, 1910 - Page 12,” n.d., 1.“Centralia Americans
@@ -721,177 +722,179 @@ page_sections:
       Score Are Injured Mangled Bodies of Greek - Oregonian (Published as Morning
       Oregonian.) - March 2, 1907 - Page 1,” n.d., 1.“Woman Killed in Riot - Tacoma
       Daily News (Published as THE TACOMA DAILY NEWS) - October 11, 1905 - Page 1,”
-      n.d., 1.<br><br>South Asian<br><br>“400 Hear Chamberlain. Senator in Closing
-      Campaign - Oregonian (Published as Morning Oregonian) - November 3, 1914 - Page
-      4,” n.d., 1.“Bishop A Dreamer Labor Leaders Think Yellow Peril - Oregonian (Published
-      as Morning Oregonian) - September 27, 1907 - Page 12,” n.d., 2.“Contract Labor.
-      Indian Hop Pickers Cannot Come - Tacoma Daily News - August 24, 1892 - Page
-      5,” n.d., 1.“Driven to Use of Orientals - Seattle Daily Times (Published as
-      THE SEATTLE DAILY TIMES) - August 13, 1907 - Page 10,” n.d., 1.“Hindu Held for
-      Murder. Man Caught Boarding Trans- - Oregonian (Published as Morning Oregonian)
-      - March 31, 1920 - Page 2,” n.d., 1.“Hindu Peril Said to Be Threatening Anthony
-      - Oregonian (Published as Morning Oregonian) - December 9, 1913 - Page 12,”
-      n.d., 1.“Hindus Leave Grays Harbor - Seattle Daily Times (Published as THE SEATTLE
-      DAILY TIMES) - September 18, 1907 - Page 2,” n.d., 1.“Hindus Must Go, Is Slogan
-      of New Union - Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
-      - August 16, 1907 - Page 11,” n.d., 1.“How You Lose - Oregonian (Published as
-      Morning Oregonian) - November 1, 1914 - Page 6,” n.d., 1.“Literary Bill Ready.
-      Efforts Aimed at ‘Asiatics’ - Oregonian (Published as Morning Oregonian) - December
-      14, 1913 - Page 8,” n.d., 1.“Many Are Rejected. Precautions Being Taken in -
-      Oregonian (Published as Morning Oregonian) - June 10, 1910 - Page 16,” n.d.,
-      1.“Mill Workers Ask Employers to Do Away with Hindus - Seattle Post-Intelligencer
-      (Published as The Seattle Post-Intelligencer.) - October 1, 1907 - Page 10,”
-      n.d., 1.“Mill’s Fate Rests on Hughes Victory Eugene Man - Oregonian (Published
-      as Morning Oregonian) - August 15, 1916 - Page [1],” n.d., 1.“More Letters by
-      Laymen Place Public Opinion to - Oregonian (Published as Morning Oregonian)
-      - October 17, 1915 - Page 9,” n.d., 1.“Protect Our Lumber - Tacoma Daily News
-      (Published as THE TACOMA DAILY NEWS) - October 21, 1908 - Page 6,” n.d., 1.“Seattle
-      Daily Times (Published as THE SEATTLE DAILY TIMES) - August 16, 1907 - Page
-      10,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - August
-      28, 1922 - Page 7,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
-      TIMES) - June 1, 1910 - Page 4,” n.d., 1.“Seattle Daily Times (Published as
-      THE SEATTLE DAILY TIMES) - November 28, 1913 - Page 19,” n.d., 1.“Seattle Daily
-      Times (Published as THE SEATTLE DAILY TIMES) - September 12, 1907 - Page 2,”
-      n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - September
-      12, 1910 - Page 4,” n.d., 1.“Seattle Daily Times (Published as The Seattle Sunday
-      Times.) - November 1, 1914 - Page 44,” n.d., 1.“Seattle Daily Times (Published
-      as The Seattle Sunday Times.) - September 4, 1910 - Page 4,” n.d., 1.“Seattle
-      Post-Intelligencer (Published as THE POST-INTELLIGENCER) - November 2, 1916
-      - Page 10,” n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
-      - December 14, 1913 - Page 8,” n.d., 1.“Seattle Post-Intelligencer (Published
-      as The Seattle Post-Intelligencer.) - December 20, 1907 - Page 15,” n.d., 1.“Seattle
-      Post-Intelligencer (Published as The Seattle Post-Intelligencer.) - July 23,
-      1907 - Page 13,” n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle
-      Post-Intelligencer.) - May 19, 1913 - Page 10,” n.d., 1.“Seattle Post-Intelligencer
-      (Published as The Seattle Post-Intelligencer.) - November 11, 1908 - Page 5,”
-      n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
-      - October 27, 1907 - Page 23,” n.d., 1.“State Federation to Discuss Hindu -
-      Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.) -
-      January 3, 1908 - Page 10,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA
-      DAILY NEWS.) - April 13, 1911 - Page 14,” n.d., 1.“Tacoma Daily News (Published
-      as THE TACOMA DAILY NEWS) - March 10, 1909 - Page 6,” n.d., 1.“Tacoma Daily
-      News (Published as THE TACOMA DAILY NEWS) - March 18, 1909 - Page 1,” n.d.,
-      1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - March 31, 1909 -
-      Page 6,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - November
-      24, 1908 - Page 6,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY
-      NEWS.) - September 22, 1908 - Page 6,” n.d., 1.“Tariff Discussed by Business
-      Men. Rates on Lumber - Oregonian (Published as Morning Oregonian) - August 2,
-      1909 - Page 9,” n.d., 1.“Tribune (Published as THE NEWS TRIBUNE) - August 9,
-      1922 - Page 4,” n.d., 1.“Victory to Mean Blow to Industry. Repeal of Tolls -
-      Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page 2,” n.d.,
-      1.<br><br>Irish<br><br>“Canada Seeks Irishmen - Seattle Post-Intelligencer (Published
-      as The Seattle Post-Intelligencer.) - March 1, 1911 - Page 10,” n.d., 1.“Checks
-      to Irish Immigration - Oregonian (Published as Morning Oregonian) - April 1,
-      1912 - Page 8,” n.d., 1.“Connolly Known in Chicago Executed Irish Leader - Oregonian
-      (Published as Morning Oregonian) - May 4, 1916 - Page 5,” n.d., 1.“Future Of
-      New England The Irish and French Are - Oregonian (Published as Morning Oregonian.)
-      - October 5, 1889 - Page 12,” n.d., 1.“Immigration - Oregonian (Published as
-      Morning Oregonian) - September 30, 1881 - Page 1,” n.d., 1.“[Interest; United
-      States; Country; Philosophic; - Oregonian (Published as Morning Oregonian) -
-      July 31, 1880 - Page 2,” n.d., 1.“Ireland Forever - Oregonian (Published as
-      Morning Oregonian) - July 7, 1903 - Page 8,” n.d., 2.“Ireland’s Population -
-      Oregonian (Published as Morning Oregonian) - June 12, 1901 - Page 6,” n.d.,
-      1.“Irish Immigration - Oregonian (Published as The Sunday Oregonian.) - May
-      28, 1899 - Page 1,” n.d., 1.“Irish Immigration, Benefits of the Coming of the
-      - Oregonian (Published as Morning Oregonian.) - May 18, 1899 - Page 4,” n.d.,
-      1.“Irish Immigration Increasing - Oregonian (Published as Morning Oregonian.)
-      - May 6, 1903 - Page 5,” n.d., 1.“Irish Labor Leader on Trial - Oregonian (Published
-      as Morning Oregonian) - April 17, 1920 - Page 3,” n.d., 1.“[Irish; Statistics;
-      Alarmed; Arrivals - Oregonian (Published as Morning Oregonian.) - August 22,
-      1882 - Page 2,” n.d., 1.“Labor Is Held at Line. British Columbia Enters - Oregonian
-      (Published as Morning Oregonian) - April 5, 1914 - Page 7,” n.d., 1.“N Industrial
-      Paradox - Oregonian (Published as Morning Oregonian) - May 23, 1894 - Page 4,”
-      n.d., 1.“No Scotch-Irish. Or Auglo-Saxon, Either, Says This - Oregonian (Published
-      as Morning Oregonian.) - July 11, 1899 - Page 12,” n.d., 1.“Said About Portland.
-      A Few Observations by a - Oregonian (Published as Morning Oregonian) - October
-      30, 1891 - Page 8,” n.d., 3.“Seattle Daily Times (Published as The Seattle Daily
-      Times.) - April 25, 1900 - Page 4,” n.d., 1.“Seattle Daily Times (Published
-      as THE SEATTLE DAILY TIMES) - December 25, 1913 - Page 5,” n.d., 1.“Seattle
-      Daily Times (Published as THE SEATTLE DAILY TIMES) - March 17, 1922 - Page 6,”
-      n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - May 25,
-      1914 - Page 12,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
-      TIMES) - May 26, 1902 - Page 10,” n.d., 1.“Seattle Daily Times (Published as
-      THE SEATTLE DAILY TIMES) - November 3, 1903 - Page 8,” n.d., 1.“Seattle Daily
-      Times (Published as THE SEATTLE DAILY TIMES) - November 12, 1910 - Page 3,”
-      n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - November
-      25, 1904 - Page 6,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
-      TIMES) - October 28, 1907 - Page 3,” n.d., 1.“Seattle Post-Intelligencer - May
-      8, 1923 - Page 2,” n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle
-      Post-Intelligencer.) - January 30, 1901 - Page 8,” n.d., 1.“Seattle Post-Intelligencer
-      (Published as The Seattle Post-Intelligencer.) - March 14, 1906 - Page 6,” n.d.,
+      n.d., 1.<br><br><strong>South Asian</strong><br><br>“400 Hear Chamberlain. Senator
+      in Closing Campaign - Oregonian (Published as Morning Oregonian) - November
+      3, 1914 - Page 4,” n.d., 1.“Bishop A Dreamer Labor Leaders Think Yellow Peril
+      - Oregonian (Published as Morning Oregonian) - September 27, 1907 - Page 12,”
+      n.d., 2.“Contract Labor. Indian Hop Pickers Cannot Come - Tacoma Daily News
+      - August 24, 1892 - Page 5,” n.d., 1.“Driven to Use of Orientals - Seattle Daily
+      Times (Published as THE SEATTLE DAILY TIMES) - August 13, 1907 - Page 10,” n.d.,
+      1.“Hindu Held for Murder. Man Caught Boarding Trans- - Oregonian (Published
+      as Morning Oregonian) - March 31, 1920 - Page 2,” n.d., 1.“Hindu Peril Said
+      to Be Threatening Anthony - Oregonian (Published as Morning Oregonian) - December
+      9, 1913 - Page 12,” n.d., 1.“Hindus Leave Grays Harbor - Seattle Daily Times
+      (Published as THE SEATTLE DAILY TIMES) - September 18, 1907 - Page 2,” n.d.,
+      1.“Hindus Must Go, Is Slogan of New Union - Seattle Post-Intelligencer (Published
+      as The Seattle Post-Intelligencer.) - August 16, 1907 - Page 11,” n.d., 1.“How
+      You Lose - Oregonian (Published as Morning Oregonian) - November 1, 1914 - Page
+      6,” n.d., 1.“Literary Bill Ready. Efforts Aimed at ‘Asiatics’ - Oregonian (Published
+      as Morning Oregonian) - December 14, 1913 - Page 8,” n.d., 1.“Many Are Rejected.
+      Precautions Being Taken in - Oregonian (Published as Morning Oregonian) - June
+      10, 1910 - Page 16,” n.d., 1.“Mill Workers Ask Employers to Do Away with Hindus
+      - Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
+      - October 1, 1907 - Page 10,” n.d., 1.“Mill’s Fate Rests on Hughes Victory Eugene
+      Man - Oregonian (Published as Morning Oregonian) - August 15, 1916 - Page [1],”
+      n.d., 1.“More Letters by Laymen Place Public Opinion to - Oregonian (Published
+      as Morning Oregonian) - October 17, 1915 - Page 9,” n.d., 1.“Protect Our Lumber
+      - Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - October 21, 1908
+      - Page 6,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES)
+      - August 16, 1907 - Page 10,” n.d., 1.“Seattle Daily Times (Published as THE
+      SEATTLE DAILY TIMES) - August 28, 1922 - Page 7,” n.d., 1.“Seattle Daily Times
+      (Published as THE SEATTLE DAILY TIMES) - June 1, 1910 - Page 4,” n.d., 1.“Seattle
+      Daily Times (Published as THE SEATTLE DAILY TIMES) - November 28, 1913 - Page
+      19,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - September
+      12, 1907 - Page 2,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
+      TIMES) - September 12, 1910 - Page 4,” n.d., 1.“Seattle Daily Times (Published
+      as The Seattle Sunday Times.) - November 1, 1914 - Page 44,” n.d., 1.“Seattle
+      Daily Times (Published as The Seattle Sunday Times.) - September 4, 1910 - Page
+      4,” n.d., 1.“Seattle Post-Intelligencer (Published as THE POST-INTELLIGENCER)
+      - November 2, 1916 - Page 10,” n.d., 1.“Seattle Post-Intelligencer (Published
+      as The Seattle Post-Intelligencer.) - December 14, 1913 - Page 8,” n.d., 1.“Seattle
+      Post-Intelligencer (Published as The Seattle Post-Intelligencer.) - December
+      20, 1907 - Page 15,” n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle
+      Post-Intelligencer.) - July 23, 1907 - Page 13,” n.d., 1.“Seattle Post-Intelligencer
+      (Published as The Seattle Post-Intelligencer.) - May 19, 1913 - Page 10,” n.d.,
       1.“Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
-      - November 24, 1907 - Page 47,” n.d., 1.“Seattle Post-Intelligencer (Published
-      as The Seattle Post-Intelligencer.) - September 19, 1913 - Page 4,” n.d., 1.“Tacoma
-      Daily News (Published as THE TACOMA DAILY NEWS) - July 11, 1903 - Page 6,” n.d.,
-      1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - November 3, 1903
-      - Page 8,” n.d., 1.“The East. Beecher Styles Washington Territory the - Oregonian
-      (Published as Morning Oregonian.) - January 18, 1884 - Page 1,” n.d., 1.“The
-      Fair Erin’s Exiles [Illegible] Girls in Large - Oregonian (Published as Morning
-      Oregonian) - October 9, 1903 - Page 3,” n.d., 1.“The Hibernians - Seattle Post-Intelligencer
+      - November 11, 1908 - Page 5,” n.d., 1.“Seattle Post-Intelligencer (Published
+      as The Seattle Post-Intelligencer.) - October 27, 1907 - Page 23,” n.d., 1.“State
+      Federation to Discuss Hindu - Seattle Post-Intelligencer (Published as The Seattle
+      Post-Intelligencer.) - January 3, 1908 - Page 10,” n.d., 1.“Tacoma Daily News
+      (Published as THE TACOMA DAILY NEWS.) - April 13, 1911 - Page 14,” n.d., 1.“Tacoma
+      Daily News (Published as THE TACOMA DAILY NEWS) - March 10, 1909 - Page 6,”
+      n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - March 18,
+      1909 - Page 1,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS)
+      - March 31, 1909 - Page 6,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA
+      DAILY NEWS) - November 24, 1908 - Page 6,” n.d., 1.“Tacoma Daily News (Published
+      as THE TACOMA DAILY NEWS.) - September 22, 1908 - Page 6,” n.d., 1.“Tariff Discussed
+      by Business Men. Rates on Lumber - Oregonian (Published as Morning Oregonian)
+      - August 2, 1909 - Page 9,” n.d., 1.“Tribune (Published as THE NEWS TRIBUNE)
+      - August 9, 1922 - Page 4,” n.d., 1.“Victory to Mean Blow to Industry. Repeal
+      of Tolls - Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page
+      2,” n.d., 1.<br><br><strong>Irish</strong><br><br>“Canada Seeks Irishmen - Seattle
+      Post-Intelligencer (Published as The Seattle Post-Intelligencer.) - March 1,
+      1911 - Page 10,” n.d., 1.“Checks to Irish Immigration - Oregonian (Published
+      as Morning Oregonian) - April 1, 1912 - Page 8,” n.d., 1.“Connolly Known in
+      Chicago Executed Irish Leader - Oregonian (Published as Morning Oregonian) -
+      May 4, 1916 - Page 5,” n.d., 1.“Future Of New England The Irish and French Are
+      - Oregonian (Published as Morning Oregonian.) - October 5, 1889 - Page 12,”
+      n.d., 1.“Immigration - Oregonian (Published as Morning Oregonian) - September
+      30, 1881 - Page 1,” n.d., 1.“[Interest; United States; Country; Philosophic;
+      - Oregonian (Published as Morning Oregonian) - July 31, 1880 - Page 2,” n.d.,
+      1.“Ireland Forever - Oregonian (Published as Morning Oregonian) - July 7, 1903
+      - Page 8,” n.d., 2.“Ireland’s Population - Oregonian (Published as Morning Oregonian)
+      - June 12, 1901 - Page 6,” n.d., 1.“Irish Immigration - Oregonian (Published
+      as The Sunday Oregonian.) - May 28, 1899 - Page 1,” n.d., 1.“Irish Immigration,
+      Benefits of the Coming of the - Oregonian (Published as Morning Oregonian.)
+      - May 18, 1899 - Page 4,” n.d., 1.“Irish Immigration Increasing - Oregonian
+      (Published as Morning Oregonian.) - May 6, 1903 - Page 5,” n.d., 1.“Irish Labor
+      Leader on Trial - Oregonian (Published as Morning Oregonian) - April 17, 1920
+      - Page 3,” n.d., 1.“[Irish; Statistics; Alarmed; Arrivals - Oregonian (Published
+      as Morning Oregonian.) - August 22, 1882 - Page 2,” n.d., 1.“Labor Is Held at
+      Line. British Columbia Enters - Oregonian (Published as Morning Oregonian) -
+      April 5, 1914 - Page 7,” n.d., 1.“N Industrial Paradox - Oregonian (Published
+      as Morning Oregonian) - May 23, 1894 - Page 4,” n.d., 1.“No Scotch-Irish. Or
+      Auglo-Saxon, Either, Says This - Oregonian (Published as Morning Oregonian.)
+      - July 11, 1899 - Page 12,” n.d., 1.“Said About Portland. A Few Observations
+      by a - Oregonian (Published as Morning Oregonian) - October 30, 1891 - Page
+      8,” n.d., 3.“Seattle Daily Times (Published as The Seattle Daily Times.) - April
+      25, 1900 - Page 4,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY
+      TIMES) - December 25, 1913 - Page 5,” n.d., 1.“Seattle Daily Times (Published
+      as THE SEATTLE DAILY TIMES) - March 17, 1922 - Page 6,” n.d., 1.“Seattle Daily
+      Times (Published as THE SEATTLE DAILY TIMES) - May 25, 1914 - Page 12,” n.d.,
+      1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - May 26, 1902
+      - Page 10,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES)
+      - November 3, 1903 - Page 8,” n.d., 1.“Seattle Daily Times (Published as THE
+      SEATTLE DAILY TIMES) - November 12, 1910 - Page 3,” n.d., 1.“Seattle Daily Times
+      (Published as THE SEATTLE DAILY TIMES) - November 25, 1904 - Page 6,” n.d.,
+      1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - October 28,
+      1907 - Page 3,” n.d., 1.“Seattle Post-Intelligencer - May 8, 1923 - Page 2,”
+      n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
+      - January 30, 1901 - Page 8,” n.d., 1.“Seattle Post-Intelligencer (Published
+      as The Seattle Post-Intelligencer.) - March 14, 1906 - Page 6,” n.d., 1.“Seattle
+      Post-Intelligencer (Published as The Seattle Post-Intelligencer.) - November
+      24, 1907 - Page 47,” n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle
+      Post-Intelligencer.) - September 19, 1913 - Page 4,” n.d., 1.“Tacoma Daily News
+      (Published as THE TACOMA DAILY NEWS) - July 11, 1903 - Page 6,” n.d., 1.“Tacoma
+      Daily News (Published as THE TACOMA DAILY NEWS) - November 3, 1903 - Page 8,”
+      n.d., 1.“The East. Beecher Styles Washington Territory the - Oregonian (Published
+      as Morning Oregonian.) - January 18, 1884 - Page 1,” n.d., 1.“The Fair Erin’s
+      Exiles [Illegible] Girls in Large - Oregonian (Published as Morning Oregonian)
+      - October 9, 1903 - Page 3,” n.d., 1.“The Hibernians - Seattle Post-Intelligencer
       (Published as The Seattle Post-Intelligencer.) - July 16, 1910 - Page 6,” n.d.,
       1.“The Irish in America - Oregonian (Published as Morning Oregonian.) - March
       11, 1896 - Page 6,” n.d., 1.“To Discourage Irish Immigration - Oregonian (Published
       as The Sunday Oregonian) - May 15, 1904 - Page 37,” n.d., 1.“Trespasses - Oregonian
       (Published as The Sunday Oregonian.) - May 6, 1883 - Page 1,” n.d., 1.“Valuable
       Immigrants - Oregonian (Published as Morning Oregonian) - May 27, 1901 - Page
-      4,” n.d., 1.<br><br>Italian<br><br>“300 Men Want 60 Cents A Day - Oregonian
-      (Published as Morning Oregonian) - June 13, 1888 - Page 4,” n.d., 1.“Battle
-      to Death in Hostelry Room - Seattle Daily Times (Published as THE SEATTLE DAILY
-      TIMES) - February 14, 1919 - Page 16,” n.d., 1.“Brains On The Farm - Oregonian
-      (Published as Morning Oregonian) - December 9, 1897 - Page 4,” n.d., 1.“Call
-      For More Troops Rumor Of Another Draft Denied - Oregonian (Published as The
-      Sunday Oregonian.) - May 28, 1899 - Page 2,” n.d., 1.“Democratic Appeal - Oregonian
-      (Published as Morning Oregonian) - June 15, 1888 - Page 7,” n.d., 1.“Ditch Gangs
-      in Riotous Strike - Tacoma Daily News (Published as THE TACOMA DAILY NEWS) -
-      June 1, 1910 - Page 1,” n.d., 1.“Evading Exclusion Laws - Oregonian (Published
-      as Morning Oregonian) - October 3, 1888 - Page 4,” n.d., 1.“Great Celebration
-      Is Planned to Celebrate Columbus - Oregonian (Published as Morning Oregonian)
-      - October 1, 1911 - Page 12,” n.d., 1.“Hamburg Canning Company - Tacoma Daily
-      News (Published as THE TACOMA DAILY NEWS) - August 15, 1916 - Page 5,” n.d.,
-      1.“Italian Labor. Hawarian Planters Will Import One - Oregonian (Published as
-      Morning Oregonian.) - June 3, 1899 - Page 1,” n.d., 1.“Italian Workers Are Asked
-      To Organize - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - February
-      28, 1917 - Page 21,” n.d., 1.“Italian Workers Refuse to Take Their Pay - Tacoma
-      Daily News (Published as THE TACOMA DAILY NEWS) - June 25, 1906 - Page 1,” n.d.,
-      1.“Italians Not Locked Out - Tacoma Daily News (Published as THE TACOMA DAILY
-      NEWS.) - August 25, 1908 - Page 3,” n.d., 1.“Italy’s Children Come In Millions
-      Industry and - Oregonian (Published as Morning Oregonian.) - March 7, 1907 -
-      Page 1, 2,” n.d., 3.“Labor to Send Delegates. Thomas Mooney Case to - Oregonian
-      (Published as Morning Oregonian) - December 30, 1918 - Page 3,” n.d., 1.“Lewiston
-      Line Is Begun Italian Workers Commence - Oregonian (Published as Morning Oregonian.)
-      - August 26, 1905 - Page 6,” n.d., 2.“Negrophobia At The North - Oregonian (Published
-      as Morning Oregonian) - October 25, 1898 - Page 4,” n.d., 2.“Poisoned by Toadstools.
-      [Illegible] Italian - Oregonian (Published as Morning Oregonian) - May 17, 1908
-      - Page 11,” n.d., 1.“Royal Anne Cherries - Oregonian (Published as Morning Oregonian)
-      - August 22, 1916 - Page 8,” n.d., 1.“Seattle Daily Times (Published as THE
-      SEATTLE DAILY TIMES) - December 22, 1904 - Page 14,” n.d., 1.“Seattle Daily
-      Times (Published as The Seattle Daily Times.) - January 9, 1897 - Page 8,” n.d.,
-      1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - May 9, 1901
-      - Page 4,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES)
-      - September 5, 1903 - Page 2,” n.d., 1.“Seattle Daily Times (Published as THE
-      SEATTLE DAILY TIMES) - September 28, 1911 - Page 6,” n.d., 1.“Seattle Daily
-      Times (Published as The Seattle Sunday Times.) - August 21, 1904 - Page 39,”
-      n.d., 1.“Seattle Daily Times (Published as The Seattle Sunday Times.) - October
-      27, 1907 - Page 68,” n.d., 1.“Seattle Post-Intelligencer (Published as THE POST-INTELLIGENCER.)
-      - June 8, 1915 - Page 8,” n.d., 1.“Seattle Post-Intelligencer (Published as
-      The Seattle Post-Intelligencer.) - January 17, 1904 - Page 28,” n.d., 1.“Seattle
-      Post-Intelligencer (Published as The Seattle Post-Intelligencer.) - May 26,
-      1907 - Page 18,” n.d., 1.“Seeks Missing Italian in Disguise - Tacoma Daily News
-      (Published as THE TACOMA DAILY NEWS) - November 18, 1910 - Page 1,” n.d., 1.“Strike
-      Threatens In City Building Politics Seen in - Oregonian - April 24, 1917 - Page
-      8,” n.d., 1.“Tacoma Daily News (Published as TACOMA DAILY NEWS.) - August 12,
-      1897 - Page 4,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS)
-      - December 2, 1905 - Page 10,” n.d., 1.“Tacoma Daily News (Published as THE
-      TACOMA DAILY NEWS) - February 6, 1906 - Page 9,” n.d., 1.“Tacoma Daily News
-      (Published as THE TACOMA DAILY NEWS) - November 13, 1908 - Page 12,” n.d., 1.“Tacoma
-      Daily News (Published as THE TACOMA DAILY NEWS) - September 5, 1903 - Page 6,”
-      n.d., 1.“The Benefits Of Protection. Democratic Argument of - Oregonian (Published
-      as Morning Oregonian.) - October 17, 1892 - Page 4,” n.d., 1.“The Immigration
-      Fraud. An Italian Agent Tells How - Oregonian (Published as Morning Oregonian)
-      - July 28, 1888 - Page 1,” n.d., 1.“The Root Of The Labor Evil - Oregonian (Published
-      as Morning Oregonian) - June 8, 1894 - Page 5,” n.d., 1.“Under Martiallaw Strikers
-      Discipline Perfect Four - Oregonian (Published as Morning Oregonian) - June
-      2, 1894 - Page 3,” n.d., 3.
+      4,” n.d., 1.<br><br><strong>Italian</strong><br><br>“300 Men Want 60 Cents A
+      Day - Oregonian (Published as Morning Oregonian) - June 13, 1888 - Page 4,”
+      n.d., 1.“Battle to Death in Hostelry Room - Seattle Daily Times (Published as
+      THE SEATTLE DAILY TIMES) - February 14, 1919 - Page 16,” n.d., 1.“Brains On
+      The Farm - Oregonian (Published as Morning Oregonian) - December 9, 1897 - Page
+      4,” n.d., 1.“Call For More Troops Rumor Of Another Draft Denied - Oregonian
+      (Published as The Sunday Oregonian.) - May 28, 1899 - Page 2,” n.d., 1.“Democratic
+      Appeal - Oregonian (Published as Morning Oregonian) - June 15, 1888 - Page 7,”
+      n.d., 1.“Ditch Gangs in Riotous Strike - Tacoma Daily News (Published as THE
+      TACOMA DAILY NEWS) - June 1, 1910 - Page 1,” n.d., 1.“Evading Exclusion Laws
+      - Oregonian (Published as Morning Oregonian) - October 3, 1888 - Page 4,” n.d.,
+      1.“Great Celebration Is Planned to Celebrate Columbus - Oregonian (Published
+      as Morning Oregonian) - October 1, 1911 - Page 12,” n.d., 1.“Hamburg Canning
+      Company - Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - August 15,
+      1916 - Page 5,” n.d., 1.“Italian Labor. Hawarian Planters Will Import One -
+      Oregonian (Published as Morning Oregonian.) - June 3, 1899 - Page 1,” n.d.,
+      1.“Italian Workers Are Asked To Organize - Seattle Daily Times (Published as
+      THE SEATTLE DAILY TIMES) - February 28, 1917 - Page 21,” n.d., 1.“Italian Workers
+      Refuse to Take Their Pay - Tacoma Daily News (Published as THE TACOMA DAILY
+      NEWS) - June 25, 1906 - Page 1,” n.d., 1.“Italians Not Locked Out - Tacoma Daily
+      News (Published as THE TACOMA DAILY NEWS.) - August 25, 1908 - Page 3,” n.d.,
+      1.“Italy’s Children Come In Millions Industry and - Oregonian (Published as
+      Morning Oregonian.) - March 7, 1907 - Page 1, 2,” n.d., 3.“Labor to Send Delegates.
+      Thomas Mooney Case to - Oregonian (Published as Morning Oregonian) - December
+      30, 1918 - Page 3,” n.d., 1.“Lewiston Line Is Begun Italian Workers Commence
+      - Oregonian (Published as Morning Oregonian.) - August 26, 1905 - Page 6,” n.d.,
+      2.“Negrophobia At The North - Oregonian (Published as Morning Oregonian) - October
+      25, 1898 - Page 4,” n.d., 2.“Poisoned by Toadstools. [Illegible] Italian - Oregonian
+      (Published as Morning Oregonian) - May 17, 1908 - Page 11,” n.d., 1.“Royal Anne
+      Cherries - Oregonian (Published as Morning Oregonian) - August 22, 1916 - Page
+      8,” n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - December
+      22, 1904 - Page 14,” n.d., 1.“Seattle Daily Times (Published as The Seattle
+      Daily Times.) - January 9, 1897 - Page 8,” n.d., 1.“Seattle Daily Times (Published
+      as THE SEATTLE DAILY TIMES) - May 9, 1901 - Page 4,” n.d., 1.“Seattle Daily
+      Times (Published as THE SEATTLE DAILY TIMES) - September 5, 1903 - Page 2,”
+      n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - September
+      28, 1911 - Page 6,” n.d., 1.“Seattle Daily Times (Published as The Seattle Sunday
+      Times.) - August 21, 1904 - Page 39,” n.d., 1.“Seattle Daily Times (Published
+      as The Seattle Sunday Times.) - October 27, 1907 - Page 68,” n.d., 1.“Seattle
+      Post-Intelligencer (Published as THE POST-INTELLIGENCER.) - June 8, 1915 - Page
+      8,” n.d., 1.“Seattle Post-Intelligencer (Published as The Seattle Post-Intelligencer.)
+      - January 17, 1904 - Page 28,” n.d., 1.“Seattle Post-Intelligencer (Published
+      as The Seattle Post-Intelligencer.) - May 26, 1907 - Page 18,” n.d., 1.“Seeks
+      Missing Italian in Disguise - Tacoma Daily News (Published as THE TACOMA DAILY
+      NEWS) - November 18, 1910 - Page 1,” n.d., 1.“Strike Threatens In City Building
+      Politics Seen in - Oregonian - April 24, 1917 - Page 8,” n.d., 1.“Tacoma Daily
+      News (Published as TACOMA DAILY NEWS.) - August 12, 1897 - Page 4,” n.d., 1.“Tacoma
+      Daily News (Published as THE TACOMA DAILY NEWS) - December 2, 1905 - Page 10,”
+      n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS) - February 6,
+      1906 - Page 9,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA DAILY NEWS)
+      - November 13, 1908 - Page 12,” n.d., 1.“Tacoma Daily News (Published as THE
+      TACOMA DAILY NEWS) - September 5, 1903 - Page 6,” n.d., 1.“The Benefits Of Protection.
+      Democratic Argument of - Oregonian (Published as Morning Oregonian.) - October
+      17, 1892 - Page 4,” n.d., 1.“The Immigration Fraud. An Italian Agent Tells How
+      - Oregonian (Published as Morning Oregonian) - July 28, 1888 - Page 1,” n.d.,
+      1.“The Root Of The Labor Evil - Oregonian (Published as Morning Oregonian) -
+      June 8, 1894 - Page 5,” n.d., 1.“Under Martiallaw Strikers Discipline Perfect
+      Four - Oregonian (Published as Morning Oregonian) - June 2, 1894 - Page 3,”
+      n.d., 3.
   col_3:
     headline: ''
     slug: tm4
