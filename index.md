@@ -177,5 +177,21 @@ page_sections:
       class="s1">. That said, I felt that the representation of this community was
       a crucial element to how media often 'othered' these communities in order to
       engage in myth making around who a true American was and what they resembled.</span>
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>How to Use this Guide</strong>"
+  slug: ht1
+  content: This work is centered around the historical network visualization of the
+    materials which contains historic newspapers, periodicals, archival collections
+    and oral histories relating to 14 community groups from 1880-1930. The visualization
+    allows the user to form connections based on community groups, industry or geolocation
+    and hopefully act as a springboard to future research. Each element within the
+    visualization contains links to the digital object, which can be analyzed in greater
+    detail or listened to in full, in the case of the oral history recordings.
+  media:
+    image: "/uploads/2022/04/30/tt30101897.png"
+    alt_text: "Tacoma Tidende\t1897-10-30\tFront page of Tacoma  Tidende, \"The Bidding
+      Stick.\""
 
 ---
