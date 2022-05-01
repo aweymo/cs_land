@@ -287,7 +287,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: find
-  headline: Findings
+  headline: ''
   content: "One combined visualization of term frequency for each group \"text mining
     overview\" in folder<br><br>one combined visualization of each community group
     with early and later visualizations.<br><br>&lt;!--\tExported from Voyant Tools
