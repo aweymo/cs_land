@@ -248,8 +248,8 @@ page_sections:
     where digitized recordings shed light on Puget Sound's Polish, Italian and Native
     American communities.
   media:
-    image: ''
-    alt_text: "The Ancient Order of Vikings\t1925-12-05\tScrapbook for fraternal organization
+    image: "/uploads/2022/04/30/aov005.png"
+    alt_text: "The Ancient Order of Vikings\t1925-12-05 Scrapbook for fraternal organization
       The Ancient Order of Vikings, containing photographs and personal remembrances
       of group members in both English and Norwegian language. "
   headline: ''
