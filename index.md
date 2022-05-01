@@ -292,5 +292,18 @@ page_sections:
       this exhibit. This method is still developing and being improved upon. This
       data and the overall project serves as a proof of concept towards future iterations
       of work.
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/04/30/c06031886.png"
+  image:
+    alt_text: "\"Tacoma Coal Bunkers\"\tCommerce (Newspaper) 1886-06-03 Illustration
+      of boats mooring on Tacoma waterfront."
+    image: ''
+  headline: Conclusion
+  content: TBD
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
