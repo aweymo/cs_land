@@ -310,7 +310,14 @@ page_sections:
       University of Oregon for advice on shaping and hosting this project.
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: a2
+    content: I have a huge debt of gratitude to Olivia Winkle and Devin Becker at
+      the University of Idaho for helping guide me through the process of working
+      with CollectionBuilder (and creating it in the first place!) I also would like
+      to thank Elliot Stevens and Sarah Ketchley at the University of Washington for
+      their advice on the text mining elements of this work. Finally, I would like
+      to thank Lourdes Santamaria-Wheeler of the University of Florida, whose class
+      on ethical exhibit description through We Here was hugely influential on the
+      design of this project.
 
 ---
