@@ -232,5 +232,26 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: m2
+  content: The second resource that informed my focus is the Northwest Room, the archive
+    of the Tacoma Public Library. Anna Trammell, the Lead Historian for the Northwest
+    Room and also the sponsor of this Capstone, curated archival collections and oral
+    history recordings which applied to my area of focus and needed organization,
+    finding aids and digitization. These projects helped me learn about the Norwegian
+    American community through the Ancient Order of Vikings, a fraternal organization
+    for immigrants, and the Puyallup Valley chapter of the Japanese American Citizens
+    League, a nationwide organization which played a crucial role in WWII incarceration.
+    I also pulled from the Northwest Room's <em>Bicentennial Oral History Project</em>,
+    where digitized recordings shed light on Puget Sound's Polish, Italian and Native
+    American communities.
+  media:
+    image: "/uploads/2022/04/30/aov005.png"
+    alt_text: "The Ancient Order of Vikings\t1925-12-05\tScrapbook for fraternal organization
+      The Ancient Order of Vikings, containing photographs and personal remembrances
+      of group members in both English and Norwegian language. "
+  headline: ''
 
 ---
