@@ -159,9 +159,17 @@ page_sections:
     slug: s3
     headline: ''
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: 'Other naming decisions: '
+    slug: s4
+    content: <span class="s1">In future iterations of this project, I would like to
+      rename all subject tags for </span><strong><span class="s1">Hindu</span></strong><span
+      class="s1"> materials to </span><strong><span class="s1">South Asian </span></strong><span
+      class="s1">as implemented in the </span><em><span class="s1">South Asian Digital
+      Archive</span></em><span class="s1">. I decided on Hindu because it was also
+      the most popular usage and in order to differentiate between </span><strong><span
+      class="s1">Indian</span></strong><span class="s1">, which the media also used
+      for Native Americans during this period. That said, this description does assume
+      religious practice, which is not necessarily accurate.</span>
   col_3:
     headline: ''
     slug: ''
