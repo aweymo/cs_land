@@ -40,10 +40,8 @@ page_sections:
   slug: tag.2
   content: ''
   media:
-    image: "/uploads/2022/04/30/ill030.png"
-    alt_text: "Meeting Program Book, \"American Problems\"\tIllema Study Club\t1920-01-01\tProgram
-      for a series of lectures, including \"New Immigrants, Inducements, Impressions\"
-      and \"Japanese and Chinese Problems\""
+    image: "/uploads/2022/05/01/ten_15101901_b.png"
+    alt_text: Tacoma Evening News
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/04/30/ten12091903.png"
