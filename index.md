@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Mapping Language
-date: 2022-04-30 00:00:00 -0700
+date: 2022-04-30T00:00:00.000-07:00
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
@@ -272,6 +272,18 @@ page_sections:
       this exhibit. This method is still developing and being improved upon. This
       data and the overall project serves as a proof of concept towards future iterations
       of work.
+- template: hero-banner-w-image
+  block: hero-2
+  headline: "<strong>Findings</strong>"
+  background_image: uploads/uploads/2022/page-0001.png
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: find
