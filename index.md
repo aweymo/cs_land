@@ -898,70 +898,70 @@ page_sections:
   col_3:
     headline: ''
     slug: tm4
-    content: Japanese<br><br>“Exclusion Provision Modified Senate - Oregonian (Published
-      as Morning Oregonian) - April 28, 1916 - Page Copy of 20,” n.d., 1.“Ault Too
-      Busy to Give Evidence on Japanese - Seattle Daily Times (Published as THE SEATTLE
-      DAILY TIMES) - August 3, 1920 - Page 3,” n.d., 1.“Big Influx Of Japs Nearly
-      1000 Said To Be Bound - Oregonian (Published as Morning Oregonian.) - December
-      14, 1894 - Page 10,” n.d., 1.“Contract Japanese Labor Three Immigration Firms
-      - Oregonian (Published as Morning Oregonian) - November 1, 1907 - Page 5,” n.d.,
-      1.“Exclude The Japanese Labor Leader Favors Extension - Oregonian (Published
-      as Morning Oregonian) - May 27, 1901 - Page 10,” n.d., 1.“Exclusion Clause Needed
-      - Oregonian (Published as Morning Oregonian) - February 23, 1911 - Page 8,”
-      n.d., 1.“Exclusion Of Cheap Labor - Oregonian (Published as Morning Oregonian)
-      - January 26, 1901 - Page 6,” n.d., 1.“Fight between Oligarchy and People Scheduled
-      for - Oregonian (Published as Morning Oregonian) - August 28, 1910 - Page 3,
-      6,” n.d., 1.“General Avers U. S. Won’t Fight Japan. Doughboys - Oregonian (Published
-      as Morning Oregonian) - September 1, 1920 - Page 5,” n.d., 1.“Hawaiian Annexation.
-      What a Special Correspondent - Oregonian (Published as Morning Oregonian.) -
-      November 21, 1892 - Page 2,” n.d., 1.“He Appeals To Japan Japanese Labor Agent
-      Says. He - Oregonian (Published as Morning Oregonian.) - March 6, 1906 - Page
-      4,” n.d., 1.“Importing Japanese Labor. Hoquiam Box Company Says - Oregonian
-      (Published as Morning Oregonian) - March 5, 1904 - Page 6,” n.d., 1.“Japan Censured
-      by Labor Conference. Violation of - Oregonian (Published as Morning Oregonian)
-      - November 7, 1919 - Page 2,” n.d., 1.“Japanese Akbor Needed on Farms California
-      - Oregonian (Published as Morning Oregonian) - May 30, 1910 - Page 2,” n.d.,
-      2.“Japanese Contract Laborers - Tacoma Daily News - August 23, 1893 - Page [2],”
-      n.d., 1.“Japanese Finance Protest on Coolies. Honolulu - Oregonian (Published
-      as Morning Oregonian) - August 3, 1921 - Page 7,” n.d., 2.“Japanese Labor Bar
-      down. Seattle Central Concil - Oregonian (Published as Morning Oregonian) -
-      May 29, 1914 - Page 2,” n.d., 1.“Japanese Labor Is Flooding Chicago. Artisans
-      and - Oregonian (Published as Morning Oregonian) - April 28, 1909 - Page [1],”
-      n.d., 1.“Japanese Labor. The Aslatic Government Accused of - Oregonian (Published
-      as The Sunday Oregonian.) - June 16, 1895 - Page 9,” n.d., 1.“Japanese Labor
-      Unites. Nearly 1000 Attend Open - Oregonian (Published as Morning Oregonian)
-      - August 24, 1915 - Page 2,” n.d., 1.“Japanese Labor Unsatisfactory - Oregonian
-      (Published as Morning Oregonian.) - July 23, 1902 - Page 8,” n.d., 1.“Japanese
-      Labor’s Ideals Are Rising Federation Told - Oregonian (Published as Morning
-      Oregonian) - November 15, 1916 - Page 5,” n.d., 1.“Japanese Reply to Their Critics.
-      Figures Declared - Oregonian (Published as Morning Oregonian) - May 5, 1913
-      - Page 2,” n.d., 1.“Japanese to Be Imported - Tacoma Daily News - June 17, 1891
-      - Page 4,” n.d., 1.“Japanese Union Hold Meeting - Seattle Daily Times (Published
-      as THE SEATTLE DAILY TIMES) - August 23, 1915 - Page 7,” n.d., 1.“Japan’s Limitations
-      - Oregonian (Published as Morning Oregonian) - July 14, 1896 - Page 4,” n.d.,
-      1.“Japs as Coal Miners. Canadian Mine Owners - Tacoma Daily News - January 13,
-      1892 - Page 5,” n.d., 1.“Local Unionists Would Oust Japs Portland’s - Oregonian
-      (Published as Morning Oregonian) - February 25, 1910 - Page 16,” n.d., 1.“New
-      Study In Economics - Oregonian (Published as Morning Oregonian) - November 27,
-      1904 - Page 4,” n.d., 1.“[San Francisco; Japanese; Chinese; Japs - Tacoma Daily
-      News - February 27, 1891 - Page 7,” n.d., 1.“Seattle Daily Times (Published
-      as THE SEATTLE DAILY TIMES) - August 4, 1920 - Page 7,” n.d., 1.“Seattle Daily
-      Times (Published as THE SEATTLE DAILY TIMES) - October 24, 1919 - Page 36,”
-      n.d., 1.“Serious Problem About Japanese Irritated at - Oregonian (Published
-      as Morning Oregonian.) - October 31, 1906 - Page 1, 5,” n.d., 3.“Stores And
-      Trade In Japan Eighth Japanese Letter, - Oregonian (Published as The Sunday
-      Oregonian) - December 2, 1888 - Page 1,” n.d., 1.“Tacoma Daily News - August
-      23, 1893 - Page 2,” n.d., 1.“The Japanese - Oregonian (Published as Morning
-      Oregonian.) - February 20, 1907 - Page 8,” n.d., 1.“Told To Stay Out Atlin Miners
-      Deport 58 Japanese - Oregonian (Published as Morning Oregonian) - September
-      21, 1907 - Page 6,” n.d., 1.“Treaty To Bar Coolies President Holds Out Hope
-      To - Oregonian (Published as Morning Oregonian.) - December 11, 1906 - Page
-      2,” n.d., 1.“Unions Hit at Japs Resolution Unfavorable to - Oregonian (Published
-      as Morning Oregonian) - October 5, 1916 - Page 4,” n.d., 1.“What Shall We Do
-      With Japanese? They Swarm to - Oregonian (Published as Morning Oregonian.) -
-      November 5, 1906 - Page 3,” n.d., 1.<br><br>Korean<br><br>“Company’s Denial
-      - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - September 15,
-      1903 - Page 2,” n.d., 1.“Conditions Change Rapidly in Alaska - Seattle Daily
+    content: "<strong>Japanese</strong><br><br>“Exclusion Provision Modified Senate
+      - Oregonian (Published as Morning Oregonian) - April 28, 1916 - Page Copy of
+      20,” n.d., 1.“Ault Too Busy to Give Evidence on Japanese - Seattle Daily Times
+      (Published as THE SEATTLE DAILY TIMES) - August 3, 1920 - Page 3,” n.d., 1.“Big
+      Influx Of Japs Nearly 1000 Said To Be Bound - Oregonian (Published as Morning
+      Oregonian.) - December 14, 1894 - Page 10,” n.d., 1.“Contract Japanese Labor
+      Three Immigration Firms - Oregonian (Published as Morning Oregonian) - November
+      1, 1907 - Page 5,” n.d., 1.“Exclude The Japanese Labor Leader Favors Extension
+      - Oregonian (Published as Morning Oregonian) - May 27, 1901 - Page 10,” n.d.,
+      1.“Exclusion Clause Needed - Oregonian (Published as Morning Oregonian) - February
+      23, 1911 - Page 8,” n.d., 1.“Exclusion Of Cheap Labor - Oregonian (Published
+      as Morning Oregonian) - January 26, 1901 - Page 6,” n.d., 1.“Fight between Oligarchy
+      and People Scheduled for - Oregonian (Published as Morning Oregonian) - August
+      28, 1910 - Page 3, 6,” n.d., 1.“General Avers U. S. Won’t Fight Japan. Doughboys
+      - Oregonian (Published as Morning Oregonian) - September 1, 1920 - Page 5,”
+      n.d., 1.“Hawaiian Annexation. What a Special Correspondent - Oregonian (Published
+      as Morning Oregonian.) - November 21, 1892 - Page 2,” n.d., 1.“He Appeals To
+      Japan Japanese Labor Agent Says. He - Oregonian (Published as Morning Oregonian.)
+      - March 6, 1906 - Page 4,” n.d., 1.“Importing Japanese Labor. Hoquiam Box Company
+      Says - Oregonian (Published as Morning Oregonian) - March 5, 1904 - Page 6,”
+      n.d., 1.“Japan Censured by Labor Conference. Violation of - Oregonian (Published
+      as Morning Oregonian) - November 7, 1919 - Page 2,” n.d., 1.“Japanese Akbor
+      Needed on Farms California - Oregonian (Published as Morning Oregonian) - May
+      30, 1910 - Page 2,” n.d., 2.“Japanese Contract Laborers - Tacoma Daily News
+      - August 23, 1893 - Page [2],” n.d., 1.“Japanese Finance Protest on Coolies.
+      Honolulu - Oregonian (Published as Morning Oregonian) - August 3, 1921 - Page
+      7,” n.d., 2.“Japanese Labor Bar down. Seattle Central Concil - Oregonian (Published
+      as Morning Oregonian) - May 29, 1914 - Page 2,” n.d., 1.“Japanese Labor Is Flooding
+      Chicago. Artisans and - Oregonian (Published as Morning Oregonian) - April 28,
+      1909 - Page [1],” n.d., 1.“Japanese Labor. The Aslatic Government Accused of
+      - Oregonian (Published as The Sunday Oregonian.) - June 16, 1895 - Page 9,”
+      n.d., 1.“Japanese Labor Unites. Nearly 1000 Attend Open - Oregonian (Published
+      as Morning Oregonian) - August 24, 1915 - Page 2,” n.d., 1.“Japanese Labor Unsatisfactory
+      - Oregonian (Published as Morning Oregonian.) - July 23, 1902 - Page 8,” n.d.,
+      1.“Japanese Labor’s Ideals Are Rising Federation Told - Oregonian (Published
+      as Morning Oregonian) - November 15, 1916 - Page 5,” n.d., 1.“Japanese Reply
+      to Their Critics. Figures Declared - Oregonian (Published as Morning Oregonian)
+      - May 5, 1913 - Page 2,” n.d., 1.“Japanese to Be Imported - Tacoma Daily News
+      - June 17, 1891 - Page 4,” n.d., 1.“Japanese Union Hold Meeting - Seattle Daily
+      Times (Published as THE SEATTLE DAILY TIMES) - August 23, 1915 - Page 7,” n.d.,
+      1.“Japan’s Limitations - Oregonian (Published as Morning Oregonian) - July 14,
+      1896 - Page 4,” n.d., 1.“Japs as Coal Miners. Canadian Mine Owners - Tacoma
+      Daily News - January 13, 1892 - Page 5,” n.d., 1.“Local Unionists Would Oust
+      Japs Portland’s - Oregonian (Published as Morning Oregonian) - February 25,
+      1910 - Page 16,” n.d., 1.“New Study In Economics - Oregonian (Published as Morning
+      Oregonian) - November 27, 1904 - Page 4,” n.d., 1.“[San Francisco; Japanese;
+      Chinese; Japs - Tacoma Daily News - February 27, 1891 - Page 7,” n.d., 1.“Seattle
+      Daily Times (Published as THE SEATTLE DAILY TIMES) - August 4, 1920 - Page 7,”
+      n.d., 1.“Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - October
+      24, 1919 - Page 36,” n.d., 1.“Serious Problem About Japanese Irritated at -
+      Oregonian (Published as Morning Oregonian.) - October 31, 1906 - Page 1, 5,”
+      n.d., 3.“Stores And Trade In Japan Eighth Japanese Letter, - Oregonian (Published
+      as The Sunday Oregonian) - December 2, 1888 - Page 1,” n.d., 1.“Tacoma Daily
+      News - August 23, 1893 - Page 2,” n.d., 1.“The Japanese - Oregonian (Published
+      as Morning Oregonian.) - February 20, 1907 - Page 8,” n.d., 1.“Told To Stay
+      Out Atlin Miners Deport 58 Japanese - Oregonian (Published as Morning Oregonian)
+      - September 21, 1907 - Page 6,” n.d., 1.“Treaty To Bar Coolies President Holds
+      Out Hope To - Oregonian (Published as Morning Oregonian.) - December 11, 1906
+      - Page 2,” n.d., 1.“Unions Hit at Japs Resolution Unfavorable to - Oregonian
+      (Published as Morning Oregonian) - October 5, 1916 - Page 4,” n.d., 1.“What
+      Shall We Do With Japanese? They Swarm to - Oregonian (Published as Morning Oregonian.)
+      - November 5, 1906 - Page 3,” n.d., 1.<br><br><strong>Korean</strong><br><br>“Company’s
+      Denial - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - September
+      15, 1903 - Page 2,” n.d., 1.“Conditions Change Rapidly in Alaska - Seattle Daily
       Times (Published as THE SEATTLE DAILY TIMES) - November 2, 1918 - Page 7,” n.d.,
       1.“Exclusion Will Cause Storm - Seattle Daily Times (Published as THE SEATTLE
       DAILY TIMES) - July 29, 1907 - Page 10,” n.d., 1.“Hunters Bay Cannery Has Exciting
@@ -992,20 +992,20 @@ page_sections:
       - March 14, 1907 - Page 8,” n.d., 1.“Tacoma Daily News (Published as THE TACOMA
       DAILY NEWS) - November 22, 1905 - Page 1,” n.d., 1.“Tacoma Daily News (Published
       as THE TACOMA DAILY NEWS) - September 17, 1908 - Page 2,” n.d., 1.“Tacoma Daily
-      News (Published as THE TACOME DAILY NEWS) - May 22, 1905 - Page 2,” n.d., 1.<br><br>Native
-      American<br><br>“About Three Weeks Ago - Oregonian (Published as Morning Oregonian)
-      - May 9, 1881 - Page 1,” n.d., 1.“Aska’s Resources. Mr. Paul Shulze Interviewed
-      At - Oregonian (Published as Morning Oregonian) - March 14, 1882 - Page 4,”
-      n.d., 1.“Bans Whites As Canoemen - Tribune (Published as THE TACOMA NEWS TRIBUNE)
-      - April 2, 1928 - Page 15,” n.d., 1.“Build Artificial Islands to Construct Bridge
-      - Oregonian (Published as Morning Oregonian) - June 21, 1914 - Page 3,” n.d.,
-      1.“Carrying On The Work of Marcus Whitman Indian - Oregonian (Published as The
-      Sunday Oregonian.) - January 21, 1906 - Page 40,” n.d., 1.“Ds To Be Let [Illegible]
-      The Indian Mostly - Oregonian (Published as Morning Oregonian.) - February 13,
-      1895 - Page 2,” n.d., 1.“Indian Labor in Beet Fields - Oregonian (Published
-      as Morning Oregonian) - October 26, 1898 - Page 9,” n.d., 1.“Indian Sawmill
-      - Oregonian (Published as Morning Oregonian.) - January 14, 1886 - Page 7,”
-      n.d., 1.“Indians May Build Reservation Roads - Seattle Daily Times (Published
+      News (Published as THE TACOME DAILY NEWS) - May 22, 1905 - Page 2,” n.d., 1.<br><br><strong>Native
+      American</strong><br><br>“About Three Weeks Ago - Oregonian (Published as Morning
+      Oregonian) - May 9, 1881 - Page 1,” n.d., 1.“Aska’s Resources. Mr. Paul Shulze
+      Interviewed At - Oregonian (Published as Morning Oregonian) - March 14, 1882
+      - Page 4,” n.d., 1.“Bans Whites As Canoemen - Tribune (Published as THE TACOMA
+      NEWS TRIBUNE) - April 2, 1928 - Page 15,” n.d., 1.“Build Artificial Islands
+      to Construct Bridge - Oregonian (Published as Morning Oregonian) - June 21,
+      1914 - Page 3,” n.d., 1.“Carrying On The Work of Marcus Whitman Indian - Oregonian
+      (Published as The Sunday Oregonian.) - January 21, 1906 - Page 40,” n.d., 1.“Ds
+      To Be Let [Illegible] The Indian Mostly - Oregonian (Published as Morning Oregonian.)
+      - February 13, 1895 - Page 2,” n.d., 1.“Indian Labor in Beet Fields - Oregonian
+      (Published as Morning Oregonian) - October 26, 1898 - Page 9,” n.d., 1.“Indian
+      Sawmill - Oregonian (Published as Morning Oregonian.) - January 14, 1886 - Page
+      7,” n.d., 1.“Indians May Build Reservation Roads - Seattle Daily Times (Published
       as THE SEATTLE DAILY TIMES) - January 23, 1911 - Page 8,” n.d., 1.“Indians to
       Build Roads - Oregonian (Published as Morning Oregonian) - June 13, 1915 - Page
       7,” n.d., 1.“Indians to Cut Timber Five Million Feet to Come - Oregonian (Published
@@ -1051,11 +1051,11 @@ page_sections:
       1916 - Page 5,” n.d., 1.“Washington News. The Anti-Polygamy Bill at Last - Oregonian
       (Published as Morning Oregonian) - February 17, 1882 - Page 1,” n.d., 1.“Yakima
       Hop Yards -Seattle Post-Intelligencer (Published as THE POST-INTELLIGENCER.)
-      - January 7, 1920 - Page 24,” n.d., 1.<br><br>Norwegian<br><br>“Attempted Burglary
-      Charged - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - April
-      6, 1905 - Page 9,” n.d., 1.“Bold Hold Up For $1.50 - Tacoma Daily News (Published
-      as THE TACOMA DAILY NEWS) - December 2, 1909 - Page 2,” n.d., 1.“Catches Night
-      Prowler. Norwegian Caught after - Oregonian (Published as Morning Oregonian)
+      - January 7, 1920 - Page 24,” n.d., 1.<br><br><strong>Norwegian</strong><br><br>“Attempted
+      Burglary Charged - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES)
+      - April 6, 1905 - Page 9,” n.d., 1.“Bold Hold Up For $1.50 - Tacoma Daily News
+      (Published as THE TACOMA DAILY NEWS) - December 2, 1909 - Page 2,” n.d., 1.“Catches
+      Night Prowler. Norwegian Caught after - Oregonian (Published as Morning Oregonian)
       - October 11, 1908 - Page 9,” n.d., 1.“Drags Burned Feet Weary Miles To Nearby
       City - Seattle Daily Times (Published as The Seattle Sunday Times.) - December
       20, 1914 - Page 13,” n.d., 1.“Drowns While at Play. Child Falls from Houseboat
@@ -1110,7 +1110,7 @@ page_sections:
       - Page 1,” n.d., 1.“Workman Badly Crushed. Herman Lind Perhaps Fatally - Oregonian
       (Published as Morning Oregonian) - October 6, 1908 - Page 9,” n.d., 1.“World
       Cold, So He Swallows Poison - Seattle Daily Times (Published as THE SEATTLE
-      DAILY TIMES) - November 1, 1909 - Page 3,” n.d., 1.<br><br>Polish<br><br>“Beet
+      DAILY TIMES) - November 1, 1909 - Page 3,” n.d., 1.<br><br><strong>Polish</strong><br><br>“Beet
       Industry Threatened - Oregonian (Published as Morning Oregonian.) - February
       6, 1894 - Page 4,” n.d., 1.“Carl Bosun - Tacoma Daily News (Published as THE
       TACOMA DAILY NEWS) - January 24, 1910 - Page 2,” n.d., 1.“Colony Of Poles Will
@@ -1166,7 +1166,7 @@ page_sections:
       News (Published as THE TACOMA DAILY NEWS) - October 14, 1916 - Page 1,” n.d.,
       1.“Tacoma’s Litigation The City Will Sue Controller - Oregonian (Published as
       The Sunday Oregonian) - February 21, 1897 - Page 3,” n.d., 1.“They Can Find
-      Homes - Tacoma Daily News - November 17, 1896 - Page 3,” n.d., 1.
+      Homes - Tacoma Daily News - November 17, 1896 - Page 3,” n.d., 1."
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
