@@ -200,5 +200,19 @@ page_sections:
   content: Although there is a massive amount of change happening during the time
     span of this research project, there are a few repeating organizations, laws and
     events which surface in the research material which may be obscure to researchers.
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    slug: gl2
+    content: Chinese Exclusion Act<br><br>International Workers of the World
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
