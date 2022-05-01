@@ -265,14 +265,14 @@ page_sections:
     content: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Informed by these archival collections, historic newspapers,
-    periodicals and legacy oral history recordings I gathered at the archives, I wanted
-    to text mine media representation of the following communities of interest:</strong>"
+  headline: "<strong>Informed by these archival collections,</strong>"
   background_image: ''
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: 'historic newspapers, periodicals and legacy oral history recordings I
+    gathered at the archives, I selected the following communities to examine through
+    text mining:'
   cta:
     enabled: false
     url: ''
