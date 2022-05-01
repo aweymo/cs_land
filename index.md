@@ -172,7 +172,7 @@ page_sections:
       religious practice, which is not necessarily accurate.</span>
   col_3:
     headline: ''
-    slug: s6
+    slug: s5
     content: <span class="s1">Finally, of all of the groups described in this project,
       the </span><strong><span class="s1">only communities</span></strong><span class="s1">
       that were not immigrants are the </span><strong><span class="s1">Native Americans</span></strong><span
