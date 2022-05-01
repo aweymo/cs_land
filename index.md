@@ -232,16 +232,6 @@ page_sections:
       The Ancient Order of Vikings, containing photographs and personal remembrances
       of group members in both English and Norwegian language. "
   headline: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Informed by these archival collections,</strong>"
