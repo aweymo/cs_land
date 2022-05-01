@@ -294,16 +294,9 @@ page_sections:
   block: one-column-1
   slug: find
   headline: ''
-  content: "One combined visualization of term frequency for each group \"text mining
-    overview\" in folder<br><br>one combined visualization of each community group
-    with early and later visualizations.<br><br>&lt;!--\tExported from Voyant Tools
-    (voyant-tools.org).The iframe src attribute below uses a relative protocol to
-    better function with bothhttp and https sites, but if you're embedding this into
-    a local web page (file protocol)you should add an explicit protocol (https if
-    you're using voyant-tools.org, otherwiseit depends on this server.Feel free to
-    change the height and width values or other styling below: --&gt;&lt;iframe style='width:
-    849px; height: 708px;' src='<a href=\"https://voyant-tools.org/tool/Bubbles/?audio=true&amp;corpus=623aefb1b3309e29de639fb7725491ba\"
-    title=\"https://voyant-tools.org/tool/Bubbles/?audio=true&amp;corpus=623aefb1b3309e29de639fb7725491ba\">https://voyant-tools.org/tool/Bubbles/?audio=true&amp;corpus=623aefb1b3309e29de639fb7725491ba</a>'&gt;&lt;/iframe&gt;<br>"
+  content: One combined visualization of term frequency for each group "text mining
+    overview" in folder<br><br>one combined visualization of each community group
+    with early and later visualizations.<br><br><br>
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
