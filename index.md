@@ -75,8 +75,13 @@ page_sections:
       during times of war.
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: p2
+    content: Why does this matter? Why air out frequently offensive material from
+      over 100 years ago? Just as the categorization of <em>Lesbian</em> and <em>Gay</em>
+      topics under <em>Abnormal Psychology, Perversion and Derangement</em> in the
+      Dewey Decimal System quietly stigmatized generations, I feel that this language
+      may still influence our perceptions of ourselves and other communities, long
+      past it's original intended use.
   col_3:
     headline: ''
     slug: ''
