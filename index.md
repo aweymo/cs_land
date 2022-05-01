@@ -260,9 +260,11 @@ page_sections:
     content: <span class="s1">Black<br>Chinese<br>Filipino<br>Finnish<br>German</span>
     headline: ''
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: 'Informed by these archival collections, historic newspapers, periodicals
+      and legacy oral history recordings I gathered at the archives, I wanted to text
+      mine media representation of the following communities of interest:'
+    slug: m4
+    content: <span class="s1">Greek<br>South Asian ("Hindu")<br>Irish<br>Italian</span>
   col_3:
     headline: ''
     slug: ''
