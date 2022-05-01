@@ -28,8 +28,8 @@ page_sections:
     slug: cb_repo
     content: ''
   col_3:
-    headline: ''
-    slug: ''
+    headline: OH(as)Data Oral History Repository
+    slug: oh_repo
     content: ''
 - template: 2-column-text
   block: two-column-1
