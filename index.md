@@ -299,5 +299,18 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Acknowledgements
+    slug: a
+    content: I would like to thank Anna Trammell, Spencer Bowman and Ilona Perry at
+      the Northwest Room for being incredibly generous with their time and effort
+      in supporting this project. I would also like to thank Kate Thornhill at the
+      University of Oregon for advice on shaping and hosting this project.
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
