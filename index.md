@@ -280,6 +280,17 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
+    slug: cat
+    content: <span class="s1">Black<br><br>Chinese<br><br>Filipino<br><br>Finnish<br><br>German<br><br>Greek<br><br>South
+      Asian</span>
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
     slug: m6
     content: This involved retrieving the top <strong>40 items</strong> of each group
       based on relevance, or the greatest number of matches for each search term.
