@@ -16,7 +16,7 @@ page_sections:
   image:
     image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
-  background_image: "/uploads/2022/05/01/as_021901_e.png"
+  background_image: "/uploads/2022/05/01/as_021901_f.png"
 - template: 3-column-text
   block: three-column-1
   col_1:
