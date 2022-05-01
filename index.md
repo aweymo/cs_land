@@ -123,9 +123,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2022/04/30/pvjacl001.png"
   image:
-    alt_text: "Japanese American Citizen's League Handbook\tThe Japanese American
-      Citizen's League\t1960-01-01\tUndated handbook from the JACL featuring a retrospective
-      of Japanese American History and WWII incarceration."
+    alt_text: Japanese American Citizen's League Handbook
     image: ''
   headline: "<strong>Statement on Potentially Harmful Content</strong>"
   content: In utilizing this resource, you will encounter offensive, oppressive, racist,
