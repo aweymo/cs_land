@@ -24,8 +24,8 @@ page_sections:
     slug: HNV
     content: ''
   col_2:
-    headline: ''
-    slug: ''
+    headline: CollectionBuilder Repository
+    slug: cb_repo
     content: ''
   col_3:
     headline: ''
