@@ -94,6 +94,14 @@ page_sections:
       in Washington and Oregon, when it was clearly in a churning state of development.
       A frequent element that appears in the research is gauging different immigrant
       groups on their ability to assimilate or "Americanize."
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/05/01/wmj.png"
+    caption: Washington Masonic Journal
+  image_2:
+    image: ''
+    caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -247,6 +255,16 @@ page_sections:
       The Ancient Order of Vikings, containing photographs and personal remembrances
       of group members in both English and Norwegian language. "
   headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
