@@ -269,5 +269,23 @@ page_sections:
     headline: ''
     slug: m5
     content: <span class="s1">Japanese<br><br>Korean<br><br>Native American<br><br>Polish<br></span>
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    slug: m6
+    content: This involved retrieving the top <strong>40 items</strong> of each group
+      based on relevance, or the greatest number of matches for each search term.
+      The searches all followed the same formula, <strong>"_____ labor,"</strong>
+      <strong>1880-1930</strong> date range, and <strong>Washington</strong> or <strong>Oregon</strong>
+      state based publications. From these forty items, I filtered results down to
+      <strong>10 items</strong> based on their locality. Items that were reprints
+      of stories outside of Washington and Oregon were removed. Items generally focused
+      on events in the states, but I felt that editorials on some national topics
+      could be included if they provided insight into Pacific Northwest culture.
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
