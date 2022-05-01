@@ -17,6 +17,13 @@ page_sections:
     image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/04/30/as021901.png"
+- template: 1-column-text
+  block: one-column-1
+  content: "<strong>Developing language used to describe immigrant groups in the Pacific
+    Northwest from 1880-1930, reflects labor, industrial and land development interests,
+    which may still impact these communities today.</strong>"
+  headline: ''
+  slug: tag
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -31,6 +38,15 @@ page_sections:
     headline: OH(as)Data Oral History Repository
     slug: oh_repo
     content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/04/30/ten12091903.png"
