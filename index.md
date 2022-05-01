@@ -1160,7 +1160,7 @@ page_sections:
     reach out directly: <br><br>andrewrainsweymouth@gmail.com'
   headline: "<strong>About the Author</strong>"
   image:
-    image: "/uploads/2022/05/01/aweymouth-smol.png"
+    image: "/uploads/2022/05/01/aweymouth.png"
     alt_text: ''
   background_image: ''
   cta:
