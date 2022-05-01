@@ -100,7 +100,7 @@ page_sections:
     image: "/uploads/2022/05/01/wmj.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2022/05/01/eb_01121889_b.png"
     caption: ''
 - template: 3-column-text
   block: three-column-1
