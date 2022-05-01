@@ -293,10 +293,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: find
-  headline: ''
-  content: One combined visualization of term frequency for each group "text mining
-    overview" in folder<br><br>one combined visualization of each community group
-    with early and later visualizations.<br><br><br>
+  headline: blacktm1
+  content: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
