@@ -127,8 +127,10 @@ page_sections:
       Citizen's League\t1960-01-01\tUndated handbook from the JACL featuring a retrospective
       of Japanese American History and WWII incarceration."
     image: ''
-  headline: ''
-  content: ''
+  headline: "<strong>Statement on Potentially Harmful Content</strong>"
+  content: In utilizing this resource, you will encounter offensive, oppressive, racist,
+    and/or outdated references and representations. This content is made available
+    for transparency, accountability, and education.
   cta:
     enabled: false
     url: ''
