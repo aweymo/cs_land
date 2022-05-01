@@ -119,5 +119,19 @@ page_sections:
       there also industrial motives behind these narratives, as in the case of WWII
       opportunism on the part of agricultural interests seizing Japanese American
       farmland during incarceration?</span>
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/04/30/pvjacl001.png"
+  image:
+    alt_text: "Japanese American Citizen's League Handbook\tThe Japanese American
+      Citizen's League\t1960-01-01\tUndated handbook from the JACL featuring a retrospective
+      of Japanese American History and WWII incarceration."
+    image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
