@@ -257,7 +257,7 @@ page_sections:
   block: three-column-1
   col_1:
     slug: m3
-    content: <span class="s1">Black<br>Chinese<br>Filipino<br>Finnish<br>German</span>
+    content: <span class="s1">Black<br><br>Chinese<br><br>Filipino<br><br>Finnish<br></span>
     headline: ''
   col_2:
     headline: 'Informed by these archival collections, historic newspapers, periodicals
