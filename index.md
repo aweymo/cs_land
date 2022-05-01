@@ -172,7 +172,12 @@ page_sections:
       religious practice, which is not necessarily accurate.</span>
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: s6
+    content: <span class="s1">Finally, of all of the groups described in this project,
+      the </span><strong><span class="s1">only communities</span></strong><span class="s1">
+      that were not immigrants are the </span><strong><span class="s1">Native Americans</span></strong><span
+      class="s1">. That said, I felt that the representation of this community was
+      a crucial element to how media often 'othered' these communities in order to
+      engage in myth making around who a true American was and what they resembled.</span>
 
 ---
