@@ -190,7 +190,7 @@ page_sections:
     visualization contains links to the digital object, which can be analyzed in greater
     detail or listened to in full, in the case of the oral history recordings.
   media:
-    image: "/uploads/2022/04/30/tt30101897.png"
+    image: "/uploads/2022/05/01/ill030_b.png"
     alt_text: "Tacoma Tidende\t1897-10-30\tFront page of Tacoma  Tidende, \"The Bidding
       Stick.\""
 - template: 1-column-text
