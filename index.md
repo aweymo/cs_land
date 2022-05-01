@@ -284,6 +284,12 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: full-width-media-element
+  block: media-1
+  slug: freq vis
+  caption: 'Top Row is the most frequent location of publishers by county. Bottom
+    row is frequency of appearance over time. '
+  image: uploads/uploads/2022/freq-viz.png
 - template: 1-column-text
   block: one-column-1
   slug: find
