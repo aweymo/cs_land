@@ -60,6 +60,27 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Purpose
+    slug: p1
+    content: The intention of this work is to bring both the industrial interests
+      that influenced media representation and the lived experience of the communities
+      affected by that language down to a human scale. During this period in American
+      history, racial animosity was frequently used to divide labor, leading immigrant
+      groups to undercut one another to the industrialist's advantage. Racial provocations
+      would also be used as a straw man for industrialists to argue against anti-monopoly
+      legislation, shape narratives around land development and act opportunistically
+      during times of war.
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -129,20 +150,6 @@ page_sections:
     slug: ''
     content: ''
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-  col_3:
     headline: ''
     slug: ''
     content: ''
