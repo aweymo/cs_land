@@ -114,7 +114,10 @@ page_sections:
       country of origin and become "American," "White" or hyphenates, such as Polish-American?</span>
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: c3
+    content: <span class="s1">How do world events shape these representations? Are
+      there also industrial motives behind these narratives, as in the case of WWII
+      opportunism on the part of agricultural interests seizing Japanese American
+      farmland during incarceration?</span>
 
 ---
