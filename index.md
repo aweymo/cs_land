@@ -301,6 +301,16 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
+    slug: ''
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
     headline: Acknowledgements
     slug: a
     content: I would like to thank Anna Trammell, Spencer Bowman and Ilona Perry at
