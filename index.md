@@ -276,7 +276,8 @@ page_sections:
   col_2:
     headline: ''
     slug: m4
-    content: <span class="s1">German<br><br>Greek<br><br>South Asian ("Hindu")<br><br>Irish<br><br>Italian<br></span>
+    content: <span class="s1">Black<br><br>Chinese<br><br>Filipino<br><br>Finnish<br><br>German<br><br>Greek<br><br>South
+      Asian ("Hindu")<br></span>
   col_3:
     headline: ''
     slug: m5
