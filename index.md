@@ -121,7 +121,7 @@ page_sections:
       farmland during incarceration?</span>
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/04/30/c06031886.png"
+  background_image: "/uploads/2022/05/01/alpha3076_b.png"
   image:
     alt_text: ''
     image: ''
