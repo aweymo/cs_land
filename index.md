@@ -281,6 +281,12 @@ page_sections:
       this exhibit. This method is still developing and being improved upon. This
       data and the overall project serves as a proof of concept towards future iterations
       of work.
+- template: 1-column-text
+  block: one-column-1
+  slug: find
+  headline: Findings
+  content: One combined visualization of term frequency for each group "text mining
+    overview" in folder
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
