@@ -123,7 +123,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2022/04/30/pvjacl001.png"
   image:
-    alt_text: Japanese American Citizen's League Handbook
+    alt_text: ''
     image: ''
   headline: "<strong>Statement on Potentially Harmful Content</strong>"
   content: In utilizing this resource, you will encounter offensive, oppressive, racist,
