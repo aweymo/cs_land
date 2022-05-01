@@ -306,7 +306,7 @@ page_sections:
       of work.
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/04/30/c06031886.png"
+  background_image: "/uploads/2022/05/01/c_06031886_b.png"
   image:
     alt_text: "\"Tacoma Coal Bunkers\"\tCommerce (Newspaper) 1886-06-03 Illustration
       of boats mooring on Tacoma waterfront."
