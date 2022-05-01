@@ -94,6 +94,12 @@ page_sections:
       in Washington and Oregon, when it was clearly in a churning state of development.
       A frequent element that appears in the research is gauging different immigrant
       groups on their ability to assimilate or "Americanize."
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/04/30/c06031886.png"
+  slug: commerce
+  caption: "\"Tacoma Coal Bunkers\"\tCommerce (Newspaper)\t1886-06-03\tIllustration
+    of boats mooring on Tacoma waterfront."
 - template: 2-column-text
   block: two-column-1
   col_1:
