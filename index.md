@@ -45,8 +45,8 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2022/04/30/ten12091903.png"
+    alt_text: '"1903 Prosperity Edition" Tacoma Evening News 1903-01-12'
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/04/30/ten12091903.png"
