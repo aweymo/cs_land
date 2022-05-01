@@ -264,10 +264,10 @@ page_sections:
       and legacy oral history recordings I gathered at the archives, I wanted to text
       mine media representation of the following communities of interest:'
     slug: m4
-    content: <span class="s1">Greek<br><br>South Asian ("Hindu")<br><br>Irish<br><br>Italian</span>
+    content: <span class="s1">German<br><br>Greek<br><br>South Asian ("Hindu")<br><br>Irish<br><br>Italian<br></span>
   col_3:
     headline: ''
     slug: m5
-    content: <span class="s1">Japanese<br><br>Korean<br><br>Native American<br><br>Polish</span>
+    content: <span class="s1">Japanese<br><br>Korean<br><br>Native American<br><br>Polish<br></span>
 
 ---
