@@ -148,5 +148,23 @@ page_sections:
     State publications, 1880-1930), with 340 results from the NewsBank resource, as
     opposed to "colored labor" (165) and "black labor" (55).
   headline: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <span class="s1">I have chosen to refer to each group simply from their
+      country of origin rather than </span><em><span class="s1">hyphenate-American</span></em><span
+      class="s1"> though many of the people addressed in this media </span><strong><span
+      class="s1">may have been American citizens</span></strong><span class="s1">.
+      This was a decision to make the material easier to read and less redundant.</span>
+    slug: s3
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
