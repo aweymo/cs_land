@@ -266,13 +266,15 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Informed by these archival collections,</strong>"
-  background_image: ''
+  background_image: "/uploads/2022/05/01/ten_12011903_b.png"
   image:
     image: ''
     alt_text: ''
-  content: 'historic newspapers, periodicals and legacy oral history recordings I
-    gathered at the archives, I selected the following communities to examine through
-    text mining:'
+  content: historic newspapers, periodicals and legacy oral history recordings I gathered
+    at the archives, I selected the following communities to examine through text
+    mining:<br><br>- <span class="s1">Black<br>- Chinese<br>- Filipino<br>- Finnish<br>-
+    German<br>- Greek<br>- South Asian<br>- Irish<br>- Italian<br>- Japanese<br>-
+    Korean<br>- Native American<br>- Norwegian<br>- Polish</span>
   cta:
     enabled: false
     url: ''
