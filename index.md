@@ -295,9 +295,6 @@ page_sections:
   slug: find
   headline: blacktm1
   content: ''
-  <div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="https://voyant-tools.org/tool/Bubbles/?stopList=keywords-2ab3dcd9ea8c051cdd0b9703972fc703&corpus=4e047055ee11c4a9101b6aad4b1d04ee"></iframe>
-</div>
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
