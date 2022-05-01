@@ -269,8 +269,10 @@ page_sections:
   block: three-column-1
   col_1:
     slug: m3
-    content: <span class="s1">Black<br><br>Chinese<br><br>Filipino<br><br>Finnish<br></span>
-    headline: ''
+    content: <span class="s1"><br></span>
+    headline: 'Informed by these archival collections, historic newspapers, periodicals
+      and legacy oral history recordings I gathered at the archives, I wanted to text
+      mine media representation of the following communities of interest:'
   col_2:
     headline: ''
     slug: m4
