@@ -40,9 +40,11 @@ page_sections:
     content: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
+  media_alignment: Left
+  headline: "<strong>Developing language used to describe immigrant groups in the
+    Pacific Northwest from 1880-1930, reflects labor, industrial and land development
+    interests, which may still impact these communities today.</strong>"
+  slug: tag.2
   content: ''
   media:
     image: "/uploads/2022/04/30/ten12091903.png"
