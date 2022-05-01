@@ -388,82 +388,82 @@ page_sections:
   col_1:
     headline: ''
     slug: tm2
-    content: Black<br><br>“3 Bodyguards Are Killed. Radical Escapes during - Oregonian
-      (Published as Morning Oregonian) - November 24, 1919 - Page 4,” n.d., 1.“20,000
-      Negroes May Be Shipped To California - Seattle Daily Times (Published as THE
-      SEATTLE DAILY TIMES) - February 14, 1928 - Page 5,” n.d., 1.“Aimed at Colored
-      Waiters. Reform Proposed by the - Oregonian (Published as Morning Oregonian)
-      - October 13, 1908 - Page 8,” n.d., 1.“By-Products of the Press. Queerest Exemption
-      Claim - Oregonian (Published as Morning Oregonian) - February 20, 1920 - Page
-      10,” n.d., 2.“Chicago Has 20,000 Negro Unemployed. Number One- - Oregonian (Published
-      as Morning Oregonian) - March 7, 1921 - Page 16,” n.d., 3.“Chinese Labor For
-      The South - Oregonian (Published as Morning Oregonian) - July 17, 1901 - Page
-      6,” n.d., 1.“Delayed Retribution - Oregonian (Published as Morning Oregonian.)
-      - July 8, 1892 - Page 4,” n.d., 2.“[Estimated; Statistics; Immigration; Exceeding;
-      - Oregonian (Published as Morning Oregonian.) - April 9, 1903 - Page 8,” n.d.,
-      1.“Gro Labor for Hawaii - Oregonian (Published as Morning Oregonian.) - July
-      11, 1900 - Page 2,” n.d., 1.“Gro Labor Investigated. Work of Importance to -
-      Oregonian (Published as Morning Oregonian) - December 4, 1918 - Page 13,” n.d.,
-      1.“Idleness As Cause Of Race Riot - Oregonian (Published as Morning Oregonian.)
-      - October 6, 1906 - Page 8,” n.d., 2.“In Our Southern States - Oregonian (Published
-      as Morning Oregonian.) - August 21, 1905 - Page 6,” n.d., 1.“Is Negro Failure?
-      Problem Considered by Southern - Oregonian (Published as Morning Oregonian.)
-      - January 12, 1906 - Page 3,” n.d., 1.“Labor Federation Plebes Loyalty Vote
-      to Support - Oregonian - November 21, 1917 - Page 5,” n.d., 2.“N Exodus Of Negroes.
-      Fruit of Recent Measures - Oregonian (Published as Morning Oregonian.) - October
-      27, 1900 - Page [6],” n.d., 1.“Negro Exodus to North Is Watched Federal Officials
-      - Oregonian (Published as The Sunday Oregonian) - October 28, 1916 - Page 2,”
-      n.d., 1.“Negro Immigration - Seattle Post-Intelligencer (Published as THE POST-INTELLIGENCER)
-      - November 7, 1916 - Page 6,” n.d., 1.“Negro Labor Unlikely Conditions In Northwest
-      Not - Oregonian - March 3, 1918 - Page 13,” n.d., 1.“Oregonian (Published as
-      Morning Oregonian.) - September 13, 1923 - Page 2,” n.d., 1.“Predestined Failure
-      - Oregonian (Published as Morning Oregonian.) - May 29, 1893 - Page 4,” n.d.,
-      1.“Problem For Time - Oregonian (Published as Morning Oregonian) - February
-      7, 1901 - Page 6,” n.d., 1.“Problems Of The South - Oregonian (Published as
-      Morning Oregonian.) - February 14, 1906 - Page 8,” n.d., 1.“Race Question In
-      The South. While Boys at the Plow - Oregonian (Published as Morning Oregonian.)
-      - February 14, 1906 - Page 8,” n.d., 1.“Reed Urged World Soviet. Union of Negroes
-      and - Oregonian (Published as Morning Oregonian) - November 27, 1920 - Page
-      4,” n.d., 1.“Relics Of The Slave System - Oregonian (Published as Morning Oregonian)
-      - August 9, 1894 - Page 4,” n.d., 1.“Southern Labor Question. Discussion of
-      Recent - Oregonian (Published as Morning Oregonian) - July 19, 1909 - Page 6,”
-      n.d., 1.“Southern Manufacture - Oregonian (Published as The Sunday Oregonian)
-      - January 20, 1889 - Page 4,” n.d., 1.“Southern Testimony - Oregonian (Published
-      as Morning Oregonian) - July 24, 1889 - Page 4,” n.d., 1.“The Future Of The
-      Negro - Oregonian (Published as Morning Oregonian) - October 20, 1898 - Page
-      4,” n.d., 1.“The Indispensable Negro - Oregonian (Published as Morning Oregonian.)
-      - April 24, 1890 - Page 6,” n.d., 1.“The Negro as a Laborer - Oregonian (Published
-      as Morning Oregonian) - March 14, 1901 - Page 6,” n.d., 1.“The Negro Problem
-      - Oregonian (Published as Morning Oregonian.) - September 5, 1890 - Page 6,”
-      n.d., 1.“The Negro’s Difficulty - Oregonian (Published as Morning Oregonian)
-      - December 14, 1904 - Page 8,” n.d., 1.“The New South And The Negro - Oregonian
-      (Published as Morning Oregonian) - October 28, 1898 - Page 4,” n.d., 3.“The
-      Race Problem - Oregonian (Published as Morning Oregonian.) - February 25, 1890
-      - Page 6,” n.d., 2.“Ultimate Dominance Of The South - Oregonian (Published as
-      Morning Oregonian) - December 11, 1903 - Page 8,” n.d., 1.“Unrestricted Chinese
-      Immigration - Oregonian (Published as Morning Oregonian) - October 20, 1887
-      - Page 4,” n.d., 2.“Whites to Supplant Negro Labor - Oregonian (Published as
-      Morning Oregonian.) - March 7, 1907 - Page 2,” n.d., 1.“Why Murders Are Many
+    content: <strong>Black</strong><br><br>“3 Bodyguards Are Killed. Radical Escapes
+      during - Oregonian (Published as Morning Oregonian) - November 24, 1919 - Page
+      4,” n.d., 1.“20,000 Negroes May Be Shipped To California - Seattle Daily Times
+      (Published as THE SEATTLE DAILY TIMES) - February 14, 1928 - Page 5,” n.d.,
+      1.“Aimed at Colored Waiters. Reform Proposed by the - Oregonian (Published as
+      Morning Oregonian) - October 13, 1908 - Page 8,” n.d., 1.“By-Products of the
+      Press. Queerest Exemption Claim - Oregonian (Published as Morning Oregonian)
+      - February 20, 1920 - Page 10,” n.d., 2.“Chicago Has 20,000 Negro Unemployed.
+      Number One- - Oregonian (Published as Morning Oregonian) - March 7, 1921 - Page
+      16,” n.d., 3.“Chinese Labor For The South - Oregonian (Published as Morning
+      Oregonian) - July 17, 1901 - Page 6,” n.d., 1.“Delayed Retribution - Oregonian
+      (Published as Morning Oregonian.) - July 8, 1892 - Page 4,” n.d., 2.“[Estimated;
+      Statistics; Immigration; Exceeding; - Oregonian (Published as Morning Oregonian.)
+      - April 9, 1903 - Page 8,” n.d., 1.“Gro Labor for Hawaii - Oregonian (Published
+      as Morning Oregonian.) - July 11, 1900 - Page 2,” n.d., 1.“Gro Labor Investigated.
+      Work of Importance to - Oregonian (Published as Morning Oregonian) - December
+      4, 1918 - Page 13,” n.d., 1.“Idleness As Cause Of Race Riot - Oregonian (Published
+      as Morning Oregonian.) - October 6, 1906 - Page 8,” n.d., 2.“In Our Southern
+      States - Oregonian (Published as Morning Oregonian.) - August 21, 1905 - Page
+      6,” n.d., 1.“Is Negro Failure? Problem Considered by Southern - Oregonian (Published
+      as Morning Oregonian.) - January 12, 1906 - Page 3,” n.d., 1.“Labor Federation
+      Plebes Loyalty Vote to Support - Oregonian - November 21, 1917 - Page 5,” n.d.,
+      2.“N Exodus Of Negroes. Fruit of Recent Measures - Oregonian (Published as Morning
+      Oregonian.) - October 27, 1900 - Page [6],” n.d., 1.“Negro Exodus to North Is
+      Watched Federal Officials - Oregonian (Published as The Sunday Oregonian) -
+      October 28, 1916 - Page 2,” n.d., 1.“Negro Immigration - Seattle Post-Intelligencer
+      (Published as THE POST-INTELLIGENCER) - November 7, 1916 - Page 6,” n.d., 1.“Negro
+      Labor Unlikely Conditions In Northwest Not - Oregonian - March 3, 1918 - Page
+      13,” n.d., 1.“Oregonian (Published as Morning Oregonian.) - September 13, 1923
+      - Page 2,” n.d., 1.“Predestined Failure - Oregonian (Published as Morning Oregonian.)
+      - May 29, 1893 - Page 4,” n.d., 1.“Problem For Time - Oregonian (Published as
+      Morning Oregonian) - February 7, 1901 - Page 6,” n.d., 1.“Problems Of The South
+      - Oregonian (Published as Morning Oregonian.) - February 14, 1906 - Page 8,”
+      n.d., 1.“Race Question In The South. While Boys at the Plow - Oregonian (Published
+      as Morning Oregonian.) - February 14, 1906 - Page 8,” n.d., 1.“Reed Urged World
+      Soviet. Union of Negroes and - Oregonian (Published as Morning Oregonian) -
+      November 27, 1920 - Page 4,” n.d., 1.“Relics Of The Slave System - Oregonian
+      (Published as Morning Oregonian) - August 9, 1894 - Page 4,” n.d., 1.“Southern
+      Labor Question. Discussion of Recent - Oregonian (Published as Morning Oregonian)
+      - July 19, 1909 - Page 6,” n.d., 1.“Southern Manufacture - Oregonian (Published
+      as The Sunday Oregonian) - January 20, 1889 - Page 4,” n.d., 1.“Southern Testimony
+      - Oregonian (Published as Morning Oregonian) - July 24, 1889 - Page 4,” n.d.,
+      1.“The Future Of The Negro - Oregonian (Published as Morning Oregonian) - October
+      20, 1898 - Page 4,” n.d., 1.“The Indispensable Negro - Oregonian (Published
+      as Morning Oregonian.) - April 24, 1890 - Page 6,” n.d., 1.“The Negro as a Laborer
+      - Oregonian (Published as Morning Oregonian) - March 14, 1901 - Page 6,” n.d.,
+      1.“The Negro Problem - Oregonian (Published as Morning Oregonian.) - September
+      5, 1890 - Page 6,” n.d., 1.“The Negro’s Difficulty - Oregonian (Published as
+      Morning Oregonian) - December 14, 1904 - Page 8,” n.d., 1.“The New South And
+      The Negro - Oregonian (Published as Morning Oregonian) - October 28, 1898 -
+      Page 4,” n.d., 3.“The Race Problem - Oregonian (Published as Morning Oregonian.)
+      - February 25, 1890 - Page 6,” n.d., 2.“Ultimate Dominance Of The South - Oregonian
+      (Published as Morning Oregonian) - December 11, 1903 - Page 8,” n.d., 1.“Unrestricted
+      Chinese Immigration - Oregonian (Published as Morning Oregonian) - October 20,
+      1887 - Page 4,” n.d., 2.“Whites to Supplant Negro Labor - Oregonian (Published
+      as Morning Oregonian.) - March 7, 1907 - Page 2,” n.d., 1.“Why Murders Are Many
       - Oregonian (Published as Morning Oregonian) - October 29, 1911 - Page 6,” n.d.,
       1.“Yards Bar Negro Labor Chicago Packers Fear Renewal - Oregonian - August 3,
-      1919 - Page 20,” n.d., 1.<br><br><span class="s1">Chinese<br></span><br>“An
-      Immigration Inquest by the Sub-Committee of - Tacoma Daily News - November 29,
-      1890 - Page 5,” n.d., 1.“Bosh About "Slave Labor - Oregonian (Published as Morning
-      Oregonian.) - September 10, 1886 - Page 2,” n.d., 2.“Changed Public Sentiment
-      - Oregonian (Published as Morning Oregonian.) - July 21, 1885 - Page 3,” n.d.,
-      1.“Characteristics of Chinese Laborers - Oregonian (Published as Morning Oregonian.)
-      - September 14, 1899 - Page 4,” n.d., 1.“Chinaman’s View Of It Thinks Exclusion
-      Law Works - Oregonian (Published as Morning Oregonian) - July 13, 1903 - Page
-      12,” n.d., 1.“Chinese And The Exclusion Act Chicago Evening Post - Oregonian
-      (Published as Morning Oregonian.) - December 26, 1901 - Page 6,” n.d., 2.“Chinese
-      Labor For The South - Oregonian (Published as Morning Oregonian) - July 17,
-      1901 - Page 6,” n.d., 1.“Chinese Labor Is Not Way out. Smaller Tracts and -
-      Oregonian (Published as Morning Oregonian) - November 26, 1919 - Page 10,” n.d.,
-      1.“Chinese Laborers Attacked - Oregonian (Published as Morning Oregonian) -
-      August 11, 1896 - Page 2,” n.d., 1.“Chinese Laborers Landed - Tacoma Daily News
-      - October 1, 1897 - Page [1],” n.d., 1.“Chinese Problem A Difficult One How
-      to Exclude - Oregonian (Published as Morning Oregonian.) - June 18, 1905 - Page
-      13, 18,” n.d., 3.“Chinese Said to Be Evading Exclusion. Practice - Oregonian
+      1919 - Page 20,” n.d., 1.<br><br><strong><span class="s1">Chinese</span></strong><span
+      class="s1"><br></span><br>“An Immigration Inquest by the Sub-Committee of -
+      Tacoma Daily News - November 29, 1890 - Page 5,” n.d., 1.“Bosh About "Slave
+      Labor - Oregonian (Published as Morning Oregonian.) - September 10, 1886 - Page
+      2,” n.d., 2.“Changed Public Sentiment - Oregonian (Published as Morning Oregonian.)
+      - July 21, 1885 - Page 3,” n.d., 1.“Characteristics of Chinese Laborers - Oregonian
+      (Published as Morning Oregonian.) - September 14, 1899 - Page 4,” n.d., 1.“Chinaman’s
+      View Of It Thinks Exclusion Law Works - Oregonian (Published as Morning Oregonian)
+      - July 13, 1903 - Page 12,” n.d., 1.“Chinese And The Exclusion Act Chicago Evening
+      Post - Oregonian (Published as Morning Oregonian.) - December 26, 1901 - Page
+      6,” n.d., 2.“Chinese Labor For The South - Oregonian (Published as Morning Oregonian)
+      - July 17, 1901 - Page 6,” n.d., 1.“Chinese Labor Is Not Way out. Smaller Tracts
+      and - Oregonian (Published as Morning Oregonian) - November 26, 1919 - Page
+      10,” n.d., 1.“Chinese Laborers Attacked - Oregonian (Published as Morning Oregonian)
+      - August 11, 1896 - Page 2,” n.d., 1.“Chinese Laborers Landed - Tacoma Daily
+      News - October 1, 1897 - Page [1],” n.d., 1.“Chinese Problem A Difficult One
+      How to Exclude - Oregonian (Published as Morning Oregonian.) - June 18, 1905
+      - Page 13, 18,” n.d., 3.“Chinese Said to Be Evading Exclusion. Practice - Oregonian
       (Published as Morning Oregonian) - February 16, 1914 - Page [1], 2,” n.d., 1.“Chinese
       To Study English Phonetic Spelling - Oregonian - July 27, 1919 - Page 30,” n.d.,
       1.“Chinese Treaty Restrictions Governing Subjects - Morning Olympian (Published
@@ -508,20 +508,20 @@ page_sections:
       Page 4,” n.d., 1.“To Exclude Chinese. Debate in the House on the - Oregonian
       (Published as Morning Oregonian) - August 20, 1888 - Page 6,” n.d., 1.“Yellow
       Farm Labor Held Urgent Need Chinese - Oregonian - December 24, 1919 - Page 8,”
-      n.d., 2.<br><br>Filipino<br><br>“All Is Quiet - Seattle Daily Times (Published
-      as THE SEATTLE DAILY TIMES) - May 8, 1930 - Page 3,” n.d., 1.“Cuban Tariff Row
-      Arbitrators Try to Settle the - Oregonian (Published as Morning Oregonian.)
-      - March 14, 1902 - Page 2,” n.d., 1.“Federation Denounced for Filipino Stand
-      - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - July 12, 1928
-      - Page 11,” n.d., 1.“Filipino Freedom Asked - Oregonian (Published as The Sunday
-      Oregonian.) - March 16, 1930 - Page 6,” n.d., 1.“Filipino Labor Agent Is Fined
-      - Seattle Post-Intelligencer - November 4, 1925 - Page 5,” n.d., 1.“Filipino
-      Labor Indorsed. Yakima Sugar Beet Growers - Oregonian (Published as Morning
-      Oregonian) - May 4, 1919 - Page 7,” n.d., 1.“Filipino Labor Meets. Bolshevism
-      Opposed and - Oregonian (Published as Morning Oregonian) - June 27, 1920 - Page
-      6,” n.d., 1.“Filipino Labor Proposed California Official - Oregonian - April
-      16, 1917 - Page 6,” n.d., 1.“Filipino Labor Sought California Official Says
-      25, - Oregonian - April 15, 1917 - Page 8,” n.d., 1.“Filipinos Suing Chinese
+      n.d., 2.<br><br><strong>Filipino</strong><br><br>“All Is Quiet - Seattle Daily
+      Times (Published as THE SEATTLE DAILY TIMES) - May 8, 1930 - Page 3,” n.d.,
+      1.“Cuban Tariff Row Arbitrators Try to Settle the - Oregonian (Published as
+      Morning Oregonian.) - March 14, 1902 - Page 2,” n.d., 1.“Federation Denounced
+      for Filipino Stand - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES)
+      - July 12, 1928 - Page 11,” n.d., 1.“Filipino Freedom Asked - Oregonian (Published
+      as The Sunday Oregonian.) - March 16, 1930 - Page 6,” n.d., 1.“Filipino Labor
+      Agent Is Fined - Seattle Post-Intelligencer - November 4, 1925 - Page 5,” n.d.,
+      1.“Filipino Labor Indorsed. Yakima Sugar Beet Growers - Oregonian (Published
+      as Morning Oregonian) - May 4, 1919 - Page 7,” n.d., 1.“Filipino Labor Meets.
+      Bolshevism Opposed and - Oregonian (Published as Morning Oregonian) - June 27,
+      1920 - Page 6,” n.d., 1.“Filipino Labor Proposed California Official - Oregonian
+      - April 16, 1917 - Page 6,” n.d., 1.“Filipino Labor Sought California Official
+      Says 25, - Oregonian - April 15, 1917 - Page 8,” n.d., 1.“Filipinos Suing Chinese
       Company - Seattle Daily Times (Published as THE SEATTLE DAILY TIMES) - February
       27, 1917 - Page 3,” n.d., 1.“Japanese Tell Filipino Stand - Seattle Post-Intelligencer
       - July 30, 1930 - Page 16,” n.d., 1.“Kiwanians Hear Prominent Filipino - Seattle
@@ -560,7 +560,7 @@ page_sections:
       3.“Tribune (Published as THE TACOMA NEWS TRIBUNE) - January 29, 1930 - Page
       1,” n.d., 1.“Tribune (Published as THE TACOMA NEWS TRIBUNE) - May 8, 1930 -
       Page 1,” n.d., 1.“Trouble Again Over Loading Cableship - Tacoma Daily News (Published
-      as THE TACOMA DAILY NEWS) - September 2, 1912 - Page 2,” n.d., 1.<br><br>Finnish<br><br>“An
+      as THE TACOMA DAILY NEWS) - September 2, 1912 - Page 2,” n.d., 1.<br><br><strong>Finnish</strong><br><br>“An
       Exodus And An Opportunity - Oregonian (Published as The Sunday Oregonian.) -
       April 2, 1899 - Page 4,” n.d., 2.“Change of Name for ‘Wobblies’ - Tribune (Published
       as THE NEWS TRIBUNE) - June 24, 1918 - Page 11,” n.d., 1.“Describe Crime in
