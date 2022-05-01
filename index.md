@@ -96,7 +96,7 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/05/01/wmj.png"
-    caption: ''
+    caption: Washington Masonic Journal
   image_2:
     image: "/uploads/2022/05/01/eb_01121889_b.png"
     caption: ''
