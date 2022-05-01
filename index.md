@@ -208,8 +208,8 @@ page_sections:
     headline: ''
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: gl3
+    content: Lumber Tariffs<br><br>Norwegian exodus from Russian influences
   col_3:
     headline: ''
     slug: ''
