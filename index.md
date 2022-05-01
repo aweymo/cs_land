@@ -348,7 +348,7 @@ page_sections:
     April 1, 2022. <a href="https://www.historylink.org/File/9444" title="https://www.historylink.org/File/9444"><span
     class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>Credits for
     images included in alt text and incorporated into item level metadata.'
-  background_image: ''
+  background_image: "/uploads/2022/05/01/maz001_b.png"
   image:
     image: ''
     alt_text: ''
