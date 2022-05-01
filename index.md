@@ -84,8 +84,16 @@ page_sections:
       past it's original intended use.
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: p3
+    content: The staying power of this language also has to do with the significance
+      of this time period in the Pacific Northwest. The 1880 to 1930 time frame begins
+      ten years before the United States Census Bureau declared the closure of the
+      western frontier. What follows feels like an ideological land grab instead of
+      a physical one. A<span class="Apple-converted-space"> </span>prominent theme
+      throughout this research is the concept of "retaining" the American character
+      in Washington and Oregon, when it was clearly in a churning state of development.
+      A frequent element that appears in the research is gauging different immigrant
+      groups on their ability to assimilate or "Americanize."
 - template: 2-column-text
   block: two-column-1
   col_1:
