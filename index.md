@@ -108,9 +108,10 @@ page_sections:
       how do they change over time in relation to industrial interests?</span>
     headline: ''
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: 'While you use this resource, it is helpful to consider:'
+    slug: c2
+    content: <span class="s1">When do immigrant groups stop being referred to by their
+      country of origin and become "American," "White" or hyphenates, such as Polish-American?</span>
   col_3:
     headline: ''
     slug: ''
