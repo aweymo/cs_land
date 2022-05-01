@@ -286,8 +286,9 @@ page_sections:
     headline: ''
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: cat2
+    content: <span class="s1">Irish<br><br>Italian<br><br>Japanese<br><br>Korean<br><br>Native
+      American<br><br>Norwegian<br><br>Polish</span>
 - template: 2-column-text
   block: two-column-1
   col_1:
