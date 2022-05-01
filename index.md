@@ -193,27 +193,6 @@ page_sections:
     image: "/uploads/2022/05/01/ill030_b.png"
     alt_text: "Tacoma Tidende\t1897-10-30\tFront page of Tacoma  Tidende, \"The Bidding
       Stick.\""
-- template: 1-column-text
-  block: one-column-1
-  headline: Glossary
-  slug: gl
-  content: Although there is a massive amount of change happening during the time
-    span of this research project, there are a few repeating organizations, laws and
-    events which surface in the research material which may be obscure to researchers.
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    slug: gl2
-    content: Chinese Exclusion Act<br><br>International Workers of the World
-    headline: ''
-  col_2:
-    headline: ''
-    slug: gl3
-    content: Lumber Tariffs<br><br>Norwegian exodus from Russian influences
-  col_3:
-    headline: ''
-    slug: gl4
-    content: Polish persecution <br><br>War in the Philippines
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Methodology</strong>"
