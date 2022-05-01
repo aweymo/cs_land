@@ -285,8 +285,11 @@ page_sections:
   block: one-column-1
   slug: find
   headline: Findings
-  content: One combined visualization of term frequency for each group "text mining
-    overview" in folder
+  content: 'One combined visualization of term frequency for each group "text mining
+    overview" in folder<br><br>one combined visualization of each community group
+    with early and later visualizations.<br><br>&lt;iframe style=''width: 849px; height:
+    708px;'' src=''<a href="https://voyant-tools.org/tool/Bubbles/?audio=true&amp;corpus=623aefb1b3309e29de639fb7725491ba"
+    title="https://voyant-tools.org/tool/Bubbles/?audio=true&amp;corpus=623aefb1b3309e29de639fb7725491ba">https://voyant-tools.org/tool/Bubbles/?audio=true&amp;corpus=623aefb1b3309e29de639fb7725491ba</a>''&gt;&lt;/iframe&gt;'
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
