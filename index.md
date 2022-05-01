@@ -289,7 +289,7 @@ page_sections:
   slug: freq vis
   caption: 'Top Row is the most frequent location of publishers by county. Bottom
     row is frequency of appearance over time. '
-  image: uploads/uploads/2022/freq-viz.png
+  image: uploads/uploads/2022/freq-viz-2.png
 - template: 1-column-text
   block: one-column-1
   slug: find
