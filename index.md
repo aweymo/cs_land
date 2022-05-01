@@ -36,7 +36,7 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Developing language used to describe immigrant groups in the
     Pacific Northwest from 1880-1930, reflects labor, industrial and land development
-    interests, which may still impact these communities today.</strong>"
+    interests, which may still influence our perceptions today.</strong>"
   slug: tag.2
   content: ''
   media:
