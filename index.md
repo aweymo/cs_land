@@ -212,7 +212,7 @@ page_sections:
     content: Lumber Tariffs<br><br>Norwegian exodus from Russian influences
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: gl4
+    content: Polish persecution <br><br>War in the Philippines
 
 ---
