@@ -294,7 +294,8 @@ page_sections:
   block: one-column-1
   slug: find
   headline: blacktm1
-  content: "<br><br>"
+  content: '''<a href="https://voyant-tools.org/tool/Bubbles/?stopList=keywords-d91a70c69af1e5c9bdcee470655d8ad8&amp;corpus=4e047055ee11c4a9101b6aad4b1d04ee"
+    title="https://voyant-tools.org/tool/Bubbles/?stopList=keywords-d91a70c69af1e5c9bdcee470655d8ad8&amp;corpus=4e047055ee11c4a9101b6aad4b1d04ee">https://voyant-tools.org/tool/Bubbles/?stopList=keywords-d91a70c69af1e5c9bdcee470655d8ad8&amp;corpus=4e047055ee11c4a9101b6aad4b1d04ee</a>''<br><br>'
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
