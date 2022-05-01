@@ -98,10 +98,10 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/05/01/wmj.png"
-    caption: Washington Masonic Journal
+    caption: ''
   image_2:
-    image: "/uploads/2022/05/01/eb_01121889.png"
-    caption: Cover of the Epworth Budget
+    image: ''
+    caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
