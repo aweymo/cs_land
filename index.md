@@ -290,6 +290,11 @@ page_sections:
   caption: 'Top Row is the most frequent location of publishers by county. Bottom
     row is frequency of appearance over time. '
   image: uploads/uploads/2022/freq-viz-2.png
+- template: full-width-media-element
+  block: media-1
+  slug: gif
+  caption: Example of the Bubble Visualization for the early sample of the Black community.
+  image: uploads/uploads/2022/btm1-01.gif
 - template: 1-column-text
   block: one-column-1
   headline: Bubble Word Visualizations
