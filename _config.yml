@@ -1,19 +1,18 @@
+---
 title: Mapping Language
 author: Andrew Weymouth
 email: aweymo@uw.edu
-description: >-
-  Representation of  Immigrant Communities in the Pacific Northwest, 1880-1930
-baseurl: "/cs_land" # the subpath of your site, e.g. /blog
-url: "https://aweymo.github.io/cs_land" # your site's origin, e.g. https://forestry.io
-
-# Build settings
+description: Representation of  Immigrant Communities in the Pacific Northwest, 1880-1930
+baseurl: "/cs_land"
+url: https://aweymo.github.io/cs_land
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
-
+- jekyll-feed
+- jekyll-menus
+menu:
+  main:
+    weight: 2
