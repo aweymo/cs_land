@@ -24,9 +24,10 @@ page_sections:
     slug: HNV
     content: ''
   col_2:
-    headline: CollectionBuilder Repository
+    headline: ''
     slug: cb_repo
-    content: ''
+    content: <a href="https://aweymo.github.io/CS.2/" title="CB Object Repo"><strong>CollectionBuilder
+      Object Repository</strong></a>
   col_3:
     headline: ''
     slug: oh_repo
