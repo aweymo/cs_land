@@ -15,4 +15,4 @@ plugins:
 - jekyll-menus
 menu:
   main:
-    weight: 2
+    weight: 1
