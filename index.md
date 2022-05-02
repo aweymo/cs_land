@@ -296,11 +296,6 @@ page_sections:
   slug: visit
   content: 'Click on any of the links below to visit visualizations built from the
     early and later period text samples for each community group. '
-- template: full-width-media-element
-  block: media-1
-  slug: gif
-  caption: Example of the Bubble Visualization for the early sample of the Black community.
-  image: uploads/uploads/2022/btm1-01.gif
 - template: 2-column-text
   block: two-column-1
   col_1:
