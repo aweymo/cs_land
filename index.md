@@ -292,9 +292,10 @@ page_sections:
   image: uploads/uploads/2022/freq-viz-2.png
 - template: 1-column-text
   block: one-column-1
-  headline: Click below to see visualizations for each community group
+  headline: Bubble Word Visualizations
   slug: visit
-  content: click here
+  content: 'Click on any of the links below to visit visualizations built from the
+    early and later period text samples for each community group. '
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
