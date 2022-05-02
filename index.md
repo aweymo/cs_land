@@ -290,11 +290,14 @@ page_sections:
   caption: 'Top Row is the most frequent location of publishers by county. Bottom
     row is frequency of appearance over time. '
   image: uploads/uploads/2022/freq-viz-2.png
-- template: 1-column-text
-  block: one-column-1
-  slug: find
-  headline: blacktm1
-  content: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: uploads/uploads/2022/btm1-01.gif
+    caption: https://voyant-tools.org/?corpus=4e047055ee11c4a9101b6aad4b1d04ee&stopList=keywords-33267c7ef98942975f1bd932db889043&speed=16&view=Bubbles
+  image_2:
+    image: ''
+    caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
