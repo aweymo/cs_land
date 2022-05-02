@@ -312,8 +312,11 @@ page_sections:
     headline: ''
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: "2"
+    content: Black 2<br><br>Chinese 2<br><br>Filipino 2<br><br>Finnish 2<br><br>German
+      2<br><br>Greek 2<br><br>Hindu 2<br><br>Irish 2<br><br>Italian 2<br><br>Japanese
+      2<br><br>Korean 2<br><br>Native American 2<br><br>Norwegian 2<br><br>Polish
+      2
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
