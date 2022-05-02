@@ -296,6 +296,15 @@ page_sections:
   slug: visit
   content: 'Click on any of the links below to visit visualizations built from the
     early and later period text samples for each community group. '
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: gif
+  headline: Bubble Visualization
+  media:
+    image: uploads/uploads/2022/btm1-01.gif
+    alt_text: ''
+  content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
