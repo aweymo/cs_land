@@ -290,17 +290,30 @@ page_sections:
   caption: 'Top Row is the most frequent location of publishers by county. Bottom
     row is frequency of appearance over time. '
   image: uploads/uploads/2022/freq-viz-2.png
-- template: full-width-media-element
-  block: media-1
-  slug: gif
-  caption: Example of the Bubble Visualization for the early sample of the Black community.
-  image: uploads/uploads/2022/btm1-01.gif
 - template: 1-column-text
   block: one-column-1
   headline: Bubble Word Visualizations
   slug: visit
   content: 'Click on any of the links below to visit visualizations built from the
     early and later period text samples for each community group. '
+- template: full-width-media-element
+  block: media-1
+  slug: gif
+  caption: Example of the Bubble Visualization for the early sample of the Black community.
+  image: uploads/uploads/2022/btm1-01.gif
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    slug: "1"
+    content: Black 1<br><br>Chinese 1<br><br>Filipino 1<br><br>Finnish 1<br><br>German
+      1<br><br>Greek 1<br><br>Hindu 1<br><br>Irish 1<br><br>Italian 1<br><br>Japanese
+      1<br><br>Korean 1<br><br>Native American 1<br><br>Norwegian 1<br><br>Polish
+      1
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
