@@ -36,6 +36,8 @@ page_sections:
   block: header-1
   logo: uploads/2022/05/01/ill030_b.png
   navigation:
+  - link: https://aweymo.github.io/CS_OH.3/
+    link_text: CollectionBuilder Oral History (as) Data Repository
   - link: https://aweymo.github.io/CS.2/
     link_text: CollectionBuilder Repository
   - link: Findings
