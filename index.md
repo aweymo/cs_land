@@ -131,24 +131,20 @@ page_sections:
   headline: "<strong>Statement on Potentially Harmful Content</strong>"
   content: In utilizing this resource, you will encounter offensive, oppressive, racist,
     and/or outdated references and representations. This content is made available
-    for transparency, accountability, and education.
+    for transparency, accountability, and education.<br><br>Because the focus of this
+    project is on how particular groups are being described in historic materials,
+    I needed to search for outdated and racist descriptions in order to find the materials.
+    Drawing upon the <em>Archives for Black Lives in Philadelphia</em>, I chose to
+    use the word <strong>Black</strong> for this community, but the searches for this
+    material were drawn from using the search term <strong>negro</strong>. This term
+    was the most popular within the search parameters that were repeated for each
+    community group (Washington and Oregon State publications, 1880-1930), with 340
+    results from the NewsBank resource, as opposed to "colored labor" (165) and "black
+    labor" (55).
   cta:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  slug: s2
-  content: Because the focus of this project is on how particular groups are being
-    described in historic materials, I needed to search for outdated and racist descriptions
-    in order to find the materials. Drawing upon the <em>Archives for Black Lives
-    in Philadelphia</em>, I chose to use the word <strong>Black</strong> for this
-    community, but the searches for this material were drawn from using the search
-    term <strong>negro</strong>. This term was the most popular within the search
-    parameters that were repeated for each community group (Washington and Oregon
-    State publications, 1880-1930), with 340 results from the NewsBank resource, as
-    opposed to "colored labor" (165) and "black labor" (55).
-  headline: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
