@@ -367,13 +367,13 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: uploads/uploads/2022/tso76_17121898-2.png
     alt_text: ''
-  headline: ''
-  slug: ''
-  content: ''
+  headline: The Spirit of '76
+  slug: Spirit
+  content: 'Socialist newspaper '
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
