@@ -20,12 +20,14 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
+  - link: Findings
+    link_text: Findings
+  - link: https://aweymo.github.io/hnv_2/
+    link_text: Historical Network Visualization
   - link: https://aweymo.github.io/CS_OH.3/
     link_text: CollectionBuilder Oral History (as) Data Repository
   - link: https://aweymo.github.io/CS.2/
     link_text: CollectionBuilder Repository
-  - link: https://aweymo.github.io/hnv_2/
-    link_text: Historical Network Visualization
   logo: ''
   cta:
     url: ''
