@@ -292,7 +292,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: ''
+    image: uploads/uploads/2022/v_15011891.png
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
@@ -365,11 +365,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Full List of Text Mining Resources for Each Community
-  slug: tm1
-  content: can be viewed here
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
