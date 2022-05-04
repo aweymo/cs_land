@@ -365,6 +365,15 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: uploads/uploads/2022/tso76_17121898-2.png
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
