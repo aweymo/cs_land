@@ -287,11 +287,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: 'Verwartz! ("Forward!") '
-  slug: V
-  content: German Language Tacoma Based Newspaper
+  headline: Resources
+  slug: resources
+  content: For a full list of the 500+ text mining resources, click on the page
   media:
-    image: uploads/uploads/2022/v_15011891.png
+    image: uploads/uploads/2022/full-list-of-resources.pdf
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
