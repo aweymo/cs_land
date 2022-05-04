@@ -17,6 +17,15 @@ page_sections:
     image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/05/01/as_021901_f.png"
+- template: navigation-header-w-button
+  block: header-2
+  navigation:
+  - link: https://aweymo.github.io/hnv_2/
+    link_text: Historical Network Visualization
+  logo: ''
+  cta:
+    url: ''
+    button_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
