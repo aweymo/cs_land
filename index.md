@@ -287,10 +287,10 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
+  media_alignment: Left
+  headline: 'Verwartz! ("Forward!") '
+  slug: V
+  content: German Language Tacoma Based Newspaper
   media:
     image: uploads/uploads/2022/v_15011891.png
     alt_text: ''
