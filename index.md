@@ -34,11 +34,6 @@ page_sections:
     slug: oh_repo
     content: <a href="https://aweymo.github.io/CS_OH.3/" title="OH(as)Data"><strong>OH(as)Data
       Oral History Repository</strong></a>
-- template: 1-column-text
-  block: one-column-1
-  content: "<strong>Findings</strong>"
-  headline: ''
-  slug: F
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -287,7 +282,9 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: 'In addition to the term frequency visualization below, click here for
+    a full list of early and later period text mining visualizations for each community
+    group. '
   cta:
     enabled: false
     url: ''
