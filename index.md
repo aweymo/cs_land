@@ -285,11 +285,15 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: To view bubble visualizations for each community's text repositories
-  slug: visit
-  content: click here
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
@@ -303,16 +307,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    slug: ''
-    headline: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -361,7 +355,8 @@ page_sections:
     class="s1">9</span> “1910 Census: The 13th Federal Census Shows Washington.” Accessed
     April 1, 2022. <a href="https://www.historylink.org/File/9444" title="https://www.historylink.org/File/9444"><span
     class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>Credits for
-    images included in alt text and incorporated into item level metadata.'
+    images included in alt text and incorporated into item level metadata.<br><br>A
+    full list of text mining resources for all community groups can be viewed here.'
   background_image: "/uploads/2022/05/01/maz001_b.png"
   image:
     image: ''
