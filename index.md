@@ -32,6 +32,12 @@ page_sections:
   cta:
     url: ''
     button_text: ''
+- template: navigation-header
+  block: header-1
+  logo: uploads/2022/05/01/ill030_b.png
+  navigation:
+  - link: Findings
+    link_text: Findings
 - template: 3-column-text
   block: three-column-1
   col_1:
