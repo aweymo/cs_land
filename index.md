@@ -20,6 +20,8 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
+  - link: https://aweymo.github.io/CS.2/
+    link_text: CollectionBuilder Repository
   - link: https://aweymo.github.io/hnv_2/
     link_text: Historical Network Visualization
   logo: ''
