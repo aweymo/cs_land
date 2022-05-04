@@ -17,33 +17,6 @@ page_sections:
     image: ''
     alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   background_image: "/uploads/2022/05/01/as_021901_f.png"
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - link: https://aweymo.github.io/hnv_2/
-    link_text: Historical Network Visualization
-  - link: https://aweymo.github.io/CS_OH.3/
-    link_text: CollectionBuilder Oral History (as) Data Repository
-  - link: https://aweymo.github.io/CS.2/
-    link_text: CollectionBuilder Repository
-  - link: Findings
-    link_text: Findings
-  logo: uploads/2022/05/01/ill030_b.png
-  cta:
-    url: ''
-    button_text: ''
-- template: navigation-header
-  block: header-1
-  logo: uploads/2022/05/01/ill030_b.png
-  navigation:
-  - link: https://aweymo.github.io/hnv_2/
-    link_text: Historical Network Visualization
-  - link: https://aweymo.github.io/CS_OH.3/
-    link_text: CollectionBuilder Oral History (as) Data Repository
-  - link: https://aweymo.github.io/CS.2/
-    link_text: CollectionBuilder Repository
-  - link: Findings
-    link_text: Findings
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -61,6 +34,11 @@ page_sections:
     slug: oh_repo
     content: <a href="https://aweymo.github.io/CS_OH.3/" title="OH(as)Data"><strong>OH(as)Data
       Oral History Repository</strong></a>
+- template: 1-column-text
+  block: one-column-1
+  content: "<strong>Findings</strong>"
+  headline: ''
+  slug: F
 - template: content-feature
   block: feature-1
   media_alignment: Left
