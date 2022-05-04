@@ -289,8 +289,9 @@ page_sections:
   media_alignment: Left
   headline: Resources
   slug: resources
-  content: For a full list of the 500+ text mining resources, click here<br><br>Verwartz!
-    (Forward!), German Language Newspaper
+  content: For a full list of the 500+ text mining resources, <a href="uploads/uploads/2022/full-list-of-resources.pdf"
+    title="Full List">click here</a><br><br>Verwartz! (Forward!), German Language
+    Newspaper
   media:
     image: uploads/uploads/2022/v_15011891.png
     alt_text: ''
