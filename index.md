@@ -276,8 +276,10 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: Click here for a term frequency visualization as well as a full list of
-    early and later period text mining visualizations for each community group.
+  content: <a href="https://aweymo.github.io/CS.2/findings.html" title="Findings"><strong>Click
+    here</strong></a><strong> </strong>for a term frequency visualization as well
+    as a full list of early and later period text mining visualizations for each community
+    group.
   cta:
     enabled: false
     url: ''
