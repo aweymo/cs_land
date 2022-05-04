@@ -20,9 +20,10 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: 'Historical Network Visualization '
+    headline: ''
     slug: HNV
-    content: ''
+    content: <a href="https://aweymo.github.io/hnv_2/" title="Historical Network Visualization"><strong>Historical
+      Network Visualization</strong></a>
   col_2:
     headline: ''
     slug: cb_repo
