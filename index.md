@@ -279,19 +279,12 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: 'In addition to the term frequency visualization below, click here for
-    a full list of early and later period text mining visualizations for each community
-    group. '
+  content: Click here for a term frequency visualization as well as a full list of
+    early and later period text mining visualizations for each community group.
   cta:
     enabled: false
     url: ''
     button_text: ''
-- template: full-width-media-element
-  block: media-1
-  slug: freq vis
-  caption: 'Top Row is the most frequent location of publishers by county. Bottom
-    row is frequency of appearance over time. '
-  image: uploads/uploads/2022/freq-viz-2.png
 - template: 1-column-text
   block: one-column-1
   headline: To view bubble visualizations for each community's text repositories
