@@ -352,9 +352,14 @@ page_sections:
       like to thank Lourdes Santamaria-Wheeler of the University of Florida, whose
       class on ethical exhibit description through We Here was hugely influential
       on the design of this project.
-- template: hero-banner-w-image
-  block: hero-2
-  headline: "<strong>Endnotes</strong>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: uploads/uploads/2022/tso76_17121898-2.png
+    alt_text: ''
+  headline: Endnotes
+  slug: End
   content: '<span class="s1">1</span> “Victory to Mean Blow to Industry. Repeal of
     Tolls - Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page 2,”
     n.d., 1.<br><br><span class="s1">2</span> “Characteristics of Chinese Laborers
@@ -382,23 +387,6 @@ page_sections:
     class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>Credits for
     images included in alt text and incorporated into item level metadata.<br><br>A
     full list of text mining resources for all community groups can be viewed here.'
-  background_image: "/uploads/2022/05/01/maz001_b.png"
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  media:
-    image: uploads/uploads/2022/tso76_17121898-2.png
-    alt_text: ''
-  headline: The Spirit of '76
-  slug: Spirit
-  content: 'Socialist newspaper '
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
