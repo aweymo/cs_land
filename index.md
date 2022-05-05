@@ -281,28 +281,29 @@ page_sections:
   media:
     image: uploads/2022/05/01/ten_12011903_b.png
     alt_text: ''
-- template: 2-column-text
-  block: two-column-1
+- template: 3-column-text
+  block: three-column-1
   col_1:
-    slug: m6
+    slug: m2
     content: This process involved retrieving the top <strong>40 items</strong> of
       each group based on relevance, or the greatest number of matches for each search
       term. The searches all followed the same formula, <strong>"_____ labor,"</strong>
       <strong>1880-1930</strong> date range, and <strong>Washington</strong> or <strong>Oregon</strong>
       state based publications. From these forty items, results were filtered down
-      to <strong>10 items</strong> based on their locality. Items that were reprints
-      of stories outside of Washington and Oregon were removed. Documents generally
-      focused on events within this area, but editorials on some national topics could
-      be included if they provided insight into Pacific Northwest culture. These ten
-      items were then separated into <strong>five earlier and later halves</strong>,
-      demonstrating linguistic change over time.
+      to <strong>10 items</strong> based on their locality.
     headline: ''
   col_2:
     headline: ''
-    slug: m7
-    content: These are the bodies of text used to create the visualizations in the
-      Findings. This method is still developing and being improved upon. This data
-      and the overall project serves as a proof of concept towards future research.
+    slug: M3
+    content: Items that were reprints of stories outside of Washington and Oregon
+      were removed. Documents generally focused on events within this area, but editorials
+      on some national topics could be included if they provided insight into Pacific
+      Northwest culture. These ten items were then separated into <strong>five earlier
+      and later halves</strong>, demonstrating linguistic change over time.
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Findings</strong>"
