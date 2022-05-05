@@ -316,7 +316,7 @@ page_sections:
   media:
     image: uploads/uploads/2022/page-0001.png
     alt_text: ''
-  headline: ''
+  headline: "<strong>Findings</strong>"
   slug: ''
 - template: content-feature
   block: feature-1
