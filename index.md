@@ -292,12 +292,13 @@ page_sections:
     <span class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
     <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
     class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
-    <span class="s1">Polish<br></span>· <span class="s1">South Asian</span>
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br></span>·
+    "Tacoma Coal Bunker" Commerce, 1886/06/03
   slug: in
   headline: ''
   media:
     image: uploads/uploads/2022/c_06031886_c.png
-    alt_text: ''
+    alt_text: · "Tacoma Coal Bunker" Commerce, 1886/06/03
 - template: 3-column-text
   block: three-column-1
   col_1:
