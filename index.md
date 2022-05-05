@@ -112,14 +112,15 @@ page_sections:
   block: three-column-1
   col_1:
     slug: c1
-    content: <span class="s1">What adjectives are used to describe these groups and
-      how do they change over time in relation to industrial interests?</span>
+    content: <span class="s1">· What adjectives are used to describe these groups
+      and how do they change over time in relation to industrial interests?</span>
     headline: 'While you use this resource, it is helpful to consider:'
   col_2:
     headline: ''
     slug: c2
-    content: <span class="s1">When do immigrant groups stop being referred to by their
-      country of origin and become "American," "White" or hyphenates, such as Polish-American?</span>
+    content: <span class="s1">· When do immigrant groups stop being referred to by
+      their country of origin and become "American," "White" or hyphenates, such as
+      Polish-American?</span>
   col_3:
     headline: ''
     slug: c3
