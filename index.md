@@ -300,12 +300,9 @@ page_sections:
   col_2:
     headline: ''
     slug: m7
-    content: These ten items were then separated into <strong>five </strong>earlier
-      and later halves, demonstrating linguistic change over time. These data sets
-      are what are used to create the text mining visualizations you'll find throughout
-      this exhibit. This method is still developing and being improved upon. This
-      data and the overall project serves as a proof of concept towards future iterations
-      of work.
+    content: These are the bodies of text used to create the visualizations in the
+      Findings. This method is still developing and being improved upon. This data
+      and the overall project serves as a proof of concept towards future research.
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Findings</strong>"
