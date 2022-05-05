@@ -94,7 +94,7 @@ page_sections:
     content: The staying power of this language also has to do with the significance
       of this period in the Pacific Northwest. Our time frame begins ten years before
       the United States Census Bureau declared the closure of the western frontier.
-      What follows feels like an ideological rather than physical land grab. A<span
+      What follows feels like an ideological rather than physical land grab. <br><br>A<span
       class="Apple-converted-space"> </span>prominent theme throughout this research
       is the concept of "retaining" the American character in Washington and Oregon,
       when it was clearly roiling with development. A near constant theme in the collection
