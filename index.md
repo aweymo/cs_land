@@ -161,7 +161,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <span class="s1">I have chosen to refer to each group simply from their
+    content: <span class="s1">· I have chosen to refer to each group simply from their
       country of origin rather than </span><em><span class="s1">hyphenate-American</span></em><span
       class="s1"> though many of the people addressed in this media </span><strong><span
       class="s1">may have been American citizens</span></strong><span class="s1">.
@@ -182,12 +182,13 @@ page_sections:
   col_3:
     headline: ''
     slug: s5
-    content: <span class="s1">Finally, of all of the groups described in this project,
+    content: <span class="s1">· Finally, of all the groups described in this project,
       the </span><strong><span class="s1">only communities</span></strong><span class="s1">
       that were not immigrants are the </span><strong><span class="s1">Native Americans</span></strong><span
       class="s1">. That said, I felt that the representation of this community was
-      a crucial element to how media often 'othered' these communities in order to
-      engage in myth making around who a true American was and what they resembled.</span>
+      a crucial element to this work, examining how the media often 'othered' these
+      communities to engage in myth making around who a true American was and what
+      they resembled.</span>
 - template: content-feature
   block: feature-1
   media_alignment: Left
