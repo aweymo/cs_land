@@ -256,7 +256,8 @@ page_sections:
   block: media-2
   image_1:
     image: uploads/uploads/2022/aov005_u.png
-    caption: ''
+    caption: "· Two pages from the scrapbook of the Ancient Order of Vikings Norwegian
+      fraternal organization. "
   image_2:
     image: uploads/uploads/2022/aov013_u.png
     caption: ''
