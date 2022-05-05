@@ -17,7 +17,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2022/05/01/as_021901_f.png"
+  background_image: uploads/2022/04/30/as021901.png
 - template: 3-column-text
   block: three-column-1
   col_1:
