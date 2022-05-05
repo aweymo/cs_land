@@ -8,14 +8,15 @@ page_sections:
   slug: features
   headline: "<strong>Mapping Language:<br></strong>Representation of Immigrant Communities
     in the Pacific Northwest, 1880-1930"
-  content: Andrew Weymouth 2022 Capstone for the University of Washington
+  content: 'Andrew Weymouth 2022 Capstone for the University of Washington<br><br><br><br><br><br><br><br><br>Image:
+    "Uncle Sam Sees The Danger" The American Standard 1901-02-01'
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: '"Uncle Sam Sees The Danger" The American Standard 1901-02-01'
+    alt_text: ''
   background_image: "/uploads/2022/05/01/as_021901_f.png"
 - template: 3-column-text
   block: three-column-1
