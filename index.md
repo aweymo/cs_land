@@ -358,7 +358,7 @@ page_sections:
     to disseminate these concepts. Clarifying the roles of industrial and commercial
     forces during this time would create very compelling historical connections between
     the publication of materials and their echoing impact on these communities.<br><br><br><br>·
-    "Puyallup Indian School" The Evening News, 1903/01/12
+    "Puyallup Reservation Indian School" The Evening News, 1903/01/12
   cta:
     enabled: false
     url: ''
