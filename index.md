@@ -152,10 +152,10 @@ page_sections:
     in the creation of this research. For example, in collecting articles for the
     Black community, searching "negro labor" within the parameters that were repeated
     for each community group (Washington and Oregon State publications, 1880-1930,
-    sorted by relevance) yielded 340 results, as opposed to "colored labor" (165)
-    and "black labor" (55). That said, all of my descriptions for this community will
-    use <em>Black</em>, drawing description guidance from the <em>Archives for Black
-    Lives in Philadelphia</em>.
+    sorted by relevance) yielded <strong>340</strong> results, as opposed to "colored
+    labor" <strong>(165)</strong> and "black labor" <strong>(55)</strong>. That said,
+    all of my descriptions for this community will use <em>Black</em>, drawing description
+    guidance from the <em>Archives for Black Lives in Philadelphia</em>.
   slug: st1
   headline: ''
 - template: 3-column-text
