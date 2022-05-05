@@ -309,27 +309,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: <a href="https://aweymo.github.io/CS.2/findings.html" title="Findings"><strong>Click
-    here</strong></a><strong> </strong>for a term frequency visualization as well
-    as a full list of early and later period text mining visualizations for each community
-    group.<br><br>For a full list of the 500+ text mining resources, <a href="uploads/uploads/2022/full-list-of-resources.pdf"
+  content: <a href="https://aweymo.github.io/CS.2/findings.html" title="Findings">Click
+    here</a> for a term frequency visualization as well as a full list of early and
+    later period text mining visualizations for each community group.<br><br>For a
+    full list of the 500+ text mining resources, <a href="uploads/uploads/2022/full-list-of-resources.pdf"
     title="Full List">click here</a>
   media:
     image: uploads/uploads/2022/page-0001.png
     alt_text: ''
   headline: "<strong>Findings and Resources</strong>"
   slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: Resources
-  slug: resources
-  content: For a full list of the 500+ text mining resources, <a href="uploads/uploads/2022/full-list-of-resources.pdf"
-    title="Full List">click here</a><br><br>Verwartz! (Forward!), German Language
-    Newspaper
-  media:
-    image: uploads/uploads/2022/v_15011891.png
-    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/c_06031886_b.png"
