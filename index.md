@@ -124,7 +124,7 @@ page_sections:
     caption: "· Washington Masonic Journal, 1925/06"
   image_2:
     image: "/uploads/2022/05/01/eb_01121889_c.png"
-    caption: Epworth Budget
+    caption: "· Epworth Budget, 1889/11/21"
 - template: 3-column-text
   block: three-column-1
   col_1:
