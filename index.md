@@ -388,7 +388,7 @@ page_sections:
   media_alignment: Left
   media:
     image: uploads/uploads/2022/v_15011891.png
-    alt_text: ''
+    alt_text: "· Vorwärtz! (Forward!), German language newspaper, 1891/01/15"
   headline: Endnotes
   slug: End
   content: '<span class="s1">1</span> “Victory to Mean Blow to Industry. Repeal of
@@ -415,9 +415,11 @@ page_sections:
     title="https://www.saada.org/browse/theme/early-immigration"><span class="s2">https://www.saada.org/browse/theme/early-immigration</span></a>.<br><br><span
     class="s1">9</span> “1910 Census: The 13th Federal Census Shows Washington.” Accessed
     April 1, 2022. <a href="https://www.historylink.org/File/9444" title="https://www.historylink.org/File/9444"><span
-    class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>Credits for
-    images included in alt text and incorporated into item level metadata.<br><br>A
-    full list of text mining resources for all community groups can be viewed here.'
+    class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>Full list
+    of credits and copyright statements for all materials included in the <a href="https://aweymo.github.io/CS.2/data.html"
+    title="CB_Data">CollectionBuilder Object Repository</a>.<br><br>A full list of
+    text mining resources for all community groups can be viewed here.<br><br><br><br>·
+    Vorwärtz! (Forward!), German language newspaper, 1891/01/15'
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
