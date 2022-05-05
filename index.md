@@ -256,12 +256,12 @@ page_sections:
     headline: ''
   col_2:
     content: These projects helped me learn about the Norwegian American community
-      through the Ancient Order of Vikings, a fraternal organization for immigrants,
-      and the Puyallup Valley chapter of the Japanese American Citizens League, a
-      nationwide organization which played a crucial role in WWII incarceration. I
-      also pulled from the Northwest Room's <em>Bicentennial Oral History Project</em>,
-      where digitized recordings shed light on Puget Sound's Polish, Italian and Native
-      American communities.
+      through the <strong>Ancient Order of Vikings</strong>, a fraternal organization
+      for immigrants, and the Puyallup Valley chapter of the <strong>Japanese American
+      Citizens League</strong>, a nationwide organization which played a crucial role
+      in WWII incarceration. I also pulled from the Northwest Room's <em>Bicentennial
+      Oral History Project</em>, where digitized recordings shed light on Puget Sound's
+      Polish, Italian and Native American communities.
     slug: nwr2
     headline: ''
 - template: content-feature
