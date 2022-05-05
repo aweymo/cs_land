@@ -64,7 +64,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
+    headline: Purpose
     slug: p1
     content: The intention of this work is to bring both the industrial interests
       that influenced media representation and the lived experience of the communities
@@ -75,7 +75,7 @@ page_sections:
       legislation, shape narratives around land development and act opportunistically
       during times of war.
   col_2:
-    headline: Purpose
+    headline: ''
     slug: p2
     content: Why does this matter? Why air out frequently offensive material from
       over 100 years ago? Just as the categorization of <em>Lesbian</em> and <em>Gay</em>
