@@ -336,10 +336,11 @@ page_sections:
     here</a> for a term frequency visualization as well as a full list of early and
     later period text mining visualizations for each community group.<br><br>For a
     full list of the 500+ text mining resources, <a href="uploads/uploads/2022/full-list-of-resources.pdf"
-    title="Full List">click here</a>
+    title="Full List">click here</a><br><br><br><br>· A Paper on Immigration, R.H.
+    Case, 1915/03/31
   media:
     image: uploads/uploads/2022/page-0001.png
-    alt_text: ''
+    alt_text: "· A Paper on Immigration, R.H. Case, 1915/03/31"
   headline: "<strong>Findings and Resources</strong>"
   slug: ''
 - template: hero-banner-w-image
