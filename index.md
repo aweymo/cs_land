@@ -75,7 +75,7 @@ page_sections:
       legislation, shape narratives around land development and act opportunistically
       during times of war.
   col_2:
-    headline: ''
+    headline: Relevance
     slug: p2
     content: Why does this matter? Why air out frequently offensive material from
       over 100 years ago? Just as the categorization of <em>Lesbian</em> and <em>Gay</em>
@@ -89,7 +89,7 @@ page_sections:
       and these collected works, have flesh and blood authors behind them, and those
       authors very often have commercial and economic interests behind their creations.
   col_3:
-    headline: ''
+    headline: Background
     slug: p3
     content: The staying power of this language also has to do with the significance
       of this time period in the Pacific Northwest. The 1880 to 1930 time frame begins
