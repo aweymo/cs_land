@@ -67,13 +67,13 @@ page_sections:
     headline: Purpose
     slug: p1
     content: The intention of this work is to bring both the industrial interests
-      that influenced media representation and the lived experience of the communities
-      affected by that language down to a human scale. During this period in American
-      history, racial animosity was frequently used to divide labor, leading immigrant
-      groups to undercut one another to the industrialist's advantage. Racial provocations
-      would also be used as a straw man for industrialists to argue against anti-monopoly
-      legislation, shape narratives around land development and act opportunistically
-      during times of war.
+      that influenced media representation, and the lived experience of the communities
+      affected by that language down to a human scale. By analyzing these documents
+      and noting how different communities were being represented depending on commercial
+      interests, we can make new connections and understand the origins of seemingly
+      constant cultural perceptions. This project serves primarily as a pedagogical
+      tool and a methodology for analyzing historical material through increased access
+      points through visual, audio, geospatial and text elements.
   col_2:
     headline: Relevance
     slug: p2
@@ -82,12 +82,7 @@ page_sections:
       topics under <em>Abnormal Psychology, Perversion and Derangement</em> in the
       Dewey Decimal System quietly stigmatized generations, I feel that this language
       may still influence our perceptions of ourselves and other communities, long
-      past it's original intended use.<br><br>The lack of accountability in the dissemination
-      of hate speech also has parallels with our current condition, where this language
-      is now propelled and reflected digitally. Though technology leaders are quick
-      to shrug and opine that "you can't put the genie back in the bottle," algorithms,
-      and these collected works, have flesh and blood authors behind them, and those
-      authors very often have commercial and economic interests behind their creations.
+      past it's original intended use.
   col_3:
     headline: Background
     slug: p3
