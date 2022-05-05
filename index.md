@@ -306,21 +306,18 @@ page_sections:
     content: These are the bodies of text used to create the visualizations in the
       Findings. This method is still developing and being improved upon. This data
       and the overall project serves as a proof of concept towards future research.
-- template: hero-banner-w-image
-  block: hero-2
-  headline: "<strong>Findings</strong>"
-  background_image: uploads/uploads/2022/page-0001.png
-  image:
-    image: ''
-    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   content: <a href="https://aweymo.github.io/CS.2/findings.html" title="Findings"><strong>Click
     here</strong></a><strong> </strong>for a term frequency visualization as well
     as a full list of early and later period text mining visualizations for each community
     group.
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+  media:
+    image: uploads/uploads/2022/page-0001.png
+    alt_text: ''
+  headline: ''
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
