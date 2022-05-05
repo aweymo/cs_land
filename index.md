@@ -242,7 +242,7 @@ page_sections:
     image: uploads/uploads/2022/aov005_u.png
     caption: ''
   image_2:
-    image: uploads/uploads/2022/aov013_c.png
+    image: uploads/uploads/2022/aov013_u.png
     caption: ''
 - template: 2-column-text
   block: two-column-1
