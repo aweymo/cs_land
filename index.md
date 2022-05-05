@@ -418,8 +418,9 @@ page_sections:
     class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>Full list
     of credits and copyright statements for all materials included in the <a href="https://aweymo.github.io/CS.2/data.html"
     title="CB_Data">CollectionBuilder Object Repository</a>.<br><br>A full list of
-    text mining resources for all community groups can be viewed here.<br><br><br><br>·
-    Vorwärtz! (Forward!), German language newspaper, 1891/01/15'
+    text mining resources for all community groups can be viewed <a href="uploads/uploads/2022/full-list-of-resources.pdf"
+    title="full list">here</a>.<br><br><br><br>· Vorwärtz! (Forward!), German language
+    newspaper, 1891/01/15'
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
