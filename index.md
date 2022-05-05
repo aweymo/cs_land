@@ -121,7 +121,7 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/05/01/wmj_b.png"
-    caption: Washington Masonic Journal
+    caption: "· Washington Masonic Journal, 1925/06"
   image_2:
     image: "/uploads/2022/05/01/eb_01121889_c.png"
     caption: Epworth Budget
