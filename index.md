@@ -155,7 +155,7 @@ page_sections:
   content: Paraphrasing the official statement of the Tacoma Public Library's Northwest
     Room, you will encounter offensive, oppressive, racist, and/or outdated references
     and representations within this exhibit. The material is made accessible for transparency,
-    accountability, and education.
+    accountability, and education.<br><br><br><br>· Tacoma Tidende, 1897/10/30
   cta:
     enabled: false
     url: ''
