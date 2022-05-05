@@ -115,6 +115,14 @@ page_sections:
       industrialist's advantage. Racial provocations would also be used as a straw
       man for industrialists to argue against anti-monopoly legislation, shape narratives
       around land development and act opportunistically during times of war.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/05/01/wmj_b.png"
+    caption: Washington Masonic Journal
+  image_2:
+    image: "/uploads/2022/05/01/eb_01121889_c.png"
+    caption: Epworth Budget
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -135,14 +143,6 @@ page_sections:
       there also industrial motives behind these narratives, as in the case of WWII
       opportunism on the part of agricultural interests seizing Japanese American
       farmland during incarceration?</span>
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/05/01/wmj_b.png"
-    caption: Washington Masonic Journal
-  image_2:
-    image: "/uploads/2022/05/01/eb_01121889_c.png"
-    caption: Epworth Budget
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/tt_30101897_b.png"
