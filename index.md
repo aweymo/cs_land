@@ -57,7 +57,8 @@ page_sections:
     periodicals, legacy oral history recordings and archival collections describing
     immigrant communities in Washington and Oregon and visualize these trends in language
     and how they may have been influenced by specific commercial interests in the
-    nineteenth and twentieth centuries.
+    nineteenth and twentieth centuries.<br><br><br><br>· "1903 Prosperity Edition"
+    Tacoma Evening News 1903-01-12
   cta:
     enabled: false
     url: ''
