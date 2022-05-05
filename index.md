@@ -199,7 +199,7 @@ page_sections:
     slug: s5
     content: <span class="s1">· Finally, of all the groups described in this project,
       the </span><strong><span class="s1">only communities</span></strong><span class="s1">
-      that were not immigrants are the </span><strong><span class="s1">Native Americans</span></strong><span
+      that were not immigrants are </span><strong><span class="s1">Native Americans</span></strong><span
       class="s1">. That said, I felt that the representation of this community was
       a crucial element to this work, examining how the media often 'othered' these
       communities to engage in myth making around who a true American was and what
