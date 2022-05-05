@@ -356,7 +356,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: uploads/uploads/2022/tso76_17121898-2.png
+    image: uploads/uploads/2022/v_15011891.png
     alt_text: ''
   headline: Endnotes
   slug: End
