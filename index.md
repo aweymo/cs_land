@@ -285,15 +285,17 @@ page_sections:
   block: two-column-1
   col_1:
     slug: m6
-    content: This involved retrieving the top <strong>40 items</strong> of each group
-      based on relevance, or the greatest number of matches for each search term.
-      The searches all followed the same formula, <strong>"_____ labor,"</strong>
+    content: This process involved retrieving the top <strong>40 items</strong> of
+      each group based on relevance, or the greatest number of matches for each search
+      term. The searches all followed the same formula, <strong>"_____ labor,"</strong>
       <strong>1880-1930</strong> date range, and <strong>Washington</strong> or <strong>Oregon</strong>
-      state based publications. From these forty items, I filtered results down to
-      <strong>10 items</strong> based on their locality. Items that were reprints
-      of stories outside of Washington and Oregon were removed. Items generally focused
-      on events in the states, but I felt that editorials on some national topics
-      could be included if they provided insight into Pacific Northwest culture.
+      state based publications. From these forty items, results were filtered down
+      to <strong>10 items</strong> based on their locality. Items that were reprints
+      of stories outside of Washington and Oregon were removed. Documents generally
+      focused on events within this area, but editorials on some national topics could
+      be included if they provided insight into Pacific Northwest culture. These ten
+      items were then separated into <strong>five earlier and later halves</strong>,
+      demonstrating linguistic change over time.
     headline: ''
   col_2:
     headline: ''
@@ -337,7 +339,7 @@ page_sections:
     alt_text: "\"Tacoma Coal Bunkers\"\tCommerce (Newspaper) 1886-06-03 Illustration
       of boats mooring on Tacoma waterfront."
     image: ''
-  headline: Conclusion
+  headline: Future Research
   content: TBD
   cta:
     enabled: false
