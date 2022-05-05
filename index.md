@@ -42,7 +42,7 @@ page_sections:
     Pacific Northwest from 1880-1930, reflects labor, industrial and land development
     interests, which may still influence our perceptions today.</strong>"
   slug: tag.2
-  content: "<br><br><br><br>· Tacoma Evening News, 1901-10-15"
+  content: "<br><br><br><br>· Tacoma Evening News, 1901/10/15"
   media:
     image: "/uploads/2022/05/01/ten_15101901_c.png"
     alt_text: Tacoma Evening News, 10/15/1901
@@ -58,7 +58,7 @@ page_sections:
     immigrant communities in Washington and Oregon and visualize these trends in language
     and how they may have been influenced by specific commercial interests in the
     nineteenth and twentieth centuries.<br><br><br><br>· "1903 Prosperity Edition"
-    Tacoma Evening News 1903-01-12
+    Tacoma Evening News 1903/01/12
   cta:
     enabled: false
     url: ''
