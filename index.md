@@ -92,14 +92,16 @@ page_sections:
     headline: Background
     slug: p3
     content: The staying power of this language also has to do with the significance
-      of this time period in the Pacific Northwest. The 1880 to 1930 time frame begins
-      ten years before the United States Census Bureau declared the closure of the
-      western frontier. What follows feels like an ideological land grab instead of
-      a physical one. A<span class="Apple-converted-space"> </span>prominent theme
-      throughout this research is the concept of "retaining" the American character
-      in Washington and Oregon, when it was clearly in a churning state of development.
-      A frequent element that appears in the research is gauging different immigrant
-      groups on their ability to assimilate or "Americanize."
+      of this period in the Pacific Northwest. Our time frame begins ten years before
+      the United States Census Bureau declared the closure of the western frontier.
+      What follows feels like an ideological rather than physical land grab. A<span
+      class="Apple-converted-space"> </span>prominent theme throughout this research
+      is the concept of "retaining" the American character in Washington and Oregon,
+      when it was clearly roiling with development. A near constant theme in the collection
+      are settlers gauging other immigrant groups on their ability to assimilate or
+      "Americanize," with particular focus on differentiating between "New Immigrants"
+      and "Old Immigrants," for groups that may have only arrived within ten years
+      of one another.
 - template: 2-column-media-element
   block: media-2
   image_1:
