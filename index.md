@@ -221,13 +221,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Methodology</strong>"
-  content: The 14 communities that I focused on for this project were selected using
-    two resources. The first was the 13th Federal Census of 1910. I chose this document
-    because it is conveniently centered in this project's time span and it is one
-    of the first documents to include ethnicity in the population numbers for Washington
-    and Oregon state. Of course, these numbers need to be read with extreme skepticism,
-    but they do provide us with an insight into the diversity of the Pacific Northwest
-    at that point.
+  content: "<strong>The 14 communities that I focused on for this project were selected
+    using two resources. </strong><br><br>The first was the 13th Federal Census of
+    1910. I chose this document because it is conveniently centered in this project's
+    time span, and it is one of the first documents to include ethnicity in the population
+    numbers for Washington and Oregon state. Of course, these numbers need to be read
+    with extreme skepticism, but they do provide us with an insight into the diversity
+    of the Pacific Northwest at this moment."
   background_image: "/uploads/2022/05/01/census.png"
   image:
     image: ''
