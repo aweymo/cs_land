@@ -154,8 +154,8 @@ page_sections:
     for each community group (Washington and Oregon State publications, 1880-1930,
     sorted by relevance) yielded <strong>340</strong> results, as opposed to "colored
     labor" <strong>(165)</strong> and "black labor" <strong>(55)</strong>. That said,
-    all of my descriptions for this community will use <em>Black</em>, drawing description
-    guidance from the <em>Archives for Black Lives in Philadelphia</em>.
+    all of my descriptions for this community will use <strong>Black</strong>, drawing
+    description guidance from the <em>Archives for Black Lives in Philadelphia</em>.
   slug: st1
   headline: ''
 - template: 3-column-text
