@@ -312,7 +312,8 @@ page_sections:
   content: <a href="https://aweymo.github.io/CS.2/findings.html" title="Findings"><strong>Click
     here</strong></a><strong> </strong>for a term frequency visualization as well
     as a full list of early and later period text mining visualizations for each community
-    group.
+    group.<br><br>For a full list of the 500+ text mining resources, <a href="uploads/uploads/2022/full-list-of-resources.pdf"
+    title="Full List">click here</a>
   media:
     image: uploads/uploads/2022/page-0001.png
     alt_text: ''
