@@ -427,7 +427,9 @@ page_sections:
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
     Tacoma, WA, recently completing an MLIS degree from the University of Washington.
-    <br><br>Click here to view <a href="uploads/uploads/2022/aweymouth_port.pdf" title="port">Portfolio</a>,
+    Published areas of interest include oral history, displacement, settler colonialism
+    and the history of libraries in the western United States. <br><br>Click here
+    to view <a href="uploads/uploads/2022/aweymouth_port.pdf" title="port">Portfolio</a>,
     <a href="uploads/uploads/2022/aweymouth_cv.pdf" title="cv">CV</a>, <a href="https://aweymo.github.io/VRAF_RC.2/"
     title="vraf">past projects</a> and <a href="" title="">site</a><br><br>or reach
     out directly: <br><br>andrewrainsweymouth@gmail.com'
