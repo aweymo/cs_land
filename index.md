@@ -194,13 +194,26 @@ page_sections:
   media_alignment: Left
   headline: "<strong>How to Use this Guide</strong>"
   slug: ht1
-  content: This work is centered around the historical network visualization of the
-    materials which contains historic newspapers, periodicals, archival collections
-    and oral histories relating to 14 community groups from 1880-1930. The visualization
-    allows the user to form connections based on community groups, industry or geolocation
-    and hopefully act as a springboard to future research. Each element within the
-    visualization contains links to the digital object, which can be analyzed in greater
-    detail or listened to in full, in the case of the oral history recordings.
+  content: · This exhibit is centered around the <a href="https://aweymo.github.io/hnv_2/#"
+    title="Historic Network Visualization">Historic Network Visualization</a> of the
+    materials, containing newspapers, periodicals, archival collections and oral histories
+    relating to 14 community groups from 1880-1930. The visualization allows the user
+    to form connections based on community groups, industry or geolocation, and read
+    a portion or complete transcript of the material within a single browser window.
+    Each element within the visualization contains links to the digital object, which
+    can be analyzed in greater detail or listened to in full, in the case of the oral
+    history recordings.<br><br>· Using the <a href="https://aweymo.github.io/CS.2/"
+    title="CollectionBuilder Object Repository">CollectionBuilder Object Repository</a>,
+    researchers can explore the individual items utilized in this research, <a href="https://aweymo.github.io/CS.2/subjects.html"
+    title="subject">browse by subject.</a> locate each element <a href="https://aweymo.github.io/CS.2/map.html"
+    title="Map">geographically</a>, access <a href="https://aweymo.github.io/CS.2/findings.html"
+    title="Findings">interactive text mining visualizations</a> and <a href="https://aweymo.github.io/CS.2/data.html"
+    title="Data">easily download data</a> to pursue their own research. <br><br>·
+    Using <a href="https://aweymo.github.io/CS_OH.3/" title="OH">CollectionBuilder's
+    OH(as)Data Oral History Repository</a>, researchers can listen to recordings,
+    <a href="https://aweymo.github.io/CS_OH.3/transcripts.html" title="Transcripts">engage
+    with text</a> and even <a href="https://aweymo.github.io/CS_OH.3/subjects.html"
+    title="Subject">organize recordings visually</a> by subject matter.
   media:
     image: "/uploads/2022/05/01/ill030_b.png"
     alt_text: "Tacoma Tidende\t1897-10-30\tFront page of Tacoma  Tidende, \"The Bidding
