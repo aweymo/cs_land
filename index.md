@@ -303,9 +303,14 @@ page_sections:
   col_3:
     headline: ''
     slug: M4
-    content: These are the bodies of text used to create the visualizations in the
-      Findings. This method is still developing and being improved upon. This data
-      and the overall project serves as a proof of concept towards future research.
+    content: Words used in the search were then removed from results. For example,
+      in "Japanese labor," "Japanese," "labor," "laborer" and any words referring
+      to that community group would be removed from visualizations, including slurs.
+      This was not <strong>done to sanitize the material</strong>, rather to focus
+      on the underlying industrial and economic elements that may have been influencing
+      this media.<br><br>This method is still developing and being improved upon.
+      This data and the overall project serves as a proof of concept towards future
+      research.
 - template: content-feature
   block: feature-1
   media_alignment: Right
