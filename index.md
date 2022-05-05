@@ -269,10 +269,13 @@ page_sections:
   media_alignment: Left
   content: Informed by these archival collections, historic newspapers, periodicals
     and legacy oral history recordings, I felt the following communities would be
-    most appropriate to research for this time period in Washington and Oregon state.<br><br>-
-    <span class="s1">Black<br>- Chinese<br>- Filipino<br>- Finnish<br>- German<br>-
-    Greek<br>- Irish<br>- Italian<br>- Japanese<br>- Korean<br>- Native American<br>-
-    Norwegian<br>- Polish<br>- South Asian</span>
+    most appropriate to research for this time period in Washington and Oregon state.<br><br>·
+    <span class="s1">Black<br></span>· <span class="s1">Chinese<br></span>· <span
+    class="s1">Filipino<br></span>· <span class="s1">Finnish<br></span>· <span class="s1">German<br></span>·
+    <span class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
+    <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
+    class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian</span>
   slug: in
   headline: ''
   media:
