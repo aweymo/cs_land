@@ -242,7 +242,8 @@ page_sections:
     time span, and it is one of the first documents to include ethnicity in the population
     numbers for Washington and Oregon state. Of course, these numbers need to be read
     with extreme skepticism, but they do provide us with an insight into the diversity
-    of the Pacific Northwest at this moment."
+    of the Pacific Northwest at this moment.<br><br><br><br>· Chapter Ten of the 1910
+    Federal Census"
   background_image: "/uploads/2022/05/01/census.png"
   image:
     image: ''
