@@ -236,6 +236,14 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: uploads/uploads/2022/aov005_b.png
+    caption: ''
+  image_2:
+    image: uploads/uploads/2022/aov013_c.png
+    caption: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
