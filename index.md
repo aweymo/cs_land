@@ -266,15 +266,15 @@ page_sections:
     headline: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  content: by these archival collections,<strong> </strong>historic newspapers, periodicals
-    and legacy oral history recordings I gathered at the Northwest Room, I selected
-    the following communities to examine through text mining:<br><br>- <span class="s1">Black<br>-
-    Chinese<br>- Filipino<br>- Finnish<br>- German<br>- Greek<br>- South Asian<br>-
-    Irish<br>- Italian<br>- Japanese<br>- Korean<br>- Native American<br>- Norwegian<br>-
-    Polish</span>
+  media_alignment: Left
+  content: Informed by these archival collections, historic newspapers, periodicals
+    and legacy oral history recordings, I felt the following communities would be
+    most appropriate to research for this time period in Washington and Oregon state.<br><br>-
+    <span class="s1">Black<br>- Chinese<br>- Filipino<br>- Finnish<br>- German<br>-
+    Greek<br>- Irish<br>- Italian<br>- Japanese<br>- Korean<br>- Native American<br>-
+    Norwegian<br>- Polish<br>- South Asian</span>
   slug: in
-  headline: Informed
+  headline: ''
   media:
     image: uploads/2022/05/01/ten_12011903_b.png
     alt_text: ''
