@@ -74,8 +74,8 @@ page_sections:
       and noting how different communities were being represented depending on commercial
       interests, we can make new connections and understand the origins of seemingly
       constant cultural perceptions. <br><br>· This project serves primarily as a
-      pedagogical tool and a methodology for analyzing historical material through
-      increased access points through visual, audio, geospatial and text elements.
+      pedagogical tool and a methodology for analyzing historical material by increasing
+      access points through visual, audio, geospatial and text elements.
   col_2:
     headline: Relevance
     slug: rel
