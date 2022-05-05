@@ -9,8 +9,8 @@ page_sections:
   headline: "<strong>Mapping Language:<br></strong>Representation of Immigrant Communities
     in the Pacific Northwest, 1880-1930"
   content: '<br><br><br><br><strong>Andrew Weymouth 2022 Capstone for the University
-    of Washington</strong><br><br><br><br><br><br><br><br><br>Image: "Uncle Sam Sees
-    The Danger" The American Standard 1901-02-01'
+    of Washington</strong><br><br><br><br><br><br><br><br><br>· Image: "Uncle Sam
+    Sees The Danger" The American Standard 1901-02-01'
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
@@ -43,10 +43,10 @@ page_sections:
     Pacific Northwest from 1880-1930, reflects labor, industrial and land development
     interests, which may still influence our perceptions today.</strong>"
   slug: tag.2
-  content: ''
+  content: "<br><br><br><br>· Tacoma Evening News, 10/15/1901"
   media:
     image: "/uploads/2022/05/01/ten_15101901_c.png"
-    alt_text: Tacoma Evening News
+    alt_text: Tacoma Evening News, 10/15/1901
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/04/30/ten12091903.png"
