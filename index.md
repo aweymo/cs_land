@@ -347,8 +347,7 @@ page_sections:
   block: hero-2
   background_image: uploads/2022/05/01/ten_12011903_b.png
   image:
-    alt_text: "\"Tacoma Coal Bunkers\"\tCommerce (Newspaper) 1886-06-03 Illustration
-      of boats mooring on Tacoma waterfront."
+    alt_text: · "Puyallup Indian School" The Evening News, 1903/01/12
     image: ''
   headline: "<strong>Future <br>Research</strong>"
   content: In pursuing this project, I felt it was most important to focus on the
@@ -358,7 +357,8 @@ page_sections:
     to illuminate their active role in working with labor leaders and media outlets
     to disseminate these concepts. Clarifying the roles of industrial and commercial
     forces during this time would create very compelling historical connections between
-    the publication of materials and their echoing impact on these communities.
+    the publication of materials and their echoing impact on these communities.<br><br><br><br>·
+    "Puyallup Indian School" The Evening News, 1903/01/12
   cta:
     enabled: false
     url: ''
