@@ -292,7 +292,7 @@ page_sections:
   slug: in
   headline: ''
   media:
-    image: uploads/2022/05/01/ten_12011903_b.png
+    image: uploads/uploads/2022/c_06031886_c.png
     alt_text: ''
 - template: 3-column-text
   block: three-column-1
@@ -339,13 +339,20 @@ page_sections:
   slug: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: uploads/uploads/2022/c_06031886_c.png
+  background_image: uploads/2022/05/01/ten_12011903_b.png
   image:
     alt_text: "\"Tacoma Coal Bunkers\"\tCommerce (Newspaper) 1886-06-03 Illustration
       of boats mooring on Tacoma waterfront."
     image: ''
   headline: "<strong>Future <br>Research</strong>"
-  content: TBD
+  content: In pursuing this project, I felt it was most important to focus on the
+    lived experience of community members who may have been impacted by this language,
+    so I spent a good time vetting, transcribing and hosting the oral history material.
+    I would love to spend more time focusing on industrialists during this period
+    to illuminate their active role in working with labor leaders and media outlets
+    to disseminate these concepts. Clarifying the roles of industrial and commercial
+    forces during this time would create very compelling historical connections between
+    the publication of materials and their echoing impact on these communities.
   cta:
     enabled: false
     url: ''
