@@ -86,17 +86,12 @@ page_sections:
   col_3:
     headline: Background
     slug: p3
-    content: The staying power of this language also has to do with the significance
-      of this period in the Pacific Northwest. Our time frame begins ten years before
-      the United States Census Bureau declared the closure of the western frontier.
-      What follows feels like an ideological rather than physical land grab. <br><br>A<span
-      class="Apple-converted-space"> </span>prominent theme throughout this research
-      is the concept of "retaining" the American character in Washington and Oregon,
-      when it was clearly roiling with development. A near constant theme in the collection
-      are settlers gauging other immigrant groups on their ability to assimilate or
-      "Americanize," with particular focus on differentiating between "New Immigrants"
-      and "Old Immigrants," for groups that may have only arrived within ten years
-      of one another.
+    content: The lack of accountability in the dissemination of hate speech also has
+      parallels with our current condition, where this language is now propelled and
+      reflected digitally. Though technology leaders are quick to shrug and opine
+      that "you can't put the genie back in the bottle," algorithms, and these collected
+      works, have flesh and blood authors behind them, and those authors very often
+      have commercial and economic interests behind their creations.
 - template: 2-column-media-element
   block: media-2
   image_1:
