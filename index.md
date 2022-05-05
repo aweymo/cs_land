@@ -99,12 +99,22 @@ page_sections:
       What follows feels like an ideological rather than physical land grab.
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: bg2
+    content: A<span class="Apple-converted-space"> </span>prominent theme throughout
+      this research is the concept of "retaining" the American character in Washington
+      and Oregon, when it was clearly roiling with development. A near constant theme
+      in the collection are settlers gauging other immigrant groups on their ability
+      to assimilate or "Americanize," with particular focus on differentiating between
+      "New Immigrants" and "Old Immigrants," for groups that may have only arrived
+      within ten years of one another.
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: bg3
+    content: During this period in American history, racial animosity was frequently
+      used to divide labor, leading immigrant groups to undercut one another to the
+      industrialist's advantage. Racial provocations would also be used as a straw
+      man for industrialists to argue against anti-monopoly legislation, shape narratives
+      around land development and act opportunistically during times of war.
 - template: 3-column-text
   block: three-column-1
   col_1:
