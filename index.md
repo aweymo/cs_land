@@ -427,8 +427,10 @@ page_sections:
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
     Tacoma, WA, recently completing an MLIS degree from the University of Washington.
-    <br><br>Access Portfolio, CV and learn about work on the website below<br><br>or
-    reach out directly: <br><br>andrewrainsweymouth@gmail.com'
+    <br><br>Click here for <a href="uploads/uploads/2022/aweymouth_port.pdf" title="port">Portfolio</a>,
+    <a href="uploads/uploads/2022/aweymouth_cv.pdf" title="cv">CV</a>, <a href="https://aweymo.github.io/VRAF_RC.2/"
+    title="vraf">past projects</a> and <a href="" title="">site</a><br><br>or reach
+    out directly: <br><br>andrewrainsweymouth@gmail.com'
   headline: "<strong>About the Author</strong>"
   image:
     image: "/uploads/2022/05/01/aweymouth.png"
