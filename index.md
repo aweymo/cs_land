@@ -88,14 +88,23 @@ page_sections:
       to shrug and opine that "you can't put the genie back in the bottle," algorithms,
       and these collected works, have flesh and blood authors behind them, and those
       authors very often have commercial and economic interests behind their creations.
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/05/01/wmj_b.png"
-    caption: Washington Masonic Journal
-  image_2:
-    image: "/uploads/2022/05/01/eb_01121889_c.png"
-    caption: Epworth Budget
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Background
+    slug: bg
+    content: The staying power of this language also has to do with the significance
+      of this period in the Pacific Northwest. Our time frame begins ten years before
+      the United States Census Bureau declared the closure of the western frontier.
+      What follows feels like an ideological rather than physical land grab.
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -116,6 +125,14 @@ page_sections:
       there also industrial motives behind these narratives, as in the case of WWII
       opportunism on the part of agricultural interests seizing Japanese American
       farmland during incarceration?</span>
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/05/01/wmj_b.png"
+    caption: Washington Masonic Journal
+  image_2:
+    image: "/uploads/2022/05/01/eb_01121889_c.png"
+    caption: Epworth Budget
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/05/01/tt_30101897_b.png"
