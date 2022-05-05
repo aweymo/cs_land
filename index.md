@@ -124,7 +124,7 @@ page_sections:
   col_3:
     headline: ''
     slug: c3
-    content: <span class="s1">How do world events shape these representations? Are
+    content: <span class="s1">· How do world events shape these representations? Are
       there also industrial motives behind these narratives, as in the case of WWII
       opportunism on the part of agricultural interests seizing Japanese American
       farmland during incarceration?</span>
