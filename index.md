@@ -302,8 +302,10 @@ page_sections:
       and later halves</strong>, demonstrating linguistic change over time.
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: M4
+    content: These are the bodies of text used to create the visualizations in the
+      Findings. This method is still developing and being improved upon. This data
+      and the overall project serves as a proof of concept towards future research.
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Findings</strong>"
