@@ -236,27 +236,26 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: m2
-  content: The second resource that informed my focus is the Northwest Room, the archive
-    of the Tacoma Public Library. Anna Trammell, the Lead Historian for the Northwest
-    Room and also the sponsor of this Capstone, curated archival collections and oral
-    history recordings which applied to my area of focus and needed organization,
-    finding aids and digitization. <br><br>These projects helped me learn about the
-    Norwegian American community through the Ancient Order of Vikings, a fraternal
-    organization for immigrants, and the Puyallup Valley chapter of the Japanese American
-    Citizens League, a nationwide organization which played a crucial role in WWII
-    incarceration. I also pulled from the Northwest Room's <em>Bicentennial Oral History
-    Project</em>, where digitized recordings shed light on Puget Sound's Polish, Italian
-    and Native American communities.
-  media:
-    image: "/uploads/2022/05/01/aov013_c.png"
-    alt_text: "The Ancient Order of Vikings\t1925-12-05 Scrapbook for fraternal organization
-      The Ancient Order of Vikings, containing photographs and personal remembrances
-      of group members in both English and Norwegian language. "
-  headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: The second resource that informed my focus was the Northwest Room, the
+      archive of the Tacoma Public Library. Anna Trammell, the Lead Historian for
+      the Northwest Room and also the sponsor of this Capstone, curated archival collections
+      and oral history recordings which applied to my area of focus and needed organization,
+      finding aids and digitization.
+    slug: nwr1
+    headline: ''
+  col_2:
+    content: These projects helped me learn about the Norwegian American community
+      through the Ancient Order of Vikings, a fraternal organization for immigrants,
+      and the Puyallup Valley chapter of the Japanese American Citizens League, a
+      nationwide organization which played a crucial role in WWII incarceration. I
+      also pulled from the Northwest Room's <em>Bicentennial Oral History Project</em>,
+      where digitized recordings shed light on Puget Sound's Polish, Italian and Native
+      American communities.
+    slug: nwr2
+    headline: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
