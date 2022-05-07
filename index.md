@@ -40,7 +40,7 @@ page_sections:
     link_text: Network Visualization
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Findings
-  logo: uploads/uploads/2022/ill030_logo_sm.png
+  logo: uploads/uploads/2022/ill030_logo.png
 - template: content-feature
   block: feature-1
   media_alignment: Left
