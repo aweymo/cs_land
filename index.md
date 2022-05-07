@@ -269,7 +269,7 @@ page_sections:
       fraternal organization. "
   image_2:
     image: uploads/uploads/2022/aov013_u.png
-    caption: ''
+    caption: 'view here: https://aweymo.github.io/CS.2/item.html?id=maplanguage153'
 - template: 2-column-text
   block: two-column-1
   col_1:
