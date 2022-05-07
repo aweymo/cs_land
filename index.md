@@ -27,21 +27,21 @@ page_sections:
   - link: https://aweymo.github.io/cs_land/
     link_text: Home
   - link: https://aweymo.github.io/CS.2/browse.html
-    link_text: Browse Repository
+    link_text: Browse Object Repository
   - link: https://aweymo.github.io/CS.2/subjects.html
     link_text: Repository Subjects
   - link: https://aweymo.github.io/CS.2/map.html
     link_text: Repository Map
   - link: https://aweymo.github.io/CS.2/data.html
     link_text: Repository Database
-  - link: https://aweymo.github.io/CS.2/findings.html
-    link_text: Findings
   - link: https://aweymo.github.io/CS_OH.3/transcripts.html
     link_text: Oral History Transcripts
   - link: https://aweymo.github.io/CS_OH.3/subjects.html
     link_text: Oral History Subjects
   - link: https://aweymo.github.io/hnv_2/
     link_text: Historical Network Visualization
+  - link: https://aweymo.github.io/CS.2/findings.html
+    link_text: Findings
   logo: uploads/uploads/2022/ill030_logo.png
 - template: content-feature
   block: feature-1
