@@ -3,6 +3,24 @@ layout: blocks
 title: Mapping Language
 date: 2022-04-30T00:00:00.000-07:00
 page_sections:
+- template: hero-banner-w-image
+  block: hero-2
+  slug: features
+  headline: "<strong>Mapping Language:<br></strong>Representation of Immigrant Communities
+    in the Pacific Northwest, 1880-1930"
+  content: <strong>Andrew Weymouth 2022 Capstone for the University of Washington</strong><br><br><br><br><br><br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
+    Sam Sees The Danger&quot;"><strong>· </strong></a>"Uncle Sam Sees The Danger"
+    The American Standard, 1901/02<br><br>(Click on the bullet point of each image
+    credit within this exhibit to visit the item's page)
+  cta:
+    enabled: false
+    url: https://github.com/forestryio/ubuild-jekyll
+    button_text: 'See on GitHub '
+  image:
+    image: ''
+    alt_text: ''
+  background_image: uploads/2022/04/30/as021901.png
 - template: navigation-header
   block: header-1
   navigation:
@@ -25,24 +43,6 @@ page_sections:
   - link: https://aweymo.github.io/hnv_2/
     link_text: Historical Network Visualization
   logo: uploads/uploads/2022/ill030_logo.png
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: "<strong>Mapping Language:<br></strong>Representation of Immigrant Communities
-    in the Pacific Northwest, 1880-1930"
-  content: <strong>Andrew Weymouth 2022 Capstone for the University of Washington</strong><br><br><br><br><br><br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
-    Sam Sees The Danger&quot;"><strong>· </strong></a>"Uncle Sam Sees The Danger"
-    The American Standard, 1901/02<br><br>(Click on the bullet point of each image
-    credit within this exhibit to visit the item's page)
-  cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: ''
-    alt_text: ''
-  background_image: uploads/2022/04/30/as021901.png
 - template: 3-column-text
   block: three-column-1
   col_1:
