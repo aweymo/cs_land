@@ -43,6 +43,17 @@ page_sections:
   - link: https://aweymo.github.io/hnv_2/
     link_text: Historical Network Visualization
   logo: uploads/uploads/2022/ill030_logo.png
+- template: navigation-header-w-button
+  block: header-2
+  navigation:
+  - link: ''
+    link_text: asdfasfdasdfa
+  - link: ''
+    link_text: asdfasdf
+  logo: ''
+  cta:
+    url: ''
+    button_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
