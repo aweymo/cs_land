@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: https://aweymo.github.io/CS_OH.3/transcripts.html
+    link_text: Oral History Transcripts
   - link: https://aweymo.github.io/cs_land/
     link_text: Home
   - link: https://aweymo.github.io/CS.2/browse.html
