@@ -235,8 +235,10 @@ page_sections:
     OH(as)Data Oral History Repository</a>, researchers can listen to recordings,
     <a href="https://aweymo.github.io/CS_OH.3/transcripts.html" title="Transcripts">engage
     with text</a> and even <a href="https://aweymo.github.io/CS_OH.3/subjects.html"
-    title="Subject">organize recordings visually</a> by subject matter.<br><br><br><br>·
-    Meeting Program for the Illema Study Club, 1920-1921
+    title="Subject">organize recordings visually</a> by subject matter.<br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage028" title="Meeting
+    Program Book, &quot;American Problems&quot;"><strong>· </strong></a>Meeting Program
+    for the Illema Study Club, 1920-1921
   media:
     image: "/uploads/2022/05/01/ill030_b.png"
     alt_text: ''
