@@ -361,7 +361,7 @@ page_sections:
   block: hero-2
   background_image: uploads/2022/05/01/ten_12011903_b.png
   image:
-    alt_text: · "Puyallup Indian School" The Evening News, 1903/01/12
+    alt_text: ''
     image: ''
   headline: "<strong>Future <br>Research</strong>"
   content: In pursuing this project, I felt it was most important to focus on the
