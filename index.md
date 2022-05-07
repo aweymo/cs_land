@@ -96,7 +96,7 @@ page_sections:
       past it's original intended use.<br><br>The lack of accountability in the dissemination
       of hate speech also has parallels with our current condition, where this language
       is now propelled and reflected digitally. Though technology leaders are quick
-      to shrug and opine that "you can't put the genie back in the bottle," algorithms,
+      to deflect and opine that "you can't put the genie back in the bottle," algorithms,
       and these collected works, have flesh and blood authors behind them, and those
       authors very often have commercial and economic interests behind their creations.
 - template: 3-column-text
