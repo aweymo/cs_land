@@ -434,8 +434,9 @@ page_sections:
     href="https://aweymo.github.io/CS.2/data.html" title="CB_Data">CollectionBuilder
     Object Repository</a>.<br><br>A full list of text mining resources for all community
     groups can be viewed <a href="uploads/uploads/2022/full-list-of-resources.pdf"
-    title="full list">here</a>.<br><br>· Vorwärtz! (Forward!), German language newspaper,
-    1891/01/15'
+    title="full list">here</a>.<br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage064"
+    title="Verwartz! German Language Newspaper"><strong>· </strong></a>Vorwärtz! (Forward!),
+    German language newspaper, 1891/01/15'
 - template: hero-banner-w-image
   block: hero-2
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
