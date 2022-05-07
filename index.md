@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: https://aweymo.github.io/CS.2/findings.html
+    link_text: Findings
   - link: https://aweymo.github.io/CS.2/data.html
     link_text: Repository Database
   - link: https://aweymo.github.io/CS.2/map.html
