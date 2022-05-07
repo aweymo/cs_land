@@ -46,7 +46,8 @@ page_sections:
     interests, which may still influence our perceptions today.</strong>"
   slug: tag.2
   content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage063"
-    title="&quot;Bewildering Sights&quot;">·</a> Tacoma Evening News, 1901/10/15
+    title="&quot;Bewildering Sights&quot;"><strong>·</strong></a><strong> </strong>Tacoma
+    Evening News, 1901/10/15
   media:
     image: "/uploads/2022/05/01/ten_15101901_c.png"
     alt_text: ''
@@ -61,8 +62,9 @@ page_sections:
     periodicals, legacy oral history recordings and archival collections describing
     immigrant communities in Washington and Oregon and visualize these trends in language
     and how they may have been influenced by specific commercial interests in the
-    nineteenth and twentieth centuries.<br><br><br><br>· "1903 Prosperity Edition"
-    Tacoma Evening News 1903/01/12
+    nineteenth and twentieth centuries.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
+    title="&quot;1903 Prosperity Edition&quot;"><strong>· </strong></a>"1903 Prosperity
+    Edition" Tacoma Evening News 1903/01/12
   cta:
     enabled: false
     url: ''
