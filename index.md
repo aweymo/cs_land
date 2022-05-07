@@ -12,7 +12,7 @@ page_sections:
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
     Sam Sees The Danger&quot;"><strong>· </strong></a>"Uncle Sam Sees The Danger"
     The American Standard, 1901/02<br><br>(Click on the bullet point of each image
-    credit to visit the item's page)
+    credit within this exhibit to visit the item's page)
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
