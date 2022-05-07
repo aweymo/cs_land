@@ -463,14 +463,16 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: https://aweymo.github.io/CS.2/data.html
-    link_text: Data
+  - link: https://aweymo.github.io/CS_OH.3/transcripts.html
+    link_text: OH Transcripts
   - link: https://aweymo.github.io/cs_land/
     link_text: Landing Page
   - link: https://aweymo.github.io/CS.2/browse.html
     link_text: Browse
   - link: https://aweymo.github.io/CS.2/map.html
     link_text: Map
+  - link: https://aweymo.github.io/CS.2/data.html
+    link_text: Data
   logo: uploads/uploads/2022/ill030_logo.png
 
 ---
