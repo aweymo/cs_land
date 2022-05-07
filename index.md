@@ -368,8 +368,10 @@ page_sections:
     to illuminate their active role in working with labor leaders and media outlets
     to disseminate these concepts. Clarifying the roles of industrial and commercial
     forces during this time would create very compelling historical connections between
-    the publication of materials and their echoing impact on these communities.<br><br><br><br>·
-    "Puyallup Reservation Indian School" The Evening News, 1903/01/12
+    the publication of materials and their echoing impact on these communities.<br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage139" title="&quot;Puyallup
+    Reservation Indian School&quot;"><strong>· </strong></a>"Puyallup Reservation
+    Indian School" The Evening News, 1903/01/12
   cta:
     enabled: false
     url: ''
