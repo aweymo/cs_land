@@ -24,7 +24,7 @@ page_sections:
     link_text: Oral History Subjects
   - link: https://aweymo.github.io/hnv_2/
     link_text: Historical Network Visualization
-  logo: ''
+  logo: uploads/uploads/2022/ill030_logo.png
 - template: hero-banner-w-image
   block: hero-2
   slug: features
