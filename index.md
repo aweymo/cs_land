@@ -477,6 +477,8 @@ page_sections:
     link_text: OH Subjects
   - link: https://aweymo.github.io/hnv_2/
     link_text: Network Visualization
+  - link: https://aweymo.github.io/CS.2/findings.html
+    link_text: Findings
   logo: uploads/uploads/2022/ill030_logo.png
 
 ---
