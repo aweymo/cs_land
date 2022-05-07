@@ -9,8 +9,9 @@ page_sections:
   headline: "<strong>Mapping Language:<br></strong>Representation of Immigrant Communities
     in the Pacific Northwest, 1880-1930"
   content: <strong>Andrew Weymouth 2022 Capstone for the University of Washington</strong><br><br><br><br><br><br><br><br><br><a
-    href="" title=""><strong>· </strong>"Uncle Sam Sees The Danger" The American Standard,
-    1901/02</a>
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
+    Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees The Danger" The
+    American Standard, 1901/02</a>
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
