@@ -6,18 +6,18 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: https://aweymo.github.io/CS.2/findings.html
-    link_text: Findings
-  - link: https://aweymo.github.io/CS.2/data.html
-    link_text: Repository Database
-  - link: https://aweymo.github.io/CS.2/map.html
-    link_text: Repository Map
-  - link: https://aweymo.github.io/CS.2/subjects.html
-    link_text: Repository Subjects
-  - link: https://aweymo.github.io/CS.2/browse.html
-    link_text: Browse Repository
   - link: https://aweymo.github.io/cs_land/
     link_text: Home
+  - link: https://aweymo.github.io/CS.2/browse.html
+    link_text: Browse Repository
+  - link: https://aweymo.github.io/CS.2/subjects.html
+    link_text: Repository Subjects
+  - link: https://aweymo.github.io/CS.2/map.html
+    link_text: Repository Map
+  - link: https://aweymo.github.io/CS.2/data.html
+    link_text: Repository Database
+  - link: https://aweymo.github.io/CS.2/findings.html
+    link_text: Findings
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
