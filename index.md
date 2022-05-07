@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: https://aweymo.github.io/CS.2/browse.html
+    link_text: Browse Repository
   - link: https://aweymo.github.io/cs_land/
     link_text: Home
   logo: ''
