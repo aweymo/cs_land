@@ -127,7 +127,7 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/05/01/wmj_b.png"
-    caption: "· Washington Masonic Journal, 1925/06"
+    caption: "· Washington Masonic Journal, 1925/06, "
   image_2:
     image: "/uploads/2022/05/01/eb_01121889_c.png"
     caption: "· Epworth Budget, 1889/11/21"
@@ -161,7 +161,8 @@ page_sections:
   content: Paraphrasing the official statement of the Tacoma Public Library's Northwest
     Room, you will encounter offensive, oppressive, racist, and/or outdated references
     and representations within this exhibit. The material is made accessible for transparency,
-    accountability, and education.<br><br><br><br>· Tacoma Tidende, 1897/10/30
+    accountability, and education.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
+    title="Tacoma Tidende Front Page"><strong>· </strong></a>Tacoma Tidende, 1897/10/30
   cta:
     enabled: false
     url: ''
