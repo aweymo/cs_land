@@ -33,11 +33,11 @@ page_sections:
   - link: https://aweymo.github.io/CS.2/data.html
     link_text: Data
   - link: https://aweymo.github.io/CS_OH.3/transcripts.html
-    link_text: Oral History Transcripts
+    link_text: OH Transcripts
   - link: https://aweymo.github.io/CS_OH.3/subjects.html
-    link_text: Oral History Subjects
+    link_text: OH Subjects
   - link: https://aweymo.github.io/hnv_2/
-    link_text: Historical Network Visualization
+    link_text: Network Visualization
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Findings
   logo: uploads/uploads/2022/ill030_logo.png
