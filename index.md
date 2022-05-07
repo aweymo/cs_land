@@ -301,8 +301,9 @@ page_sections:
     <span class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
     <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
     class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
-    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br></span>·
-    "Tacoma Coal Bunker" Commerce, 1886/06/03
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br></span><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027" title="&quot;Tacoma
+    Coal Bunkers&quot;"><strong>·</strong></a> "Tacoma Coal Bunker" Commerce, 1886/06/03
   slug: in
   headline: ''
   media:
