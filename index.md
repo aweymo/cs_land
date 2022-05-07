@@ -463,10 +463,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: https://aweymo.github.io/CS.2/browse.html
-    link_text: Browse
+  - link: https://aweymo.github.io/CS.2/map.html
+    link_text: Map
   - link: https://aweymo.github.io/cs_land/
     link_text: Landing Page
-  logo: ''
+  - link: https://aweymo.github.io/CS.2/browse.html
+    link_text: Browse
+  logo: uploads/uploads/2022/ill030_logo.png
 
 ---
