@@ -43,36 +43,6 @@ page_sections:
   - link: https://aweymo.github.io/hnv_2/
     link_text: Historical Network Visualization
   logo: uploads/uploads/2022/ill030_logo.png
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - link: ''
-    link_text: asdfasdfasdfa
-  - link: ''
-    link_text: asdfasfdasdfa
-  - link: ''
-    link_text: asdfasdf
-  logo: ''
-  cta:
-    url: ''
-    button_text: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: HNV
-    content: <a href="https://aweymo.github.io/hnv_2/" title="Historical Network Visualization"><strong>Historical
-      Network Visualization</strong></a>
-  col_2:
-    headline: ''
-    slug: cb_repo
-    content: <a href="https://aweymo.github.io/CS.2/" title="CB Object Repo"><strong>CollectionBuilder
-      Object Repository</strong></a>
-  col_3:
-    headline: ''
-    slug: oh_repo
-    content: <a href="https://aweymo.github.io/CS_OH.3/" title="OH(as)Data"><strong>OH(as)Data
-      Oral History Repository</strong></a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
