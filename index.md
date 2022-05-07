@@ -3,6 +3,12 @@ layout: blocks
 title: Mapping Language
 date: 2022-04-30T00:00:00.000-07:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: https://aweymo.github.io/cs_land/
+    link_text: Home
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
