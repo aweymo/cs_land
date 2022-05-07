@@ -47,6 +47,8 @@ page_sections:
   block: header-2
   navigation:
   - link: ''
+    link_text: asdfasdfasdfa
+  - link: ''
     link_text: asdfasfdasdfa
   - link: ''
     link_text: asdfasdf
