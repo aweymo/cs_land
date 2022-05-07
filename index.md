@@ -45,10 +45,11 @@ page_sections:
     Pacific Northwest from 1880-1930, reflects labor, industrial and land development
     interests, which may still influence our perceptions today.</strong>"
   slug: tag.2
-  content: "<br><br><br><br>· Tacoma Evening News, 1901/10/15"
+  content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage063"
+    title="&quot;Bewildering Sights&quot;">·</a> Tacoma Evening News, 1901/10/15
   media:
     image: "/uploads/2022/05/01/ten_15101901_c.png"
-    alt_text: Tacoma Evening News, 10/15/1901
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/04/30/ten12091903.png"
