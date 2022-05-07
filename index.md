@@ -482,6 +482,6 @@ page_sections:
   logo: uploads/uploads/2022/ill030_logo.png
 - template: simple-footer
   block: footer-1
-  content: <img src="uploads/uploads/2022/ill030_logo_sm.png">
+  content: <img src="uploads/uploads/2022/ill030_logo_sm.png" title="small" alt="small">
 
 ---
