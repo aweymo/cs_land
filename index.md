@@ -11,7 +11,8 @@ page_sections:
   content: <strong>Andrew Weymouth 2022 Capstone for the University of Washington</strong><br><br><br><br><br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
     Sam Sees The Danger&quot;"><strong>· </strong></a>"Uncle Sam Sees The Danger"
-    The American Standard, 1901/02
+    The American Standard, 1901/02<br><br>(Click on the bullet point of each image
+    credit to visit the item's page)
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
