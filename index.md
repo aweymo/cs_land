@@ -27,9 +27,7 @@ page_sections:
   - link: https://aweymo.github.io/cs_land/
     link_text: Home
   - link: https://aweymo.github.io/CS.2/browse.html
-    link_text: Browse Object Repository
-  - link: https://aweymo.github.io/CS.2/subjects.html
-    link_text: Repository Subjects
+    link_text: Browse Repository
   - link: https://aweymo.github.io/CS.2/map.html
     link_text: Repository Map
   - link: https://aweymo.github.io/CS.2/data.html
