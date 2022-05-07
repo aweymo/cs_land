@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: https://aweymo.github.io/CS.2/map.html
+    link_text: Repository Map
   - link: https://aweymo.github.io/CS.2/subjects.html
     link_text: Repository Subjects
   - link: https://aweymo.github.io/CS.2/browse.html
