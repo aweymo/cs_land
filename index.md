@@ -6,8 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: https://aweymo.github.io/CS_OH.3/transcripts.html
-    link_text: Oral History Transcripts
+  - link: https://aweymo.github.io/CS_OH.3/subjects.html
+    link_text: Oral History Subjects
   - link: https://aweymo.github.io/cs_land/
     link_text: Home
   - link: https://aweymo.github.io/CS.2/browse.html
@@ -20,6 +20,8 @@ page_sections:
     link_text: Repository Database
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Findings
+  - link: https://aweymo.github.io/CS_OH.3/transcripts.html
+    link_text: Oral History Transcripts
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
