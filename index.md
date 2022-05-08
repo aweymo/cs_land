@@ -385,7 +385,7 @@ page_sections:
     content: I would like to thank Anna Trammell, Spencer Bowman and Ilona Perry at
       the Northwest Room for being incredibly generous with their time and effort
       in supporting this project. I would also like to thank Kate Thornhill at the
-      University of Oregon for advice on shaping and hosting this project.
+      University of Oregon for advice on shaping and hosting this work.
   col_2:
     headline: ''
     slug: a2
