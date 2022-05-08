@@ -31,7 +31,7 @@ page_sections:
   - link: https://aweymo.github.io/CS.2/map.html
     link_text: Repository Map
   - link: https://aweymo.github.io/CS.2/data.html
-    link_text: Data
+    link_text: Repository Data
   - link: https://aweymo.github.io/CS_OH.3/transcripts.html
     link_text: OH Transcripts
   - link: https://aweymo.github.io/CS_OH.3/subjects.html
