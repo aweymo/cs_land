@@ -37,7 +37,7 @@ page_sections:
   - link: https://aweymo.github.io/CS_OH.3/subjects.html
     link_text: OH Subjects
   - link: https://aweymo.github.io/CS.2/findings.html
-    link_text: Findings
+    link_text: Text Mining Visualizations
   - link: https://aweymo.github.io/hnv_2/
     link_text: Network Visualization
   logo: uploads/uploads/2022/ill030_logo.png
