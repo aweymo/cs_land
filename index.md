@@ -339,9 +339,7 @@ page_sections:
       to that community group would be removed from visualizations, including slurs.
       This was not <strong>done to sanitize the material</strong>, rather to focus
       on the underlying industrial and economic elements that may have been influencing
-      this media.<br><br>This method is still developing and being improved upon.
-      This data and the overall project serves as a proof of concept towards future
-      research.
+      this media.
 - template: content-feature
   block: feature-1
   media_alignment: Right
