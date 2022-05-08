@@ -377,6 +377,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: uploads/uploads/2022/overview-gif.gif
+  slug: over
+  caption: Mapping Language Content Overview
 - template: 2-column-text
   block: two-column-1
   col_1:
