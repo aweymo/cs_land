@@ -20,7 +20,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: uploads/2022/04/30/as021901.png
+  background_image: uploads/uploads/2022/as_021901_land.png
 - template: navigation-header
   block: header-1
   navigation:
