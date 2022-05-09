@@ -227,17 +227,15 @@ page_sections:
     a portion or complete transcript of the material within a single browser window.
     Each element within the visualization contains links to the digital object, which
     can be analyzed in greater detail or listened to in full, in the case of the oral
-    history recordings.<br><br>· Using the <a href="https://aweymo.github.io/CS.2/"
-    title="CollectionBuilder Object Repository">CollectionBuilder Object Repository</a>,
-    researchers can explore the individual items utilized in this research, <a href="https://aweymo.github.io/CS.2/subjects.html"
-    title="subject">browse by subject.</a> locate each element <a href="https://aweymo.github.io/CS.2/map.html"
+    history recordings.<br><br>· Using the CollectionBuilder Object Repository, researchers
+    can explore the individual items utilized in this research, <a href="https://aweymo.github.io/CS.2/browse.html"
+    title="browse">browse items</a>. locate each element <a href="https://aweymo.github.io/CS.2/map.html"
     title="Map">geographically</a>, access <a href="https://aweymo.github.io/CS.2/findings.html"
     title="Findings">interactive text mining visualizations</a> and <a href="https://aweymo.github.io/CS.2/data.html"
     title="Data">easily download data</a> to pursue their own research. <br><br>·
-    Using <a href="https://aweymo.github.io/CS_OH.3/" title="OH">CollectionBuilder's
-    OH(as)Data Oral History Repository</a>, researchers can listen to recordings,
-    <a href="https://aweymo.github.io/CS_OH.3/transcripts.html" title="Transcripts">engage
-    with text</a> and even <a href="https://aweymo.github.io/CS_OH.3/subjects.html"
+    Using CollectionBuilder's OH(as)Data Oral History Repository, researchers can
+    listen to recordings, <a href="https://aweymo.github.io/CS_OH.3/transcripts.html"
+    title="Transcripts">engage with text</a> and even <a href="https://aweymo.github.io/CS_OH.3/subjects.html"
     title="Subject">organize recordings visually</a> by subject matter.<br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage028" title="Meeting
     Program Book, &quot;American Problems&quot;"><strong>· </strong></a>Meeting Program
