@@ -1,10 +1,10 @@
 ---
 main:
-- url: https://aweymo.github.io/CS_OH.3/
-  weight: 5
-  title: OH(as)Data Oral History Repository
-- url: https://aweymo.github.io/CS.2/
-  weight: 4
-  title: CollectionBuilder Repository
-- weight: 3
+- weight: 1
   title: Historical Network Visualization
+- url: https://aweymo.github.io/CS.2/
+  weight: 2
+  title: CollectionBuilder Repository
+- url: https://aweymo.github.io/CS_OH.3/
+  weight: 3
+  title: OH(as)Data Oral History Repository
