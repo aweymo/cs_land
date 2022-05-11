@@ -480,8 +480,18 @@ page_sections:
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Findings
   logo: uploads/uploads/2022/ill030_logo.png
-block: header-1
+block: hero-2
 navigation: []
 logo: ''
+background_image: ''
+image:
+  image: ''
+  alt_text: ''
+headline: ''
+content: ''
+cta:
+  enabled: false
+  url: ''
+  button_text: ''
 
 ---
