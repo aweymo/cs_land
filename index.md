@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Mapping Language
-date: 2022-04-30T00:00:00.000-07:00
+date: '2022-04-30T00:00:00.000-07:00'
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
@@ -113,11 +113,10 @@ page_sections:
     slug: bg2
     content: A<span class="Apple-converted-space"> </span>prominent theme throughout
       this research is the concept of "retaining" the American character in Washington
-      and Oregon, when it was clearly roiling with development. A near constant theme
-      in the collection are settlers gauging other immigrant groups on their ability
-      to assimilate or "Americanize," with particular focus on differentiating between
-      "New Immigrants" and "Old Immigrants," for groups that may have only arrived
-      within ten years of one another.
+      and Oregon, when it was clearly churning with development. Settlers perpetually
+      gauge other immigrant groups on their ability to assimilate or "Americanize,"
+      with particular focus on differentiating between "New Immigrants" and "Old Immigrants,"
+      though they may have only arrived within ten years of one another.
   col_3:
     headline: ''
     slug: bg3
@@ -481,5 +480,10 @@ page_sections:
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Findings
   logo: uploads/uploads/2022/ill030_logo.png
+block: header-1
+navigation: []
+logo: ''
+published: false
 
 ---
+### Browse
