@@ -3,8 +3,8 @@ title: Mapping Language
 author: Andrew Weymouth
 email: aweymo@uw.edu
 description: Representation of  Immigrant Communities in the Pacific Northwest, 1880-1930
-baseurl: "/cs_land"
-url: https://aweymo.github.io/cs_land
+baseurl: "/cs_land_4"
+url: https://aweymo.github.io//cs_land_4
 defaults:
 - scope:
     path: ''
@@ -15,4 +15,4 @@ plugins:
 - jekyll-menus
 menu:
   main:
-    weight: 1
+    weight: "1"
